@@ -1,0 +1,90 @@
+name: Podgląd nowego wyglądu
+
+# Podgląd gałęzi roboczej strony IM UWr (repozytorium IM-UWr/Web-Core) z prawdziwymi treściami z CMS (repozytoria
+# IM-UWr/Web-*), publikowany na GitHub Pages tego repozytorium. Obecna strona (im-uwr.github.io/Web-Core/) się nie zmienia.
+# - Ręcznie: Actions → „Podgląd nowego wyglądu” → Run workflow (można podać inną gałąź Web-Core).
+# - Automatycznie: co godzinę (nowe wpisy z CMS i ostatnie zmiany na gałęzi) i po zmianie tego pliku.
+# Zbudowana strona trafia też na gałąź „zbudowana” tego repozytorium (bez PDF-ów i dużych plików) — do zrzutów ekranu.
+on:
+  workflow_dispatch:
+    inputs:
+      galaz:
+        description: 'Gałąź IM-UWr/Web-Core'
+        required: false
+        default: 'wyglad/zalozyciele'
+  schedule:
+    - cron: '23 * * * *'
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  GALAZ: ${{ inputs.galaz || 'wyglad/zalozyciele' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kod strony (IM-UWr/Web-Core)
+        uses: actions/checkout@v5
+        with:
+          repository: IM-UWr/Web-Core
+          ref: ${{ env.GALAZ }}
+
+      - name: Treści z repozytoriów IM-UWr/Web-*
+        run: |
+          echo "::notice title=Gałąź::${GALAZ} @ $(git rev-parse --short HEAD) — $(git log -1 --format=%s)"
+          python3 skrypty/pobierz_tresci.py
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Instalacja zależności
+        run: npm install --no-audit --no-fund
+
+      - name: Konfiguracja GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Budowanie strony
+        run: |
+          export SITE_URL="${{ steps.pages.outputs.origin }}"
+          export BASE_PATH="${{ steps.pages.outputs.base_path }}"
+          npm run build
+          echo "::notice title=Wynik::$(find dist -name '*.html' | wc -l) stron HTML, $(du -sh dist | cut -f1)"
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+      - name: Kopia zbudowanej strony na gałęzi „zbudowana” (do zrzutów)
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          rsync -a --exclude '*.pdf' --exclude '*.tex' --exclude '*.zip' --max-size=3m dist/ "$RUNNER_TEMP/zbudowana/"
+          cd "$RUNNER_TEMP/zbudowana"
+          git init -q
+          git add -A
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -qm "Podgląd ${GALAZ} — $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:refs/heads/zbudowana
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publikacja
+        id: deployment
+        uses: actions/deploy-pages@v4
