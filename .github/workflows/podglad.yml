@@ -62,9 +62,11 @@ jobs:
           npm run build
           echo "::notice title=Wynik::$(find dist -name '*.html' | wc -l) stron HTML, $(du -sh dist | cut -f1)"
 
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: dist
+      # Pliki stylów i skryptów mają w nazwach skróty treści, więc każda przebudowa je zmienia. Strona zapamiętana przez
+      # przeglądarkę (albo wczytana z wyprzedzeniem) sprzed przebudowy szukałaby starych plików i wyświetliłaby się bez
+      # wyglądu. Dlatego publikujemy też pliki z poprzedniej wersji (z gałęzi „zbudowana”, sprzed jej nadpisania).
+      - name: Poprzednia wersja (pliki stylów i skryptów)
+        run: git clone -q --depth 1 --branch zbudowana "https://github.com/${GITHUB_REPOSITORY}.git" "$RUNNER_TEMP/poprzednia" || true
 
       - name: Kopia zbudowanej strony na gałęzi „zbudowana” (do zrzutów)
         env:
@@ -77,6 +79,15 @@ jobs:
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
             commit -qm "Podgląd ${GALAZ} — $(date -u +%Y-%m-%dT%H:%MZ)"
           git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:refs/heads/zbudowana
+
+      - name: Pliki stylów i skryptów z poprzedniej wersji
+        run: |
+          if [ -d "$RUNNER_TEMP/poprzednia/_astro" ]; then cp -rn "$RUNNER_TEMP/poprzednia/_astro/." dist/_astro/; fi
+          echo "::notice title=Pliki _astro::$(ls dist/_astro | wc -l) (bieżące i z poprzedniej wersji)"
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
 
   deploy:
     needs: build
