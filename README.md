@@ -5,6 +5,10 @@ Repozytorium **tylko do podglądu**. Nie ma tu kodu strony. Workflow `.github/wo
 i prawdziwe treści z CMS (repozytoria IM-UWr/Web-*), buduje stronę i publikuje ją na GitHub Pages tego repozytorium.
 
 - **Podgląd:** https://im-uwr.github.io/Web-Podglad/ (nowy wygląd tylko na komputerze, ≥ 761 px; na telefonie strona wygląda jak obecna).
+- **⚠️ TEST telefonu:** https://im-uwr.github.io/Web-Podglad/test-telefon/ — próbna wersja „Założycieli” na telefon
+  (≤ 760 px), z plakietką „TEST · wersja na telefon”. To łatka `testy/telefon-TEST.patch` nakładana na tę samą gałąź
+  tylko przy budowaniu podglądu. **Nie wzorować się, nie nakładać na Web-Core** — projekt telefonu nie jest ustalony.
+  Gdy łatka przestanie się nakładać, główny podgląd publikuje się dalej, a w podsumowaniu workflow jest ostrzeżenie.
 - **Obecna strona** zostaje bez zmian: https://im-uwr.github.io/Web-Core/
 - **Odświeżanie:** co godzinę, po zmianie workflow albo ręcznie (Actions → „Podgląd nowego wyglądu” → Run workflow; można podać inną gałąź Web-Core).
 - Gałąź `zbudowana` zawiera ostatnią zbudowaną stronę (bez PDF-ów i dużych plików) — do zrzutów ekranu.
