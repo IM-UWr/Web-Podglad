@@ -5,13 +5,15 @@ name: Podgląd nowego wyglądu
 # - Ręcznie: Actions → „Podgląd nowego wyglądu” → Run workflow (można podać inną gałąź Web-Core).
 # - Automatycznie: co godzinę (nowe wpisy z CMS i ostatnie zmiany na gałęzi) i po zmianie tego pliku.
 # Zbudowana strona trafia też na gałąź „zbudowana” tego repozytorium (bez PDF-ów i dużych plików) — do zrzutów ekranu.
+# Treści: main repozytorium (to, co w CMS) i, jeśli repozytorium ją ma, gałąź o tej samej nazwie co gałąź kodu.
+# Zmiany do oglądania leżą tylko na tej gałęzi, bo z main repozytoriów treści buduje się obecna strona.
 on:
   workflow_dispatch:
     inputs:
       galaz:
         description: 'Gałąź IM-UWr/Web-Core'
         required: false
-        default: 'wyglad/zalozyciele'
+        default: 'wyglad/zlecenie-16'
   schedule:
     - cron: '23 * * * *'
   push:
@@ -27,7 +29,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  GALAZ: ${{ inputs.galaz || 'wyglad/zalozyciele' }}
+  GALAZ: ${{ inputs.galaz || 'wyglad/zlecenie-16' }}
 
 jobs:
   build:
@@ -48,7 +50,23 @@ jobs:
       - name: Treści z repozytoriów IM-UWr/Web-*
         run: |
           echo "::notice title=Gałąź::${GALAZ} @ $(git rev-parse --short HEAD) — $(git log -1 --format=%s)"
-          python3 skrypty/pobierz_tresci.py
+          TRESCI="$RUNNER_TEMP/tresci"
+          for r in $(python3 -c "import json; print(*json.load(open('tresci.json'))['repozytoria'])"); do
+            git clone -q --filter=blob:none "https://github.com/IM-UWr/$r.git" "$TRESCI/$r"
+            if git -C "$TRESCI/$r" fetch -q origin "refs/heads/$GALAZ:refs/remotes/origin/podglad" 2>/dev/null; then
+              if git -C "$TRESCI/$r" -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+                  merge -q --no-edit origin/podglad; then
+                echo "$r: main + $GALAZ"
+              else
+                git -C "$TRESCI/$r" merge --abort
+                git -C "$TRESCI/$r" checkout -q origin/podglad
+                echo "::warning title=Treści::$r: konflikt z main, użyta sama gałąź $GALAZ"
+              fi
+            else
+              echo "$r: main"
+            fi
+          done
+          python3 skrypty/pobierz_tresci.py --lokalnie "$TRESCI"
 
       - uses: actions/setup-node@v5
         with:
