@@ -1,19 +1,22 @@
 name: Podgląd nowego wyglądu
 
-# Podgląd gałęzi roboczej strony IM UWr (repozytorium IM-UWr/Web-Core) z prawdziwymi treściami z CMS (repozytoria
-# IM-UWr/Web-*), publikowany na GitHub Pages tego repozytorium. Obecna strona (im-uwr.github.io/Web-Core/) się nie zmienia.
+# Strona IM UWr: kod z main repozytorium IM-UWr/Web-Core, treści z main repozytoriów IM-UWr/Web-* (to, co w CMS),
+# publikowana na GitHub Pages tego repozytorium. Budowanie w Web-Core (deploy.yml) jest wyłączone od 7.11.2026.
 # - Ręcznie: Actions → „Podgląd nowego wyglądu” → Run workflow (można podać inną gałąź Web-Core).
-# - Automatycznie: co godzinę (nowe wpisy z CMS i ostatnie zmiany na gałęzi) i po zmianie tego pliku.
+# - Po zmianie treści albo planu zajęć: sygnał repository_dispatch z Web-Core (podglad-przekaznik.yml przekazuje
+#   „tresc-zmieniona” z repozytoriów treści i „przebuduj” z plan-zajec.yml).
+# - Automatycznie: co godzinę (w praktyce GitHub uruchamia co kilka godzin) i po zmianie tego pliku.
 # Zbudowana strona trafia też na gałąź „zbudowana” tego repozytorium (bez PDF-ów i dużych plików) — do zrzutów ekranu.
-# Treści: main repozytorium (to, co w CMS) i, jeśli repozytorium ją ma, gałąź o tej samej nazwie co gałąź kodu.
-# Zmiany do oglądania leżą tylko na tej gałęzi, bo z main repozytoriów treści buduje się obecna strona.
+# Przy ręcznym podaniu innej gałęzi kodu do treści z main dołączana jest gałąź o tej samej nazwie, jeśli repozytorium ją ma.
 on:
   workflow_dispatch:
     inputs:
       galaz:
         description: 'Gałąź IM-UWr/Web-Core'
         required: false
-        default: 'wyglad/zlecenie-16'
+        default: 'main'
+  repository_dispatch:
+    types: [tresc-zmieniona, przebuduj]
   schedule:
     - cron: '23 * * * *'
   push:
@@ -29,7 +32,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  GALAZ: ${{ inputs.galaz || 'wyglad/zlecenie-16' }}
+  GALAZ: ${{ inputs.galaz || 'main' }}
 
 jobs:
   build:
@@ -48,12 +51,14 @@ jobs:
           sparse-checkout: testy
 
       - name: Treści z repozytoriów IM-UWr/Web-*
+        env:
+          ZDARZENIE: ${{ github.event_name }} ${{ github.event.action }} ${{ github.event.client_payload.repo }}
         run: |
-          echo "::notice title=Gałąź::${GALAZ} @ $(git rev-parse --short HEAD) — $(git log -1 --format=%s)"
+          echo "::notice title=Gałąź::${GALAZ} @ $(git rev-parse --short HEAD) — $(git log -1 --format=%s) (${ZDARZENIE})"
           TRESCI="$RUNNER_TEMP/tresci"
           for r in $(python3 -c "import json; print(*json.load(open('tresci.json'))['repozytoria'])"); do
-            git clone -q --filter=blob:none "https://github.com/IM-UWr/$r.git" "$TRESCI/$r"
-            if git -C "$TRESCI/$r" fetch -q origin "refs/heads/$GALAZ:refs/remotes/origin/podglad" 2>/dev/null; then
+            git clone -q --filter=blob:none --branch main "https://github.com/IM-UWr/$r.git" "$TRESCI/$r"
+            if [ "$GALAZ" != main ] && git -C "$TRESCI/$r" fetch -q origin "refs/heads/$GALAZ:refs/remotes/origin/podglad" 2>/dev/null; then
               if git -C "$TRESCI/$r" -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
                   merge -q --no-edit origin/podglad; then
                 echo "$r: main + $GALAZ"
