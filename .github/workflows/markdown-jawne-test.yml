@@ -1,0 +1,74 @@
+name: Jawny Markdown — izolowany test
+
+on:
+  workflow_dispatch:
+    inputs:
+      galaz:
+        description: Gałąź Web-Core i Web-Studia
+        required: true
+        default: main
+  push:
+    branches: [main]
+    paths: [.github/workflows/markdown-jawne-test.yml]
+
+permissions:
+  contents: read
+
+env:
+  GALAZ: ${{ inputs.galaz || 'main' }}
+
+concurrency:
+  group: markdown-jawne-test
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Kod wskazanej gałęzi
+        uses: actions/checkout@v5
+        with:
+          repository: IM-UWr/Web-Core
+          ref: ${{ env.GALAZ }}
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - name: Treści — wymagana wskazana gałąź Web-Studia
+        run: |
+          python3 skrypty/pobierz_tresci.py --galaz "$GALAZ" --wymagaj Web-Studia
+          git rev-parse HEAD > .tresci/web-core-sha.txt
+      - run: npm ci --no-audit --no-fund
+      - name: Parser i formularze
+        run: |
+          npm run test:jawne
+          node skrypty/sprawdz-jawny-markdown.mjs .tresci/Web-Studia
+          npm run check
+      - name: Budowanie bez publikacji
+        env:
+          SITE_URL: https://im-uwr.github.io
+          BASE_PATH: /Web-Core
+        run: npm run build
+      - name: Testy przeglądarkowe PL i EN
+        run: |
+          npx playwright install --with-deps chromium
+          npm run test:jawne-ui
+      - name: Gotowa strona i źródła testu
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-jawne-strona-testowa
+          retention-days: 14
+          include-hidden-files: true
+          path: |
+            dist/
+            .tresci/zrodla.json
+            .tresci/web-core-sha.txt
+      - name: Zrzuty i wynik testów
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-jawne-testy
+          include-hidden-files: true
+          path: .test-jawne/
+          retention-days: 14
