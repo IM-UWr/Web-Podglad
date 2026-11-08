@@ -2,12 +2,20 @@ name: Jawny Markdown — izolowany test
 
 on:
   workflow_dispatch:
+    inputs:
+      galaz:
+        description: Gałąź Web-Core i Web-Studia
+        required: true
+        default: main
   push:
-    branches: [markdown-jawne-bloki-2026-11]
+    branches: [main]
     paths: [.github/workflows/markdown-jawne-test.yml]
 
 permissions:
   contents: read
+
+env:
+  GALAZ: ${{ inputs.galaz || 'main' }}
 
 concurrency:
   group: markdown-jawne-test
@@ -18,18 +26,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
-      - name: Kod wyłącznie z nowego brancha
+      - name: Kod wskazanej gałęzi
         uses: actions/checkout@v5
         with:
           repository: IM-UWr/Web-Core
-          ref: markdown-jawne-bloki-2026-11
+          ref: ${{ env.GALAZ }}
       - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
-      - name: Treści — wymagany nowy branch Web-Studia
+      - name: Treści — wymagana wskazana gałąź Web-Studia
         run: |
-          python3 skrypty/pobierz_tresci.py --galaz markdown-jawne-bloki-2026-11 --wymagaj Web-Studia
+          python3 skrypty/pobierz_tresci.py --galaz "$GALAZ" --wymagaj Web-Studia
           git rev-parse HEAD > .tresci/web-core-sha.txt
       - run: npm ci --no-audit --no-fund
       - name: Parser i formularze
