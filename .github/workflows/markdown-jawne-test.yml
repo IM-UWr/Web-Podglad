@@ -1,0 +1,66 @@
+name: Jawny Markdown — izolowany test
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [markdown-jawne-bloki-2026-11]
+    paths: [.github/workflows/markdown-jawne-test.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: markdown-jawne-test
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Kod wyłącznie z nowego brancha
+        uses: actions/checkout@v5
+        with:
+          repository: IM-UWr/Web-Core
+          ref: markdown-jawne-bloki-2026-11
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - name: Treści — wymagany nowy branch Web-Studia
+        run: |
+          python3 skrypty/pobierz_tresci.py --galaz markdown-jawne-bloki-2026-11 --wymagaj Web-Studia
+          git rev-parse HEAD > .tresci/web-core-sha.txt
+      - run: npm ci --no-audit --no-fund
+      - name: Parser i formularze
+        run: |
+          npm run test:jawne
+          node skrypty/sprawdz-jawny-markdown.mjs .tresci/Web-Studia
+          npm run check
+      - name: Budowanie bez publikacji
+        env:
+          SITE_URL: https://im-uwr.github.io
+          BASE_PATH: /Web-Core
+        run: npm run build
+      - name: Testy przeglądarkowe PL i EN
+        run: |
+          npx playwright install --with-deps chromium
+          npm run test:jawne-ui
+      - name: Gotowa strona i źródła testu
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-jawne-strona-testowa
+          retention-days: 14
+          include-hidden-files: true
+          path: |
+            dist/
+            .tresci/zrodla.json
+            .tresci/web-core-sha.txt
+      - name: Zrzuty i wynik testów
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-jawne-testy
+          include-hidden-files: true
+          path: .test-jawne/
+          retention-days: 14
