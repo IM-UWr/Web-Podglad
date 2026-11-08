@@ -1,0 +1,71 @@
+name: Test reorganizacji CMS (bez publikacji)
+
+on:
+  push:
+    branches: [cms-reorganizacja-2026-11]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cms-reorganizacja-test
+  cancel-in-progress: true
+
+env:
+  GALAZ: cms-reorganizacja-2026-11
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kod reorganizacji
+        uses: actions/checkout@v5
+        with:
+          repository: IM-UWr/Web-Core
+          ref: cms-reorganizacja-2026-11
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Treści wyłącznie z branchy reorganizacji
+        run: |
+          python3 skrypty/pobierz_tresci.py --galaz "$GALAZ" --scisle
+          git rev-parse HEAD > .tresci/web-core-sha.txt
+      - name: Kontrola treści i formularzy
+        run: |
+          python3 -m pip install PyYAML
+          python3 skrypty/sprawdz_pola_cms.py .tresci
+          python3 skrypty/sprawdz_tresci.py
+      - name: Zależności i test ręcznego menu
+        run: |
+          npm install --no-audit --no-fund
+          npm run test:menu
+          npm run test:bloki
+      - name: Build testowy PL i EN
+        env:
+          SITE_URL: https://im-uwr.github.io
+          BASE_PATH: /Web-Podglad
+        run: npm run build
+      - name: Menu komputerowe i mobilne, PL i EN
+        working-directory: skrypty/test-menu
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+          npm test
+      - name: Zrzuty z testu menu
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cms-reorganizacja-test-menu
+          path: test-menu-results/
+          if-no-files-found: ignore
+      - name: Wynik do pobrania — bez deploy i bez nadpisywania Pages
+        uses: actions/upload-artifact@v4
+        with:
+          name: cms-reorganizacja-strona-testowa
+          path: |
+            dist/
+            .tresci/zrodla.json
+            .tresci/web-core-sha.txt
+          include-hidden-files: true
+          retention-days: 14
