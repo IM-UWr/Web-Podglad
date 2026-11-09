@@ -44,6 +44,12 @@ jobs:
           repository: IM-UWr/Web-Core
           ref: ${{ env.GALAZ }}
 
+      - name: Łatki testowe (to repozytorium, katalog testy/)
+        uses: actions/checkout@v5
+        with:
+          path: .podglad
+          sparse-checkout: testy
+
       - name: Treści z repozytoriów IM-UWr/Web-*
         env:
           ZDARZENIE: ${{ github.event_name }} ${{ github.event.action }} ${{ github.event.client_payload.repo }}
@@ -85,6 +91,25 @@ jobs:
           npm run build
           echo "::notice title=Wynik::$(find dist -name '*.html' | wc -l) stron HTML, $(du -sh dist | cut -f1)"
 
+      # ⚠️ TEST — próbna wersja „Założycieli” na telefon (testy/telefon-TEST.patch), NIE WZOROWAĆ SIĘ.
+      # Łatka nakładana na tę samą gałąź tylko tutaj; wynik pod /test-telefon/. Gdy łatka się nie nałoży albo build
+      # się nie uda — główny podgląd i tak się publikuje (continue-on-error), a w podsumowaniu jest ostrzeżenie.
+      - name: TEST telefonu (/test-telefon/)
+        continue-on-error: true
+        run: |
+          mv dist "$RUNNER_TEMP/glowna"
+          trap 'rm -rf dist; mv "$RUNNER_TEMP/glowna" dist' EXIT
+          if ! git apply .podglad/testy/telefon-TEST.patch; then
+            echo "::warning title=TEST telefonu::łatka testy/telefon-TEST.patch nie nakłada się na ${GALAZ} — podgląd /test-telefon/ nieaktualny"
+            exit 1
+          fi
+          export SITE_URL="${{ steps.pages.outputs.origin }}"
+          export BASE_PATH="${{ steps.pages.outputs.base_path }}/test-telefon"
+          npm run build
+          rsync -a --exclude '*.pdf' --exclude '*.tex' --exclude '*.zip' --max-size=3m dist/ "$RUNNER_TEMP/glowna/test-telefon/"
+          git apply -R .podglad/testy/telefon-TEST.patch
+          echo "::notice title=TEST telefonu::$(find dist -name '*.html' | wc -l) stron pod /test-telefon/"
+
       # Pliki stylów i skryptów mają w nazwach skróty treści, więc każda przebudowa je zmienia. Strona zapamiętana przez
       # przeglądarkę (albo wczytana z wyprzedzeniem) sprzed przebudowy szukałaby starych plików i wyświetliłaby się bez
       # wyglądu. Dlatego publikujemy też pliki z poprzedniej wersji (z gałęzi „zbudowana”, sprzed jej nadpisania).
@@ -106,6 +131,9 @@ jobs:
       - name: Pliki stylów i skryptów z poprzedniej wersji
         run: |
           if [ -d "$RUNNER_TEMP/poprzednia/_astro" ]; then cp -rn "$RUNNER_TEMP/poprzednia/_astro/." dist/_astro/; fi
+          if [ -d "$RUNNER_TEMP/poprzednia/test-telefon/_astro" ] && [ -d dist/test-telefon/_astro ]; then
+            cp -rn "$RUNNER_TEMP/poprzednia/test-telefon/_astro/." dist/test-telefon/_astro/
+          fi
           echo "::notice title=Pliki _astro::$(ls dist/_astro | wc -l) (bieżące i z poprzedniej wersji)"
 
       - uses: actions/upload-pages-artifact@v4
