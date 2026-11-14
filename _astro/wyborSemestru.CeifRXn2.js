@@ -1,0 +1,1 @@
+const f=t=>typeof t=="string"&&/^\d{4}-\d{2}-\d{2}/.test(t)?t.slice(0,10):"";function h(t,d,i=0){let n=-1,r=-1,e=-1;return t.forEach((c,a)=>{const o=f(c.od),u=f(c.do);!o||!u||(n<0&&o<=d&&d<=u&&(n=a),o>d&&(r<0||o<f(t[r].od))&&(r=a),(e<0||u>f(t[e].do))&&(e=a))}),n>=0?n:r>=0?r:e>=0?e:Math.max(0,Math.min(i,t.length-1))}export{h as w};

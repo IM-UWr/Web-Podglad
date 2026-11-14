@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TEST: Otwarte spotkanie Instytutu - podgląd wydarzeń
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:akt-test-2026-11-08-spotkanie-otwarte-instytutu@im-uwr.github.io
+DTSTAMP:20261114T191643Z
+DTSTART;TZID=Europe/Warsaw:20261117T160000
+DTEND;TZID=Europe/Warsaw:20261117T173000
+SUMMARY:TEST: Otwarte spotkanie Instytutu - podgląd wydarzeń
+LOCATION:TEST - miejsce przykładowe\, bez rezerwacji sali
+DESCRIPTION:TEST - przykładowe wydarzenie 17 listopada\, 16:00-17:30. Wpis
+  do sprawdzania kalendarza i list wydarzeń\, nie jest rzeczywistą zapowi
+ edzią.\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/test-2026-11-08-
+ spotkanie-otwarte-instytutu
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/test-2026-11-08-spotka
+ nie-otwarte-instytutu
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TEST: Dzień otwarty matematyki dla kandydatów
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:akt-test-2026-11-06-dzien-otwarty-dla-kandydatow@im-uwr.github.io
+DTSTAMP:20261114T191643Z
+DTSTART;TZID=Europe/Warsaw:20261114T100000
+DTEND;TZID=Europe/Warsaw:20261114T140000
+SUMMARY:TEST: Dzień otwarty matematyki dla kandydatów
+LOCATION:TEST - miejsce przykładowe\, bez rezerwacji sali
+DESCRIPTION:TEST - przykładowe wydarzenie\, nie jest rzeczywistą zapowied
+ zią. Mini-wykłady\, rozmowy ze studentami i kołami naukowymi oraz wszys
+ tko o rekrutacji na matematykę. Sobota\, 14 listopada\, 10:00–14:00.\nh
+ ttps://im-uwr.github.io/Web-Podglad/aktualnosci/test-2026-11-06-dzien-otwa
+ rty-dla-kandydatow
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/test-2026-11-06-dzien-
+ otwarty-dla-kandydatow
+END:VEVENT
+END:VCALENDAR

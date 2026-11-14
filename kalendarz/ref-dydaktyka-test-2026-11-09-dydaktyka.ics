@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TEST: Przykładowy referat - Seminarium Pracowni Dydaktyki i P
+ opularyzacji Matematyki
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-dydaktyka-test-2026-11-09-dydaktyka@im-uwr.github.io
+DTSTAMP:20261114T191643Z
+DTSTART;TZID=Europe/Warsaw:20261109T141500
+DTEND;TZID=Europe/Warsaw:20261109T154500
+SUMMARY:TEST: Przykładowy referat - Seminarium Pracowni Dydaktyki i Popula
+ ryzacji Matematyki
+LOCATION:sala TEST
+DESCRIPTION:Prelegent testowy (Dane testowe - nie jest to rzeczywisty prele
+ gent)\nSeminarium: Seminarium Pracowni Dydaktyki i Popularyzacji Matematyk
+ i\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dydaktyka#test-2026-11-0
+ 9-dydaktyka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dydaktyka#test-2026-11-0
+ 9-dydaktyka
+END:VEVENT
+END:VCALENDAR
