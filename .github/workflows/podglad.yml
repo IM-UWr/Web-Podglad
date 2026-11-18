@@ -99,7 +99,7 @@ jobs:
 
       - name: Pamięć zdjęć — odtworzenie
         id: pamiec
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: node_modules/.astro/assets
           key: ${{ steps.zdjecia.outputs.prefiks }}${{ steps.zdjecia.outputs.skrot }}
@@ -137,7 +137,7 @@ jobs:
 
       - name: Pamięć zdjęć — zapis
         if: steps.porzadki.outputs.klucz != steps.pamiec.outputs.cache-matched-key
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: node_modules/.astro/assets
           key: ${{ steps.porzadki.outputs.klucz }}
