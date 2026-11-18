@@ -12,6 +12,9 @@ name: Podgląd nowego wyglądu
 # w CMS daje jedną pełną budowę, z ostatnim zapisem. Przerwany przebieg ma stan „cancelled”. Publikacja (deploy) nigdy
 # nie jest przerywana; kolejne publikacje czekają na siebie.
 # Pamięć podręczna między budowami: pakiety npm (setup-node) i zoptymalizowane zdjęcia Astro (node_modules/.astro/assets).
+# Stan budowy na stronie (zlecenie 33): budowa z PODGLAD=1 dokłada plakietkę, która przez API GitHuba (bez logowania) czyta
+# przebiegi tego workflow. Nieudana budowa nie publikuje niczego (pipefail), a błędy treści trafiają do adnotacji
+# („Błąd treści”: repozytorium › formularz › plik › pole: komunikat › adres w Pages CMS) — plakietka pokazuje je redaktorom.
 on:
   workflow_dispatch:
     inputs:
@@ -76,6 +79,18 @@ jobs:
           python3 -c "import json; print(*json.load(open('tresci.json'))['repozytoria'], sep='\n')" \
             | xargs -P 8 -I{} bash -eo pipefail -c 'klonuj "$1"' _ {}
           python3 skrypty/pobierz_tresci.py --lokalnie "$TRESCI"
+          # Zlecenie 33: plik → repozytorium treści (link „Włącz »Opublikowane« w CMS” przy szkicach) i czas startu budowy.
+          python3 - "$TRESCI" <<'PY'
+          import json, os, sys
+          kat, wynik = sys.argv[1], {}
+          for r in sorted(os.listdir(kat)):
+              for d, _, pliki in os.walk(os.path.join(kat, r, 'src')):
+                  for f in pliki:
+                      wynik[os.path.relpath(os.path.join(d, f), os.path.join(kat, r)).replace(os.sep, '/')] = r
+          os.makedirs('.tresci', exist_ok=True)
+          json.dump(wynik, open('.tresci/pochodzenie.json', 'w', encoding='utf-8'), ensure_ascii=False)
+          PY
+          echo "PODGLAD_START=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_ENV"
 
       - uses: actions/setup-node@v5
         with:
@@ -111,13 +126,26 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      # pipefail: bez niego nieudane „npm run build” przechodziło dalej (tee kończy się dobrze) i publikowało niepełną stronę.
       - name: Budowanie strony
+        id: budowa
+        env:
+          PODGLAD: '1'
+          PODGLAD_RUN_ID: ${{ github.run_id }}
+          PODGLAD_REPO: ${{ github.repository }}
         run: |
+          set -o pipefail
           export SITE_URL="${{ steps.pages.outputs.origin }}"
           export BASE_PATH="${{ steps.pages.outputs.base_path }}"
           npm run build | tee "$RUNNER_TEMP/budowa.log"
           echo "::notice title=Wynik::$(find dist -name '*.html' | wc -l) stron HTML, $(du -sh dist | cut -f1)"
           echo "::notice title=Zdjęcia::z pamięci $(grep -c 'reused cache entry' "$RUNNER_TEMP/budowa.log" || true), zoptymalizowane od nowa $(grep -c '(before: ' "$RUNNER_TEMP/budowa.log" || true)"
+
+      # Zlecenie 33: błędy budowy jako adnotacje (skrypt z Web-Core; starszy kod bez skryptu — tylko ogólny błąd).
+      - name: Błędy budowy dla redaktorów
+        if: failure() && steps.budowa.outcome == 'failure'
+        run: |
+          if [ -f skrypty/bledy_budowy.py ]; then python3 skrypty/bledy_budowy.py "$RUNNER_TEMP/budowa.log" "$RUNNER_TEMP/tresci" || true; fi
 
       # W pamięci zostają tylko zdjęcia użyte w tej budowie, więc nie rośnie po zmianie albo usunięciu zdjęć.
       # Zapis tylko wtedy, gdy zestaw plików się zmienił (klucz kończy się skrótem listy plików).
