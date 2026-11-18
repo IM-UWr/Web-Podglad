@@ -15,6 +15,8 @@ name: Podgląd nowego wyglądu
 # Stan budowy na stronie (zlecenie 33): budowa z PODGLAD=1 dokłada plakietkę, która przez API GitHuba (bez logowania) czyta
 # przebiegi tego workflow. Nieudana budowa nie publikuje niczego (pipefail), a błędy treści trafiają do adnotacji
 # („Błąd treści”: repozytorium › formularz › plik › pole: komunikat › adres w Pages CMS) — plakietka pokazuje je redaktorom.
+# Harmonogram (zlecenie 43): GitHub wyłącza go po 60 dniach bez aktywności w repozytorium, a wyłączony nie reaguje też na
+# sygnały z CMS. Włącza go z powrotem przekaźnik Web-Core przy każdym zapisie, zapas: podtrzymanie.yml (co tydzień).
 on:
   workflow_dispatch:
     inputs:
