@@ -3,11 +3,15 @@ name: Podgląd nowego wyglądu
 # Strona IM UWr: kod z main repozytorium IM-UWr/Web-Core, treści z main repozytoriów IM-UWr/Web-* (to, co w CMS),
 # publikowana na GitHub Pages tego repozytorium. Budowanie w Web-Core (deploy.yml) jest wyłączone od 7.11.2026.
 # - Ręcznie: Actions → „Podgląd nowego wyglądu” → Run workflow (można podać inną gałąź Web-Core).
-# - Po zmianie treści albo planu zajęć: sygnał repository_dispatch z Web-Core (podglad-przekaznik.yml przekazuje
-#   „tresc-zmieniona” z repozytoriów treści i „przebuduj” z plan-zajec.yml).
+# - Po zmianie treści, planu zajęć albo kodu: sygnał repository_dispatch z Web-Core (podglad-przekaznik.yml przekazuje
+#   „tresc-zmieniona” z repozytoriów treści, „przebuduj” z plan-zajec.yml i „przebuduj” po pushu kodu na main Web-Core).
 # - Automatycznie: co godzinę (w praktyce GitHub uruchamia co kilka godzin) i po zmianie tego pliku.
 # Zbudowana strona trafia też na gałąź „zbudowana” tego repozytorium (bez PDF-ów i dużych plików) — do zrzutów ekranu.
 # Przy ręcznym podaniu innej gałęzi kodu do treści z main dołączana jest gałąź o tej samej nazwie, jeśli repozytorium ją ma.
+# Kolejka (zlecenie 41): nowe uruchomienie przerywa budowę w toku, bo i tak pobierze najnowsze treści — seria zapisów
+# w CMS daje jedną pełną budowę, z ostatnim zapisem. Przerwany przebieg ma stan „cancelled”. Publikacja (deploy) nigdy
+# nie jest przerywana; kolejne publikacje czekają na siebie.
+# Pamięć podręczna między budowami: pakiety npm (setup-node) i zoptymalizowane zdjęcia Astro (node_modules/.astro/assets).
 on:
   workflow_dispatch:
     inputs:
@@ -27,16 +31,15 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 env:
   GALAZ: ${{ inputs.galaz || 'main' }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: podglad-budowa
+      cancel-in-progress: true
     steps:
       - name: Kod strony (IM-UWr/Web-Core)
         uses: actions/checkout@v5
@@ -44,41 +47,65 @@ jobs:
           repository: IM-UWr/Web-Core
           ref: ${{ env.GALAZ }}
 
-      - name: Łatki testowe (to repozytorium, katalog testy/)
-        uses: actions/checkout@v5
-        with:
-          path: .podglad
-          sparse-checkout: testy
-
+      # Budowa nie czyta historii repozytoriów treści (pobierz_tresci.py --lokalnie tylko kopiuje pliki), więc przy main
+      # wystarcza płytki klon. Przy innej gałęzi potrzebna jest historia do scalenia z main (jak dotąd: bez treści plików).
       - name: Treści z repozytoriów IM-UWr/Web-*
         env:
           ZDARZENIE: ${{ github.event_name }} ${{ github.event.action }} ${{ github.event.client_payload.repo }}
         run: |
           echo "::notice title=Gałąź::${GALAZ} @ $(git rev-parse --short HEAD) — $(git log -1 --format=%s) (${ZDARZENIE})"
-          TRESCI="$RUNNER_TEMP/tresci"
-          for r in $(python3 -c "import json; print(*json.load(open('tresci.json'))['repozytoria'])"); do
-            git clone -q --filter=blob:none --branch main "https://github.com/IM-UWr/$r.git" "$TRESCI/$r"
+          export TRESCI="$RUNNER_TEMP/tresci"
+          klonuj() {
+            local r=$1 glebokosc=--depth=1
+            [ "$GALAZ" = main ] || glebokosc=--filter=blob:none
+            git clone -q "$glebokosc" --branch main "https://github.com/IM-UWr/$r.git" "$TRESCI/$r"
             if [ "$GALAZ" != main ] && git -C "$TRESCI/$r" fetch -q origin "refs/heads/$GALAZ:refs/remotes/origin/podglad" 2>/dev/null; then
               if git -C "$TRESCI/$r" -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
                   merge -q --no-edit origin/podglad; then
-                echo "$r: main + $GALAZ"
+                echo "$r: main + $GALAZ @ $(git -C "$TRESCI/$r" rev-parse --short HEAD)"
               else
                 git -C "$TRESCI/$r" merge --abort
                 git -C "$TRESCI/$r" checkout -q origin/podglad
                 echo "::warning title=Treści::$r: konflikt z main, użyta sama gałąź $GALAZ"
               fi
             else
-              echo "$r: main"
+              echo "$r: main @ $(git -C "$TRESCI/$r" rev-parse --short HEAD)"
             fi
-          done
+          }
+          export -f klonuj
+          python3 -c "import json; print(*json.load(open('tresci.json'))['repozytoria'], sep='\n')" \
+            | xargs -P 8 -I{} bash -eo pipefail -c 'klonuj "$1"' _ {}
           python3 skrypty/pobierz_tresci.py --lokalnie "$TRESCI"
 
       - uses: actions/setup-node@v5
         with:
           node-version: 22
+          cache: npm
 
       - name: Instalacja zależności
-        run: npm install --no-audit --no-fund
+        run: npm ci --no-audit --no-fund
+
+      # Zoptymalizowane zdjęcia z poprzednich budów. Astro trzyma je w node_modules/.astro/assets (astro.config.mjs nie
+      # ustawia cacheDir), więc odtwarzamy je dopiero po npm ci, które usuwa node_modules. Nazwa pliku w pamięci zawiera
+      # skrót zdjęcia i parametrów (rozmiar, format), więc zmienione zdjęcie zawsze optymalizuje się od nowa.
+      # Klucz: wersja Astro + skrót plików zdjęć + skrót listy plików w pamięci (dopisywany przy zapisie, niżej).
+      - name: Pamięć zdjęć — klucz
+        id: zdjecia
+        env:
+          SKROT: ${{ hashFiles('src/**/*.jpg', 'src/**/*.jpeg', 'src/**/*.png', 'src/**/*.webp', 'src/**/*.avif', 'src/**/*.gif', 'src/**/*.svg', 'src/**/*.tif', 'src/**/*.tiff') }}
+        run: |
+          echo "prefiks=zdjecia-astro-$(node -p "require('astro/package.json').version")-" >> "$GITHUB_OUTPUT"
+          echo "skrot=${SKROT::16}" >> "$GITHUB_OUTPUT"
+
+      - name: Pamięć zdjęć — odtworzenie
+        id: pamiec
+        uses: actions/cache/restore@v4
+        with:
+          path: node_modules/.astro/assets
+          key: ${{ steps.zdjecia.outputs.prefiks }}${{ steps.zdjecia.outputs.skrot }}
+          restore-keys: |
+            ${{ steps.zdjecia.outputs.prefiks }}${{ steps.zdjecia.outputs.skrot }}-
+            ${{ steps.zdjecia.outputs.prefiks }}
 
       - name: Konfiguracja GitHub Pages
         id: pages
@@ -88,27 +115,32 @@ jobs:
         run: |
           export SITE_URL="${{ steps.pages.outputs.origin }}"
           export BASE_PATH="${{ steps.pages.outputs.base_path }}"
-          npm run build
+          npm run build | tee "$RUNNER_TEMP/budowa.log"
           echo "::notice title=Wynik::$(find dist -name '*.html' | wc -l) stron HTML, $(du -sh dist | cut -f1)"
+          echo "::notice title=Zdjęcia::z pamięci $(grep -c 'reused cache entry' "$RUNNER_TEMP/budowa.log" || true), zoptymalizowane od nowa $(grep -c '(before: ' "$RUNNER_TEMP/budowa.log" || true)"
 
-      # ⚠️ TEST — próbna wersja „Założycieli” na telefon (testy/telefon-TEST.patch), NIE WZOROWAĆ SIĘ.
-      # Łatka nakładana na tę samą gałąź tylko tutaj; wynik pod /test-telefon/. Gdy łatka się nie nałoży albo build
-      # się nie uda — główny podgląd i tak się publikuje (continue-on-error), a w podsumowaniu jest ostrzeżenie.
-      - name: TEST telefonu (/test-telefon/)
-        continue-on-error: true
+      # W pamięci zostają tylko zdjęcia użyte w tej budowie, więc nie rośnie po zmianie albo usunięciu zdjęć.
+      # Zapis tylko wtedy, gdy zestaw plików się zmienił (klucz kończy się skrótem listy plików).
+      - name: Pamięć zdjęć — porządki
+        id: porzadki
+        env:
+          KLUCZ: ${{ steps.zdjecia.outputs.prefiks }}${{ steps.zdjecia.outputs.skrot }}
         run: |
-          mv dist "$RUNNER_TEMP/glowna"
-          trap 'rm -rf dist; mv "$RUNNER_TEMP/glowna" dist' EXIT
-          if ! git apply .podglad/testy/telefon-TEST.patch; then
-            echo "::warning title=TEST telefonu::łatka testy/telefon-TEST.patch nie nakłada się na ${GALAZ} — podgląd /test-telefon/ nieaktualny"
-            exit 1
-          fi
-          export SITE_URL="${{ steps.pages.outputs.origin }}"
-          export BASE_PATH="${{ steps.pages.outputs.base_path }}/test-telefon"
-          npm run build
-          rsync -a --exclude '*.pdf' --exclude '*.tex' --exclude '*.zip' --max-size=3m dist/ "$RUNNER_TEMP/glowna/test-telefon/"
-          git apply -R .podglad/testy/telefon-TEST.patch
-          echo "::notice title=TEST telefonu::$(find dist -name '*.html' | wc -l) stron pod /test-telefon/"
+          cd node_modules/.astro/assets
+          usuniete=0
+          for f in *; do
+            [ -e "$f" ] || continue
+            [ -e "$GITHUB_WORKSPACE/dist/_astro/${f%.json}" ] || { rm -f -- "$f"; usuniete=$((usuniete + 1)); }
+          done
+          echo "klucz=$KLUCZ-$(ls | sha256sum | cut -c1-16)" >> "$GITHUB_OUTPUT"
+          echo "::notice title=Pamięć zdjęć::$(ls | wc -l) plików, $(du -sh . | cut -f1); usunięte nieużywane: $usuniete"
+
+      - name: Pamięć zdjęć — zapis
+        if: steps.porzadki.outputs.klucz != steps.pamiec.outputs.cache-matched-key
+        uses: actions/cache/save@v4
+        with:
+          path: node_modules/.astro/assets
+          key: ${{ steps.porzadki.outputs.klucz }}
 
       # Pliki stylów i skryptów mają w nazwach skróty treści, więc każda przebudowa je zmienia. Strona zapamiętana przez
       # przeglądarkę (albo wczytana z wyprzedzeniem) sprzed przebudowy szukałaby starych plików i wyświetliłaby się bez
@@ -131,9 +163,6 @@ jobs:
       - name: Pliki stylów i skryptów z poprzedniej wersji
         run: |
           if [ -d "$RUNNER_TEMP/poprzednia/_astro" ]; then cp -rn "$RUNNER_TEMP/poprzednia/_astro/." dist/_astro/; fi
-          if [ -d "$RUNNER_TEMP/poprzednia/test-telefon/_astro" ] && [ -d dist/test-telefon/_astro ]; then
-            cp -rn "$RUNNER_TEMP/poprzednia/test-telefon/_astro/." dist/test-telefon/_astro/
-          fi
           echo "::notice title=Pliki _astro::$(ls dist/_astro | wc -l) (bieżące i z poprzedniej wersji)"
 
       - uses: actions/upload-pages-artifact@v4
@@ -143,6 +172,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
