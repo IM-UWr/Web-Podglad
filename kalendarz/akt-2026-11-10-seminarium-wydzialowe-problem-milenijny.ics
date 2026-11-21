@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium wydziałowe — prof. Grzegorz Karch
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:akt-2026-11-10-seminarium-wydzialowe-problem-milenijny@im-uwr.github.io
+DTSTAMP:20261121T112559Z
+DTSTART;TZID=Europe/Warsaw:20261110T130000
+DTEND;TZID=Europe/Warsaw:20261110T150000
+SUMMARY:Seminarium wydziałowe — prof. Grzegorz Karch
+LOCATION:Instytut Informatyki sala 119
+DESCRIPTION:Problem Milenijny i jego rozwiązanie zaproponowane przez OpenA
+ I\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-10-seminarium-
+ wydzialowe-problem-milenijny
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-10-seminarium-
+ wydzialowe-problem-milenijny
+END:VEVENT
+END:VCALENDAR
