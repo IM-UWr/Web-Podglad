@@ -6,6 +6,7 @@ Repozytorium **tylko do podglądu**. Nie ma tu kodu strony. Workflow `.github/wo
 budowanie w Web-Core (`deploy.yml`) jest wyłączone; stan sprzed scalenia nowego wyglądu: znacznik `archiwum/2026-11-07-main`.
 
 - **Podgląd:** https://im-uwr.github.io/Web-Podglad/ (nowy wygląd na komputerze i telefonie).
+- **Instrukcje dla redaktorów (PDF):** [Mapa CMS](https://im-uwr.github.io/Web-Podglad/dla-redaktorow/Mapa-CMS-IM-UWr.pdf) i [Ściągawka edytora](https://im-uwr.github.io/Web-Podglad/dla-redaktorow/Sciagawka-edytora-IM-UWr.pdf). Pliki są w Web-Core (`public/dla-redaktorow/`), budują się razem ze stroną; tutaj nie ma ich kopii.
 - **Stara strona** (ostatnia publikacja z Web-Core, już się nie przebudowuje): https://im-uwr.github.io/Web-Core/
 - **Odświeżanie:** po zmianie treści w CMS, po nowym planie zajęć i po pushu kodu na `main` Web-Core (sygnał z Web-Core,
   `podglad-przekaznik.yml`), co godzinę, po zmianie workflow albo ręcznie (Actions → „Podgląd nowego wyglądu” → Run workflow;
