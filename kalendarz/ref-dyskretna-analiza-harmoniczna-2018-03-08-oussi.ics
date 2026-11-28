@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Analogue of Poisson Distribution in bm-Discrete Fock Space
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-08-oussi@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20180308T100000
+DTEND;TZID=Europe/Warsaw:20180308T113000
+SUMMARY:Analogue of Poisson Distribution in bm-Discrete Fock Space
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Lahcen Oussi\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2018-03-08-oussi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-08-oussi
+END:VEVENT
+END:VCALENDAR

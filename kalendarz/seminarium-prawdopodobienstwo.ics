@@ -1,0 +1,2003 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Teoria prawdopodobieństwa i modelowanie stochasty
+ czne
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2015-03-19-tumilewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150319T121500
+DTEND;TZID=Europe/Warsaw:20150319T134500
+SUMMARY:Wycena kontraktow ubezpieczeniowych opartych o spadki spektralnie u
+ jemnego procesu Levy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Joanna Tumilewicz\nSeminarium: Teoria prawdopodobieństwa i mod
+ elowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pra
+ wdopodobienstwo#2015-03-19-tumilewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2015-
+ 03-19-tumilewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2015-05-14-palmowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150514T121500
+DTEND;TZID=Europe/Warsaw:20150514T134500
+SUMMARY:On optimal dividend problem for an insurance risk models with surpl
+ us-dependent premiums
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew Palmowski\nSeminarium: Teoria prawdopodobieństwa i mo
+ delowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pr
+ awdopodobienstwo#2015-05-14-palmowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2015-
+ 05-14-palmowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2015-10-15-bhattacharya@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151015T121500
+DTEND;TZID=Europe/Warsaw:20151015T134500
+SUMMARY:Branching Random Walks\, Stable Point Processes and a Conjecture of
+  Brunet and Derrida.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ayan Bhattacharya\nSeminarium: Teoria prawdopodobieństwa i mod
+ elowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pra
+ wdopodobienstwo#2015-10-15-bhattacharya
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2015-
+ 10-15-bhattacharya
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2015-10-29-blaszczyszyn@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151029T121500
+DTEND;TZID=Europe/Warsaw:20151029T134500
+SUMMARY:Limit theory for geometric statistics of clustering point processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Bartłomiej Błaszczyszyn\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2015-10-29-blaszczyszyn
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2015-
+ 10-29-blaszczyszyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2015-12-17-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151217T121500
+DTEND;TZID=Europe/Warsaw:20151217T134500
+SUMMARY:Smoothing transform and thin tails.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski\nSeminarium: Teoria prawdopodobieństwa i model
+ owanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawd
+ opodobienstwo#2015-12-17-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2015-
+ 12-17-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-01-14-kim@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160114T121500
+DTEND;TZID=Europe/Warsaw:20160114T134500
+SUMMARY:Estimates of Dirichlet heat kernel for symmetric Markov processes.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Kyung-youn Kim\nSeminarium: Teoria prawdopodobieństwa i modelo
+ wanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdo
+ podobienstwo#2016-01-14-kim
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 01-14-kim
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-01-21-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160121T121500
+DTEND;TZID=Europe/Warsaw:20160121T134500
+SUMMARY:Wkład prof. C.Ryll-Nardzewskego do probabilistyki\, w szczególno
+ ści do procesów punktowych
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Rolski\nSeminarium: Teoria prawdopodobieństwa i modelow
+ anie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdop
+ odobienstwo#2016-01-21-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 01-21-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-02-25-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160225T121500
+DTEND;TZID=Europe/Warsaw:20160225T134500
+SUMMARY:Siegmund duality for Markov chains on partially ordered state space
+ s: Generalized Gambler's Ruin Problem
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek\nSeminarium: Teoria prawdopodobieństwa i modelowa
+ nie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdopo
+ dobienstwo#2016-02-25-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 02-25-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-03-10-liu@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160310T121500
+DTEND;TZID=Europe/Warsaw:20160310T134500
+SUMMARY:Extremes of transient Gaussian fluid queues.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Peng Liu\nSeminarium: Teoria prawdopodobieństwa i modelowanie 
+ stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobi
+ enstwo#2016-03-10-liu
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 03-10-liu
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-03-17-krawiec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160317T121500
+DTEND;TZID=Europe/Warsaw:20160317T134500
+SUMMARY:Wykrywanie punktu zmiany w dwufazowym modelu typu Lévy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Michał Krawiec\nSeminarium: Teoria prawdopodobieństwa i model
+ owanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawd
+ opodobienstwo#2016-03-17-krawiec
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 03-17-krawiec
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-04-07-czarna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160407T121500
+DTEND;TZID=Europe/Warsaw:20160407T134500
+SUMMARY:Paryskie problemy wyjścia dla rozszczepionego procesu Lévy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Irmina Czarna\nSeminarium: Teoria prawdopodobieństwa i modelow
+ anie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdop
+ odobienstwo#2016-04-07-czarna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 04-07-czarna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-04-28-palmowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160428T121500
+DTEND;TZID=Europe/Warsaw:20160428T134500
+SUMMARY:Fluktuacje spektralnie ujemnego procesu Lévy'ego zabijanego z inte
+ nsywnością zależną od stanu tego procesu.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew Palmowski\nSeminarium: Teoria prawdopodobieństwa i mo
+ delowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pr
+ awdopodobienstwo#2016-04-28-palmowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 04-28-palmowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-04-28-tumilewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160428T121500
+DTEND;TZID=Europe/Warsaw:20160428T134500
+SUMMARY:Problemy wyjścia dla spadków i wzrostów procesów Lévy'ego w wy
+ cenie kontraktów ubezpieczeniowych.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Joanna Tumilewicz\nSeminarium: Teoria prawdopodobieństwa i mod
+ elowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pra
+ wdopodobienstwo#2016-04-28-tumilewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 04-28-tumilewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-05-12-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160512T121500
+DTEND;TZID=Europe/Warsaw:20160512T134500
+SUMMARY:Prawdopodobieństwo ruiny dla skorelowanych ruchów Browna.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki\nSeminarium: Teoria prawdopodobieństwa i mo
+ delowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pr
+ awdopodobienstwo#2016-05-12-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 05-12-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-10-06-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161006T121500
+DTEND;TZID=Europe/Warsaw:20161006T134500
+SUMMARY:O stałych Pickandsa.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki\nSeminarium: Teoria prawdopodobieństwa i mo
+ delowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pr
+ awdopodobienstwo#2016-10-06-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 10-06-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-10-13-markowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161013T121500
+DTEND;TZID=Europe/Warsaw:20161013T134500
+SUMMARY:Metoda couplingu w badaniu szybkości zbieżności.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Markowski\nSeminarium: Teoria prawdopodobieństwa i model
+ owanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawd
+ opodobienstwo#2016-10-13-markowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 10-13-markowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-10-20-arendarczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161020T121500
+DTEND;TZID=Europe/Warsaw:20161020T134500
+SUMMARY:Multivariate models connected with random sums and maxima.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Arendarczyk\nSeminarium: Teoria prawdopodobieństwa i mod
+ elowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/pra
+ wdopodobienstwo#2016-10-20-arendarczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 10-20-arendarczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-10-27-blaszczyszyn@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161027T121500
+DTEND;TZID=Europe/Warsaw:20161027T134500
+SUMMARY:Limit theory for geometric statistics of clustering point processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Bartłomiej Błaszczyszyn\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2016-10-27-blaszczyszyn
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 10-27-blaszczyszyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-11-10-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161110T121500
+DTEND;TZID=Europe/Warsaw:20161110T134500
+SUMMARY:Branching process in random environment an related models.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski\nSeminarium: Teoria prawdopodobieństwa i model
+ owanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawd
+ opodobienstwo#2016-11-10-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 11-10-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-11-24-perez-garmendia@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161124T121500
+DTEND;TZID=Europe/Warsaw:20161124T134500
+SUMMARY:Random matrix approximation for some non-commutative stochastic pro
+ cesses.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:José Luis Pérez Garmendia\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2016-11-24-perez-garmendia
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 11-24-perez-garmendia
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-12-01-jasiulis-goldyn@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161201T121500
+DTEND;TZID=Europe/Warsaw:20161201T134500
+SUMMARY:Extremal Markovian sequences of the Kendall type.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Barbara Jasiulis-Gołdyn\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2016-12-01-jasiulis-goldyn
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 12-01-jasiulis-goldyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2016-12-08-krawiec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161208T121500
+DTEND;TZID=Europe/Warsaw:20161208T134500
+SUMMARY:Drift change detection in stochastic mortality rate models.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Michał Krawiec\nSeminarium: Teoria prawdopodobieństwa i model
+ owanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawd
+ opodobienstwo#2016-12-08-krawiec
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2016-
+ 12-08-krawiec
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-01-12-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170112T121500
+DTEND;TZID=Europe/Warsaw:20170112T134500
+SUMMARY:Siegmund duality\, antiduality and Fastest Strong Stationary Times.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek\nSeminarium: Teoria prawdopodobieństwa i modelowa
+ nie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdopo
+ dobienstwo#2017-01-12-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 01-12-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-01-19-szekli@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170119T121500
+DTEND;TZID=Europe/Warsaw:20170119T134500
+SUMMARY:On classical queueing networks
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ryszard Szekli (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2017-01-19-szekli
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 01-19-szekli
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-02-02-czarna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170202T121500
+DTEND;TZID=Europe/Warsaw:20170202T134500
+SUMMARY:Multi-refracted Lévy risk processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Irmina Czarna (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2017-02-02-czarna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 02-02-czarna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-02-23-tumilewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170223T121500
+DTEND;TZID=Europe/Warsaw:20170223T134500
+SUMMARY:Drawdown insurance contracts
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Joanna Tumilewicz (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2017-02-23-tumilewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 02-23-tumilewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-03-09-kaszubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170309T121500
+DTEND;TZID=Europe/Warsaw:20170309T134500
+SUMMARY:On the optimal dividend problem with transaction cost and parisian 
+ ruin time for a refracted Lévy process
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adam Kaszubowski (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2017-03-09-kaszubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 03-09-kaszubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-03-16-li@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170316T121500
+DTEND;TZID=Europe/Warsaw:20170316T134500
+SUMMARY:A drawdown-based regime-switching Lévy insurance model
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Shu Li (University of Illinois)\nSeminarium: Teoria prawdopodob
+ ieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/prawdopodobienstwo#2017-03-16-li
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 03-16-li
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-03-30-tafro@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170330T121500
+DTEND;TZID=Europe/Warsaw:20170330T134500
+SUMMARY:A convergence theorem for stationary heavy tailed sequences
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Azra Tafro (University of Zagreb)\nSeminarium: Teoria prawdopod
+ obieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/prawdopodobienstwo#2017-03-30-tafro
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 03-30-tafro
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-04-20-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170420T121500
+DTEND;TZID=Europe/Warsaw:20170420T134500
+SUMMARY:Sojourns of Gaussian processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2017-04-20-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 04-20-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-05-18-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170518T121500
+DTEND;TZID=Europe/Warsaw:20170518T134500
+SUMMARY:Level dependent Levy risk processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Rolski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2017-05-18-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 05-18-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-06-01-michna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170601T121500
+DTEND;TZID=Europe/Warsaw:20170601T134500
+SUMMARY:Rozkład supremum dla spektralnie dodatnich procesów Levy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew Michna (Uniwersytet Ekonomiczny we Wrocławiu)\nSemina
+ rium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-06-01-michna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 06-01-michna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-06-08-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170608T121500
+DTEND;TZID=Europe/Warsaw:20170608T134500
+SUMMARY:(Some) Ising models and the selfdecomposability property
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2017-06-08-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 06-08-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-10-19-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171019T121500
+DTEND;TZID=Europe/Warsaw:20171019T134500
+SUMMARY:Dwa twierdzenia graniczne dla mocno mieszających ciągów zmiennyc
+ h losowych.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2017-10-19-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 10-19-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-10-26-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171026T121500
+DTEND;TZID=Europe/Warsaw:20171026T134500
+SUMMARY:Sojourns of Gaussian processes with trend.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2017-10-26-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 10-26-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-11-09-markowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171109T121500
+DTEND;TZID=Europe/Warsaw:20171109T134500
+SUMMARY:Łańcuchy pochłaniające i wielowymiarowe zagadnienie ruiny gracz
+ a. Część I: prawdopodobieństwo wygrania.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Markowski (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2017-11-09-markowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 11-09-markowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-11-16-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171116T121500
+DTEND;TZID=Europe/Warsaw:20171116T134500
+SUMMARY:Large deviations for random walk in random environment
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2017-11-16-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 11-16-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-11-23-poloczanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171123T121500
+DTEND;TZID=Europe/Warsaw:20171123T134500
+SUMMARY:Wykorzystanie procesów anomalnej dyfuzji do modelowania powietrza 
+ wewnętrznego.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Rafał Połoczański (Politechnika Wrocławska)\nSeminarium: Te
+ oria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-11-23-poloczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 11-23-poloczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-12-07-kozubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171207T121500
+DTEND;TZID=Europe/Warsaw:20171207T134500
+SUMMARY:A generalized Sibuya distribution.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz J. Kozubowski (University of Nevada)\nSeminarium: Teoria
+  prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/prawdopodobienstwo#2017-12-07-kozubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 12-07-kozubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2017-12-14-szekli@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171214T121500
+DTEND;TZID=Europe/Warsaw:20171214T134500
+SUMMARY:Procesy punktowe ujemnie stowarzyszone.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ryszard Szekli (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2017-12-14-szekli
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2017-
+ 12-14-szekli
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-01-04-bai@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180104T121500
+DTEND;TZID=Europe/Warsaw:20180104T134500
+SUMMARY:Extremes of Gaussian chaos processes with trend.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Long Bai (University of Lausanne)\nSeminarium: Teoria prawdopod
+ obieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/prawdopodobienstwo#2018-01-04-bai
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 01-04-bai
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-01-11-kaszubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180111T121500
+DTEND;TZID=Europe/Warsaw:20180111T134500
+SUMMARY:Omega-killed Markov additive processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adam Kaszubowski (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2018-01-11-kaszubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 01-11-kaszubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-01-18-krawiec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180118T121500
+DTEND;TZID=Europe/Warsaw:20180118T134500
+SUMMARY:Quickest drift change detection in Lévy-type force of mortality mo
+ del
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Michał Krawiec (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2018-01-18-krawiec
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 01-18-krawiec
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-01-25-tumilewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180125T121500
+DTEND;TZID=Europe/Warsaw:20180125T134500
+SUMMARY:Double continuation regions for American and Swing options with neg
+ ative discount rate in Lévy models
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Joanna Tumilewicz (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2018-01-25-tumilewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 01-25-tumilewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-02-15-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180215T121500
+DTEND;TZID=Europe/Warsaw:20180215T134500
+SUMMARY:Fractionally integrated inverse stable subordinators
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Aleksander M. Iksanov (University of Kyiv)\nSeminarium: Teoria 
+ prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/prawdopodobienstwo#2018-02-15-iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 02-15-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-03-01-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180301T121500
+DTEND;TZID=Europe/Warsaw:20180301T134500
+SUMMARY:Czas ostatecznej ruiny w gaussowskim modelu ryzyka.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2018-03-01-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 03-01-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-03-08-omey@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180308T121500
+DTEND;TZID=Europe/Warsaw:20180308T134500
+SUMMARY:On functions bounded by Karamata functions
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Edward Omey (KU Leuven at Campus Brussels\, Belgium)\nSeminariu
+ m: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-03-08-omey
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 03-08-omey
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-03-15-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180315T121500
+DTEND;TZID=Europe/Warsaw:20180315T134500
+SUMMARY:CLT w przestrzeniach Euklidesowych dla unormowań macierzami
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2018-03-15-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 03-15-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-03-22-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180322T121500
+DTEND;TZID=Europe/Warsaw:20180322T134500
+SUMMARY:Łańcuchy pochłaniające i wielowymiarowe zagadnienie ruiny gracz
+ a. Część II: Czas trwania gry.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2018-03-22-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 03-22-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-04-19-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180419T121500
+DTEND;TZID=Europe/Warsaw:20180419T134500
+SUMMARY:Reprezentacje całkowe zmiennych losowych.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2018-04-19-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 04-19-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-04-26-liu@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180426T121500
+DTEND;TZID=Europe/Warsaw:20180426T134500
+SUMMARY:Occupation times of Gaussian risk processes and Gaussian stationary
+  queues
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Peng Liu (University of Lausanne\, Switzerland)\nSeminarium: Te
+ oria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-04-26-liu
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 04-26-liu
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-05-24-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180524T121500
+DTEND;TZID=Europe/Warsaw:20180524T134500
+SUMMARY:O wybranych algorytmach uczenia maszynowego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2018-05-24-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 05-24-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-06-14-skarupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180614T121500
+DTEND;TZID=Europe/Warsaw:20180614T134500
+SUMMARY:Wycena dodatkowej informacji w problemie optymalnego zatrzymania
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Skarupski (Politechnika Wrocławska)\nSeminarium: Teoria 
+ prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/prawdopodobienstwo#2018-06-14-skarupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 06-14-skarupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-10-11-ling@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181011T121500
+DTEND;TZID=Europe/Warsaw:20181011T134500
+SUMMARY:Asymptotics of Multivariate Conditional Risk Measures for Gaussian 
+ Risks
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Chengxiu Ling (Southwest University\, Chongqing\, China)\nSemin
+ arium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-10-11-ling
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 10-11-ling
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-10-25-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181025T121500
+DTEND;TZID=Europe/Warsaw:20181025T134500
+SUMMARY:On a relation between classical and free infinitely divisible trans
+ forms
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2018-10-25-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 10-25-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-11-08-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181108T121500
+DTEND;TZID=Europe/Warsaw:20181108T134500
+SUMMARY:Some closure properties of multivariate regularly varying distribut
+ ions
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2018-11-08-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 11-08-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-11-22-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181122T121500
+DTEND;TZID=Europe/Warsaw:20181122T134500
+SUMMARY:Prawdopodobieństwo równoczesnej ruiny w Brownowskim modelu ryzyka
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2018-11-22-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 11-22-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2018-11-29-szekli@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181129T121500
+DTEND;TZID=Europe/Warsaw:20181129T134500
+SUMMARY:Ujemne zależności i własność "hyperuniformity" dla procesów p
+ unktowych
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ryszard Szekli (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2018-11-29-szekli
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2018-
+ 11-29-szekli
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-01-10-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190110T121500
+DTEND;TZID=Europe/Warsaw:20190110T134500
+SUMMARY:Warunkowe zagadnienie ruiny gracza z zastosowaniami
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek\nSeminarium: Teoria prawdopodobieństwa i modelowa
+ nie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/prawdopo
+ dobienstwo#2019-01-10-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 01-10-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-01-17-kaszubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190117T121500
+DTEND;TZID=Europe/Warsaw:20190117T134500
+SUMMARY:Alternatywne modele ruiny dla procesów typu Levy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adam Kaszubowski (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2019-01-17-kaszubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 01-17-kaszubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-03-07-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190307T121500
+DTEND;TZID=Europe/Warsaw:20190307T134500
+SUMMARY:Stałe Pickandsa-Piterbarga\, funkcjonały Willisa i procesy max-st
+ abilne
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2019-03-07-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 03-07-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-03-14-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190314T121500
+DTEND;TZID=Europe/Warsaw:20190314T134500
+SUMMARY:Functional limit theorems for the profile of random recursive trees
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alexander Iksanov (Taras Shevchenko National University of Kyiv
+ )\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-03-14-
+ iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 03-14-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-03-21-schissler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190321T121500
+DTEND;TZID=Europe/Warsaw:20190321T134500
+SUMMARY:A single-subject method to detect pathways enriched with alternativ
+ ely spliced genes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:A. Grant Schissler (University of Nevada)\nSeminarium: Teoria p
+ rawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/prawdopodobienstwo#2019-03-21-schissler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 03-21-schissler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-04-04-meller@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190404T121500
+DTEND;TZID=Europe/Warsaw:20190404T134500
+SUMMARY:Dwustronne oszacowania momentów chaosów gaussowskich o wartościa
+ ch wektorowych
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Rafał Meller (Uniwersytet Warszawski)\nSeminarium: Teoria praw
+ dopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/prawdopodobienstwo#2019-04-04-meller
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 04-04-meller
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-04-11-otto@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190411T121500
+DTEND;TZID=Europe/Warsaw:20190411T134500
+SUMMARY:Poisson process approximation of thinnings of stationary point proc
+ esses
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Moritz Otto (Karlsruher Institut für Technologie)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-04-11-otto
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 04-11-otto
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-04-18-wang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190418T121500
+DTEND;TZID=Europe/Warsaw:20190418T134500
+SUMMARY:Branching random walks on hyperbolic groups: volume growth rate and
+  limit set
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Longmin Wang (Uniwersytet w Nankai\, Chiny)\nSeminarium: Teoria
+  prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/prawdopodobienstwo#2019-04-18-wang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 04-18-wang
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-04-25-zaitseva@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190425T121500
+DTEND;TZID=Europe/Warsaw:20190425T134500
+SUMMARY:Generalized diffusion processes: construction\, limit theorems\, ap
+ proximation methods
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ludmila Zaitseva (Uniwersytet im. Tarasa Szewczenki\, Kijów)\n
+ Seminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-04-25-zai
+ tseva
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 04-25-zaitseva
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-05-16-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190516T121500
+DTEND;TZID=Europe/Warsaw:20190516T134500
+SUMMARY:A) RiffleScrambler -- a memory-hard password storing function. B) U
+ sing svn repositories (installed on hera) and Mendeley in daily work with 
+ LaTeX.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2019-05-16-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 05-16-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-10-10-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191010T121500
+DTEND;TZID=Europe/Warsaw:20191010T134500
+SUMMARY:Historia procesu Poissona i wkład C. Ryll Nardzewskiego do teorii
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Rolski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2019-10-10-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 10-10-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-10-24-kepczynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191024T121500
+DTEND;TZID=Europe/Warsaw:20191024T134500
+SUMMARY:Asymptotyki rozkładów supremum dwuwymiarowych procesów gaussowsk
+ ich
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Kępczyński (IM UWr)\nSeminarium: Teoria prawdopodob
+ ieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/prawdopodobienstwo#2019-10-24-kepczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 10-24-kepczynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-11-07-szczotka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191107T121500
+DTEND;TZID=Europe/Warsaw:20191107T134500
+SUMMARY:Steinhausowskie Seminarium Matematyki Stosowanej
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Władysław Szczotka (IM UWr)\nSeminarium: Teoria prawdopodobie
+ ństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/prawdopodobienstwo#2019-11-07-szczotka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 11-07-szczotka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-11-14-czajkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191114T121500
+DTEND;TZID=Europe/Warsaw:20191114T134500
+SUMMARY:Perkolacja na grupach hiperbolicznych: wymiar brzegu klastra
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jan Czajkowski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2019-11-14-czajkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 11-14-czajkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-11-28-czajkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191128T121500
+DTEND;TZID=Europe/Warsaw:20191128T134500
+SUMMARY:Perkolacja na grupach hiperbolicznych: wymiar brzegu klastra (konty
+ nuacja)
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jan Czajkowski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2019-11-28-czajkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 11-28-czajkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-12-05-bisewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191205T121500
+DTEND;TZID=Europe/Warsaw:20191205T134500
+SUMMARY:O asymptotyce błędu detekcji dla supremum procesu Lévy'ego na od
+ cinku
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Bisewski (University of Amsterdam)\nSeminarium: Teori
+ a prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/prawdopodobienstwo#2019-12-05-bisewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 12-05-bisewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2019-12-12-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191212T121500
+DTEND;TZID=Europe/Warsaw:20191212T134500
+SUMMARY:Functional limit theorems for Galton–Watson processes with very a
+ ctive immigration
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alexander Iksanov (Taras Shevchenko National University of Kyiv
+ )\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-12-12-
+ iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2019-
+ 12-12-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-01-09-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200109T121500
+DTEND;TZID=Europe/Warsaw:20200109T134500
+SUMMARY:Prawdopodobieństwo ruiny w 2-wymiarowym modelu brownowskim
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2020-01-09-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 01-09-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-01-16-marynych@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200116T121500
+DTEND;TZID=Europe/Warsaw:20200116T134500
+SUMMARY:How long is the convex minorant of a one-dimensional random walk?
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alexander Marynych (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-01-16
+ -marynych
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 01-16-marynych
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-01-30-molchanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200130T121500
+DTEND;TZID=Europe/Warsaw:20200130T134500
+SUMMARY:Sieving random iterative function systems
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ilya Molchanov (University of Bern)\nSeminarium: Teoria prawdop
+ odobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/prawdopodobienstwo#2020-01-30-molchanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 01-30-molchanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-02-06-foss@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200206T121500
+DTEND;TZID=Europe/Warsaw:20200206T134500
+SUMMARY:Structural Properties of a Conditioned Random Walk on a Multivariat
+ e Integer Lattice with Random Local Constraints
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Sergey Foss (Heriot-Watt University and Novosibirsk State Unive
+ rsity and Sobolev Institute of Mathematics)\nSeminarium: Teoria prawdopodo
+ bieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/prawdopodobienstwo#2020-02-06-foss
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 02-06-foss
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-03-05-szekli@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200305T121500
+DTEND;TZID=Europe/Warsaw:20200305T134500
+SUMMARY:Some remarks on associated random fields\, random measures and poin
+ t processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ryszard Szekli (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2020-03-05-szekli
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 03-05-szekli
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-03-12-marynych@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200312T121500
+DTEND;TZID=Europe/Warsaw:20200312T134500
+SUMMARY:Limit theorems for the least common multiple of random integer sets
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alexander Marynych (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-03-12
+ -marynych
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 03-12-marynych
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-05-21-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200521T121500
+DTEND;TZID=Europe/Warsaw:20200521T134500
+SUMMARY:Branching random walk and stretched exponential tails
+DESCRIPTION:Piotr Dyszewski (UWr\, TU Munich)\nSeminarium: Teoria prawdopod
+ obieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/prawdopodobienstwo#2020-05-21-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 05-21-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-06-04-marynych@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200604T121500
+DTEND;TZID=Europe/Warsaw:20200604T134500
+SUMMARY:Limit theorems for the least common multiple of random integer sets
+DESCRIPTION:Alexander Marynych (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-06-04
+ -marynych
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 06-04-marynych
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-06-18-krystecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200618T121500
+DTEND;TZID=Europe/Warsaw:20200618T134500
+SUMMARY:Non-simultaneous finite time ruin probability for correlated Browni
+ an motions
+DESCRIPTION:Konrad Krystecki (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2020-06-18-krystecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 06-18-krystecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-10-29-serafin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201029T121500
+DTEND;TZID=Europe/Warsaw:20201029T134500
+SUMMARY:Prędkość zbieżności do rozkładu normalnego
+LOCATION:zoom
+DESCRIPTION:Grzegorz Serafin (Politechnika Wrocławska)\nSeminarium: Teoria
+  prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/prawdopodobienstwo#2020-10-29-serafin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 10-29-serafin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-11-05-lytova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201105T121500
+DTEND;TZID=Europe/Warsaw:20201105T134500
+SUMMARY:O empirycznym rozkładzie widmowym dla pewnych uogólnień macierzy
+  kowariancji z próby
+LOCATION:zoom
+DESCRIPTION:Anna Lytova (Uniwersytet Opolski)\nSeminarium: Teoria prawdopod
+ obieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/prawdopodobienstwo#2020-11-05-lytova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 11-05-lytova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-11-12-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201112T121500
+DTEND;TZID=Europe/Warsaw:20201112T134500
+SUMMARY:Random walk in a sparse random environment
+LOCATION:zoom
+DESCRIPTION:Piotr Dyszewski (Technische Universität München)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-11-12-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 11-12-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-11-19-bisewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201119T121500
+DTEND;TZID=Europe/Warsaw:20201119T134500
+SUMMARY:Uogólnienie testu Kolmogorova-Smirnova za pomocą częściowego so
+ rtowania
+LOCATION:zoom
+DESCRIPTION:Krzysztof Bisewski (University of Lausanne)\nSeminarium: Teoria
+  prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/prawdopodobienstwo#2020-11-19-bisewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 11-19-bisewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-11-26-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201126T121500
+DTEND;TZID=Europe/Warsaw:20201126T134500
+SUMMARY:Oszacowania wartości oczekiwanej supremum ułamkowego ruchu Browna
+  z dryfem
+LOCATION:zoom
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2020-11-26-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 11-26-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-12-03-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201203T121500
+DTEND;TZID=Europe/Warsaw:20201203T134500
+SUMMARY:Limit theorems for a stable sausage
+LOCATION:zoom
+DESCRIPTION:Wojciech Cygan (TU Dresden / Uni. Wrocław)\nSeminarium: Teoria
+  prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/prawdopodobienstwo#2020-12-03-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 12-03-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2020-12-10-kepczynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201210T121500
+DTEND;TZID=Europe/Warsaw:20201210T134500
+SUMMARY:Kolejki gaussowskie w losowym oknie czasu
+LOCATION:zoom
+DESCRIPTION:Krzysztof Kępczyński (IM UWr)\nSeminarium: Teoria prawdopodob
+ ieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/prawdopodobienstwo#2020-12-10-kepczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2020-
+ 12-10-kepczynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-01-07-buraczewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210107T121500
+DTEND;TZID=Europe/Warsaw:20210107T134500
+SUMMARY:Procesy gałązkowe w losowym środowisku
+LOCATION:zoom
+DESCRIPTION:Dariusz Buraczewski (IM UWr)\nSeminarium: Teoria prawdopodobie
+ ństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/prawdopodobienstwo#2021-01-07-buraczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 01-07-buraczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-01-28-krystecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210128T121500
+DTEND;TZID=Europe/Warsaw:20210128T134500
+SUMMARY:Two-dimensional ruin for correlated brownian motions with drift dep
+ endant on initial capital
+LOCATION:zoom
+DESCRIPTION:Konrad Krystecki (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2021-01-28-krystecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 01-28-krystecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-02-25-kolesko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210225T121500
+DTEND;TZID=Europe/Warsaw:20210225T134500
+SUMMARY:Twierdzenia graniczne dla procesów gałązkowych
+LOCATION:zoom
+DESCRIPTION:Konrad Kolesko (IM UWr)\nSeminarium: Teoria prawdopodobieństwa
+  i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/prawdopodobienstwo#2021-02-25-kolesko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 02-25-kolesko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-03-11-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210311T121500
+DTEND;TZID=Europe/Warsaw:20210311T134500
+SUMMARY:On nested occupancy scheme in random environment
+LOCATION:zoom
+DESCRIPTION:Alexander Iksanov (Taras Shevchenko National University of Kyiv
+ )\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-03-11-
+ iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 03-11-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-03-18-palmowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210318T121500
+DTEND;TZID=Europe/Warsaw:20210318T134500
+SUMMARY:On the renewal theorem for maxima on trees
+LOCATION:zoom
+DESCRIPTION:Zbigniew Palmowski (Politechnika Wrocławska)\nSeminarium: Teor
+ ia prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/prawdopodobienstwo#2021-03-18-palmowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 03-18-palmowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-03-25-bhattacharya@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210325T121500
+DTEND;TZID=Europe/Warsaw:20210325T134500
+SUMMARY:Extreme positions of regularly varying branching random walk in ran
+ dom environment
+LOCATION:zoom
+DESCRIPTION:Ayan Bhattacharya (Indian Institute of Technology)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-03-25-bhattacharya
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 03-25-bhattacharya
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-04-01-buraczewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210401T121500
+DTEND;TZID=Europe/Warsaw:20210401T134500
+SUMMARY:Gałązkowy spacer losowy
+LOCATION:zoom
+DESCRIPTION:Dariusz Buraczewski (IM UWr)\nSeminarium: Teoria prawdopodobie
+ ństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/prawdopodobienstwo#2021-04-01-buraczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 04-01-buraczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-04-08-marynych@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210408T121500
+DTEND;TZID=Europe/Warsaw:20210408T134500
+SUMMARY:Weak convergence of random geometric objects in non-Euclidean space
+ s
+LOCATION:zoom
+DESCRIPTION:Alexander Marynych (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-04-08
+ -marynych
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 04-08-marynych
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-04-15-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210415T121500
+DTEND;TZID=Europe/Warsaw:20210415T134500
+SUMMARY:The largest and smallest fragment in a k-regular self-similar fragm
+ entation
+LOCATION:zoom
+DESCRIPTION:Piotr Dyszewski (Technische Universität München)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-04-15-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 04-15-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-04-22-jasnovidov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210422T121500
+DTEND;TZID=Europe/Warsaw:20210422T134500
+SUMMARY:Ruin probability for Discrete and Continuous Gaussian Risk Models
+LOCATION:zoom
+DESCRIPTION:Grigori Jasnovidov (Université de Lausanne)\nSeminarium: Teori
+ a prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/prawdopodobienstwo#2021-04-22-jasnovidov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 04-22-jasnovidov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-05-06-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210506T121500
+DTEND;TZID=Europe/Warsaw:20210506T134500
+SUMMARY:Czas pobytu pól losowych nad wysoką barierą
+LOCATION:zoom
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2021-05-06-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 05-06-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-05-20-meiners@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210520T121500
+DTEND;TZID=Europe/Warsaw:20210520T134500
+SUMMARY:Fluctuations of Biggins' martingales at complex parameters
+LOCATION:zoom
+DESCRIPTION:Matthias Meiners (Justus-Liebig-Universität Gießen)\nSeminari
+ um: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-05-20-meiners
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 05-20-meiners
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-06-10-kriukov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210610T121500
+DTEND;TZID=Europe/Warsaw:20210610T134500
+SUMMARY:Extensions of Korshunov inequality for multidimensional processes
+LOCATION:zoom
+DESCRIPTION:Nikolai Kriukov (Université de Lausanne)\nSeminarium: Teoria p
+ rawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/prawdopodobienstwo#2021-06-10-kriukov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 06-10-kriukov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-06-17-levlev@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210617T121500
+DTEND;TZID=Europe/Warsaw:20210617T134500
+SUMMARY:Proportional Parisian Reinsurance with many-fBm inputs
+LOCATION:zoom
+DESCRIPTION:Pavel Levlev (Université de Lausanne)\nSeminarium: Teoria praw
+ dopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/prawdopodobienstwo#2021-06-17-levlev
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 06-17-levlev
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-10-21-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211021T121500
+DTEND;TZID=Europe/Warsaw:20211021T134500
+SUMMARY:Ekstrema pól gaussowskich o nieaddytywnej strukturze zależności
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2021-10-21-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 10-21-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2021-11-25-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211125T121500
+DTEND;TZID=Europe/Warsaw:20211125T134500
+SUMMARY:Limit laws for depths and heights of random trees
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2021-11-25-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2021-
+ 11-25-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-01-13-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220113T121500
+DTEND;TZID=Europe/Warsaw:20220113T134500
+SUMMARY:On the number of occupied boxes in an infinite occupancy scheme
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alexander Iksanov (Taras Shevchenko National University of Kyiv
+ )\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-01-13-
+ iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 01-13-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-01-20-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220120T121500
+DTEND;TZID=Europe/Warsaw:20220120T134500
+SUMMARY:Norms of randomized circulant matrices
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Witold Świątkowski (IM UWr)\nSeminarium: Teoria prawdopodobie
+ ństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/prawdopodobienstwo#2022-01-20-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 01-20-swiatkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-04-21-krystecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220421T121500
+DTEND;TZID=Europe/Warsaw:20220421T134500
+SUMMARY:Componentwise Finite-Time Ruin In Two-Dimensional Brownian Risk Mod
+ el
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Konrad Krystecki (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2022-04-21-krystecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 04-21-krystecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-04-28-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220428T121500
+DTEND;TZID=Europe/Warsaw:20220428T134500
+SUMMARY:Pochodna wartości oczekiwanej supremum ułamkowego ruchu Browna w 
+ H=1
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2022-04-28-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 04-28-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-05-05-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220505T121500
+DTEND;TZID=Europe/Warsaw:20220505T134500
+SUMMARY:Branching random walks and point processes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Dyszewski (IM UWr)\nSeminarium: Teoria prawdopodobieństw
+ a i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/prawdopodobienstwo#2022-05-05-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 05-05-dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-05-19-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220519T121500
+DTEND;TZID=Europe/Warsaw:20220519T134500
+SUMMARY:Pochodna funkcjonałów typu supremum dla ułamkowego ruchu Browna 
+ w H=1/2
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Rolski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2022-05-19-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 05-19-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-05-26-czudek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220526T121500
+DTEND;TZID=Europe/Warsaw:20220526T134500
+SUMMARY:Central limit theorem for random circle rotations
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Klaudiusz Czudek (Uniwersytet Mikołaja Kopernika w Toruniu)\nS
+ eminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-05-26-czud
+ ek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 05-26-czudek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-06-02-jurek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220602T121500
+DTEND;TZID=Europe/Warsaw:20220602T134500
+SUMMARY:Selfdecomposable variables\, their background driving distributions
+ (BDDF)\, log-gamma variables and some graphs
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Zbigniew J. Jurek (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2022-06-02-jurek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 06-02-jurek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-06-09-kaszubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220609T121500
+DTEND;TZID=Europe/Warsaw:20220609T134500
+SUMMARY:Optimality of impulse control problem in refracted Lévy model with
+  Parisian ruin and transaction costs
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adam Kaszubowski (IM UWr)\nSeminarium: Teoria prawdopodobieńst
+ wa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/prawdopodobienstwo#2022-06-09-kaszubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 06-09-kaszubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-10-13-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221013T121500
+DTEND;TZID=Europe/Warsaw:20221013T134500
+SUMMARY:H-pochodne od sup-funkcjonałów od ułamkowego ruchu Browna
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Rolski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2022-10-13-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 10-13-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-10-20-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221020T121500
+DTEND;TZID=Europe/Warsaw:20221020T134500
+SUMMARY:Prawdopodobieństwo symultanicznej ruiny w wielowymiarowym gaussows
+ kim modelu ruiny
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2022-10-20-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 10-20-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-10-27-burdukiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221027T121500
+DTEND;TZID=Europe/Warsaw:20221027T134500
+SUMMARY:Pułapki w analizie danych peptydowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michał Burdukiewicz (Autonomiczny Uniwersytet w Barcelonie/Uni
+ wersytet Medyczny w Białymstoku)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2022-10-27-burdukiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 10-27-burdukiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-11-17-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221117T121500
+DTEND;TZID=Europe/Warsaw:20221117T134500
+SUMMARY:Dualności w łańcuchach Markowa z częściowo uporządkowaną prz
+ estrzenią stanów
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2022-11-17-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 11-17-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2022-12-01-kolodziejska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221201T121500
+DTEND;TZID=Europe/Warsaw:20221201T134500
+SUMMARY:Spacery losowe w rzadkim losowym środowisku
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alicja Kołodziejska (IM UWr)\nSeminarium: Teoria prawdopodobie
+ ństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/prawdopodobienstwo#2022-12-01-kolodziejska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2022-
+ 12-01-kolodziejska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-03-02-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230302T121500
+DTEND;TZID=Europe/Warsaw:20230302T134500
+SUMMARY:Ekstrema odbitych procesów gaussowskich w dyskretnym czasie
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2023-03-02-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 03-02-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-03-30-arendarczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230330T121500
+DTEND;TZID=Europe/Warsaw:20230330T134500
+SUMMARY:From slash distributions to generalized convolutions
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Marek Arendarczyk (IM UWr)\nSeminarium: Teoria prawdopodobieńs
+ twa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/prawdopodobienstwo#2023-03-30-arendarczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 03-30-arendarczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-05-11-rolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230511T121500
+DTEND;TZID=Europe/Warsaw:20230511T134500
+SUMMARY:Simulation of uniformly distributed points on some geometrical obje
+ cts
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Rolski (IM UWr)\nSeminarium: Teoria prawdopodobieństwa 
+ i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/prawdopodobienstwo#2023-05-11-rolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 05-11-rolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-06-15-marynych@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230615T121500
+DTEND;TZID=Europe/Warsaw:20230615T134500
+SUMMARY:A group theoretic approach to convex hulls and (K\,G)-convex hulls:
+  basic properties\, examples and applications
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Oleksandr Marynych (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-06-15
+ -marynych
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 06-15-marynych
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-06-29-panorska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230629T121500
+DTEND;TZID=Europe/Warsaw:20230629T134500
+SUMMARY:The Greenwood statistic\, stochastic dominance\, clustering and hea
+ vy tails
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna K. Panorska (University of Nevada\, Reno)\nSeminarium: Teo
+ ria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/prawdopodobienstwo#2023-06-29-panorska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 06-29-panorska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-06-29-kozubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230629T131500
+DTEND;TZID=Europe/Warsaw:20230629T144500
+SUMMARY:The Classical Laplace Distribution: Fundamental Properties\, Extens
+ ions\, and Applications
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz J. Kozubowski (University of Nevada\, Reno)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-06-29-kozubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 06-29-kozubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-10-26-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231026T121500
+DTEND;TZID=Europe/Warsaw:20231026T134500
+SUMMARY:Ekstrema pól gaussowskich z nie-addytywną strukturą zależności
+ \, z zastosowaniem do "performance tables" i wartości własnych gaussowsk
+ ich macierzy unitarnych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2023-10-26-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 10-26-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2023-11-09-ievlev@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231109T121500
+DTEND;TZID=Europe/Warsaw:20231109T134500
+SUMMARY:Extremes of multivariate locally-additive Gaussian random fields
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Pavel Ievlev (Université de Lausanne)\nSeminarium: Teoria praw
+ dopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/prawdopodobienstwo#2023-11-09-ievlev
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2023-
+ 11-09-ievlev
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2024-05-16-wachtel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240516T131500
+DTEND;TZID=Europe/Warsaw:20240516T144500
+SUMMARY:Random walks in cones
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Vitali Wachtel (Bielefeld University)\nSeminarium: Teoria prawd
+ opodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/prawdopodobienstwo#2024-05-16-wachtel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2024-
+ 05-16-wachtel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2024-06-13-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240613T121500
+DTEND;TZID=Europe/Warsaw:20240613T134500
+SUMMARY:Negative "probabilities" (in the theory of duality of Markov chains
+ ) and set-valued dual chains
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2024-06-13-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2024-
+ 06-13-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2024-06-27-blaszczyszyn@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240627T121500
+DTEND;TZID=Europe/Warsaw:20240627T134500
+SUMMARY:Hyperuniformity
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Bartłomiej Błaszczyszyn (INRIA\, Paris)\nSeminarium: Teoria p
+ rawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/prawdopodobienstwo#2024-06-27-blaszczyszyn
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2024-
+ 06-27-blaszczyszyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2024-10-17-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241017T121500
+DTEND;TZID=Europe/Warsaw:20241017T134500
+SUMMARY:Ekstrema odbitych (w 0) procesów gaussowskich
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2024-10-17-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2024-
+ 10-17-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2024-11-28-kriukov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241128T121500
+DTEND;TZID=Europe/Warsaw:20241128T134500
+SUMMARY:Functional Central Limit Theorem for the simultaneous subgraph coun
+ t of dynamic Erdős-Rényi random graphs
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Nikolai Kriukov (University of Amsterdam)\nSeminarium: Teoria p
+ rawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/prawdopodobienstwo#2024-11-28-kriukov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2024-
+ 11-28-kriukov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2025-01-23-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250123T121500
+DTEND;TZID=Europe/Warsaw:20250123T134500
+SUMMARY:On decoupled random walks
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexander Iksanov (Taras Shevchenko National University of Kyiv
+ )\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-01-23-
+ iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-
+ 01-23-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2025-01-30-shevchenko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250130T121500
+DTEND;TZID=Europe/Warsaw:20250130T134500
+SUMMARY:Stratonovich stochastic differential equation with power non-linear
+ ity: (non)-uniqueness and selection problem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Georgiy Shevchenko (Kyiv School of Economics)\nSeminarium: Teor
+ ia prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/prawdopodobienstwo#2025-01-30-shevchenko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-
+ 01-30-shevchenko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2025-07-10-panorska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250710T121500
+DTEND;TZID=Europe/Warsaw:20250710T134500
+SUMMARY:From butterflies to atmospheric rivers: a journey with heavy tails
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna K. Panorska (University of Nevada Reno)\nSeminarium: Teori
+ a prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/prawdopodobienstwo#2025-07-10-panorska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-
+ 07-10-panorska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2025-10-16-kepczynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251016T121500
+DTEND;TZID=Europe/Warsaw:20251016T134500
+SUMMARY:Asymptotyki funkcjonałów procesów gaussowskich i Lévy'ego z uwz
+ ględnieniem modeli ryzyka i kolejek
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Kępczyński (IM UWr)\nSeminarium: Teoria prawdopodob
+ ieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/prawdopodobienstwo#2025-10-16-kepczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-
+ 10-16-kepczynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2025-10-23-kriukov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251023T121500
+DTEND;TZID=Europe/Warsaw:20251023T134500
+SUMMARY:Limit theorems for Gaussian-fed queueing networks in light and heav
+ y traffic
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Nikolai Kriukov (University of Amsterdam)\nSeminarium: Teoria p
+ rawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/prawdopodobienstwo#2025-10-23-kriukov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2025-
+ 10-23-kriukov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-03-12-debicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260312T121500
+DTEND;TZID=Europe/Warsaw:20260312T134500
+SUMMARY:Twierdzenia graniczne dla gaussowskich sieci stochastycznych w waru
+ nkach małych oraz dużych obciążeń
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Dębicki (IM UWr)\nSeminarium: Teoria prawdopodobień
+ stwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/prawdopodobienstwo#2026-03-12-debicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 03-12-debicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-03-19-lorek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260319T142000
+DTEND;TZID=Europe/Warsaw:20260319T155000
+SUMMARY:Robust Importance Sampling for Rare Events via Constrained Gaussian
+  Mixtures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Paweł Lorek (IM UWr)\nSeminarium: Teoria prawdopodobieństwa i
+  modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /prawdopodobienstwo#2026-03-19-lorek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 03-19-lorek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-05-14-iksanov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260514T131500
+DTEND;TZID=Europe/Warsaw:20260514T144500
+SUMMARY:On local large deviations for decoupled random walks
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Aleksander Iksanov (Taras Shevchenko National University of Kyi
+ v)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-05-14
+ -iksanov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 05-14-iksanov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-05-14-kotelnikova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260514T131500
+DTEND;TZID=Europe/Warsaw:20260514T144500
+SUMMARY:On tail behavior of infinite sums of independent indicators
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Valeria Kotelnikova (Taras Shevchenko National University of Ky
+ iv)\nSeminarium: Teoria prawdopodobieństwa i modelowanie stochastyczne\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-05-1
+ 4-kotelnikova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 05-14-kotelnikova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-05-28-jedidi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260528T142000
+DTEND;TZID=Europe/Warsaw:20260528T155000
+SUMMARY:Building infinite divisibility by extending Lévy-Laplace exponents
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Wissem Jedidi (King Saud University)\nSeminarium: Teoria prawdo
+ podobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/prawdopodobienstwo#2026-05-28-jedidi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 05-28-jedidi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-07-02-panorska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260702T121500
+DTEND;TZID=Europe/Warsaw:20260702T134500
+SUMMARY:From Atmospheric Rivers to Flood Risk: A Multivariate Model for Ext
+ reme Precipitation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna K. Panorska (University of Nevada\, Reno)\nSeminarium: Teo
+ ria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/prawdopodobienstwo#2026-07-02-panorska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 07-02-panorska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-prawdopodobienstwo-2026-07-02-kozubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260702T131500
+DTEND;TZID=Europe/Warsaw:20260702T144500
+SUMMARY:Flexible Multivariate Skew Distributions via Coordinate-wise and Sp
+ ectral Gaussian Mixtures
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz J. Kozubowski (University of Nevada\, Reno)\nSeminarium:
+  Teoria prawdopodobieństwa i modelowanie stochastyczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-07-02-kozubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/prawdopodobienstwo#2026-
+ 07-02-kozubowski
+END:VEVENT
+END:VCALENDAR

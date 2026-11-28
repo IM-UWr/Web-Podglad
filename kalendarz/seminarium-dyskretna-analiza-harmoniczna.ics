@@ -1,0 +1,3621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Dyskretna analiza harmoniczna i niekomutatywna pro
+ babilistyka
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-01-09-jasiulis-goldyn@im-uwr.git
+ hub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140109T101500
+DTEND;TZID=Europe/Warsaw:20140109T114500
+SUMMARY:Monotoniczność i własność braku pamięci w algebrach splotów 
+ uogólnionych. Konstrukcja procesów Poissona
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Barbara Jasiulis-Gołdyn\nSeminarium: Dyskretna analiza harmoni
+ czna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/dyskretna-analiza-harmoniczna#2014-01-09-jasiulis-goldyn
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-01-09-jasiulis-goldyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-01-16-wojtylak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140116T101500
+DTEND;TZID=Europe/Warsaw:20140116T114500
+SUMMARY:O spektralnych własnościach H-samosprzężonych macierzy losowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Michał Wojtylak\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2014-01-16-wojtylak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-01-16-wojtylak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-02-27-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140227T101500
+DTEND;TZID=Europe/Warsaw:20140227T114500
+SUMMARY:Systems of matricial R-circular operators
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2014-02-27-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-02-27-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-03-06-piszczek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140306T101500
+DTEND;TZID=Europe/Warsaw:20140306T114500
+SUMMARY:Nieprzemienna przestrzeń Schwartza
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Piszczek\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2014-03-06-piszczek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-03-06-piszczek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-03-13-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140313T101500
+DTEND;TZID=Europe/Warsaw:20140313T114500
+SUMMARY:Uogólnione wyznaczniki i związki z procesami gaussowskimi
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Bożejko\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2014-03-13-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-03-13-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-04-03-krystek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140403T101500
+DTEND;TZID=Europe/Warsaw:20140403T114500
+SUMMARY:Miary semistabilne w warunkowo wolnej probabilistyce
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Krystek\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2014-04-03-krystek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-04-03-krystek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-04-24-kryakin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140424T101500
+DTEND;TZID=Europe/Warsaw:20140424T114500
+SUMMARY:Specjalne moduły ciągłości i stała w twierdzeniu Jacksona-Stec
+ hkina
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Yuriy Kryakin\nSeminarium: Dyskretna analiza harmoniczna i niek
+ omutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ dyskretna-analiza-harmoniczna#2014-04-24-kryakin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-04-24-kryakin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-05-08-derezinski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140508T101500
+DTEND;TZID=Europe/Warsaw:20140508T114500
+SUMMARY:Jak uczyć funkcji specjalnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jan Dereziński\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2014-05-08-derezinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-05-08-derezinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-05-15-kusmierz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140515T101500
+DTEND;TZID=Europe/Warsaw:20140515T114500
+SUMMARY:Wielomiany Jacka - formuła rekurencyjna
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Bartosz Kuśmierz\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2014-05-15-kusmierz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-05-15-kusmierz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-05-22-kusmierz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140522T101500
+DTEND;TZID=Europe/Warsaw:20140522T114500
+SUMMARY:Wielomiany Jacka - formuła rekurencyjna (część II)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Bartosz Kuśmierz\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2014-05-22-kusmierz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-05-22-kusmierz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-05-29-lugiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140529T101500
+DTEND;TZID=Europe/Warsaw:20140529T114500
+SUMMARY:Efektywne Dynamiki Kwantowych Półgrup Dynamicznych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Ługiewicz\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2014-05-29-lugiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-05-29-lugiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-10-16-wysoczanski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141016T101500
+DTEND;TZID=Europe/Warsaw:20141016T114500
+SUMMARY:Dwuwymiarowe deformacje operatorów i związki z t-deformacją
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Janusz Wysoczański\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2014-10-16-wysoczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-10-16-wysoczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-10-23-trojan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141023T101500
+DTEND;TZID=Europe/Warsaw:20141023T114500
+SUMMARY:Jądra ciepła na budynkach afinicznych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Bartosz Trojan\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2014-10-23-trojan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-10-23-trojan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-11-06-kobuszewski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141106T101500
+DTEND;TZID=Europe/Warsaw:20141106T114500
+SUMMARY:Iteracyjne równania funkcyjne
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Kobuszewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2014-11-06-kobuszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-11-06-kobuszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-11-13-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141113T101500
+DTEND;TZID=Europe/Warsaw:20141113T114500
+SUMMARY:One to one correspondence between generating functionals and cocycl
+ es on quantum groups in the presence of symmetry
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2014-11-13-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-11-13-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-11-20-kobuszewski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141120T101500
+DTEND;TZID=Europe/Warsaw:20141120T114500
+SUMMARY:Iteracyjne równania funkcyjne (part II)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Kobuszewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2014-11-20-kobuszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-11-20-kobuszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-12-04-penson@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141204T101500
+DTEND;TZID=Europe/Warsaw:20141204T114500
+SUMMARY:Operator Theory of Evolution Equations versus Combinatorics
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Karol Penson\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2014-12-04-penson
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-12-04-penson
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2014-12-11-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141211T101500
+DTEND;TZID=Europe/Warsaw:20141211T114500
+SUMMARY:Oszacowania jądra ciepła Jacobiego
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Nowak\nSeminarium: Dyskretna analiza harmoniczna i niekomu
+ tatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dys
+ kretna-analiza-harmoniczna#2014-12-11-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2014-12-11-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-01-15-krystek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150115T101500
+DTEND;TZID=Europe/Warsaw:20150115T114500
+SUMMARY:O pewnym uogólnieniu d-deformacji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Krystek\, Łukasz Wojakowski\nSeminarium: Dyskretna analiz
+ a harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/dyskretna-analiza-harmoniczna#2015-01-15-krystek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-01-15-krystek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-02-26-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150226T101500
+DTEND;TZID=Europe/Warsaw:20150226T114500
+SUMMARY:Zerowa korelacja a niekomutatywna niezależność
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2015-02-26-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-02-26-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-03-05-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150305T101500
+DTEND;TZID=Europe/Warsaw:20150305T114500
+SUMMARY:A remark on Some Generalized Gaussian Process
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Bożejko\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2015-03-05-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-03-05-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-04-02-muraki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150402T101500
+DTEND;TZID=Europe/Warsaw:20150402T114500
+SUMMARY:q-Convolution\, its impossibility and possibility
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Naofumi Muraki\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2015-04-02-muraki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-04-02-muraki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-04-30-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150430T101500
+DTEND;TZID=Europe/Warsaw:20150430T114500
+SUMMARY:Dodatnia określoność zdeformowanych liczb Fussa
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Młotkowski\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2015-04-30-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-04-30-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-05-07-skalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150507T101500
+DTEND;TZID=Europe/Warsaw:20150507T114500
+SUMMARY:Around Property (T) and Haagerup property for quantum groups - a gl
+ obal point of view
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Adam Skalski\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2015-05-07-skalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-05-07-skalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-05-07-wang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150507T111500
+DTEND;TZID=Europe/Warsaw:20150507T124500
+SUMMARY:Sidon sets for compact quantum groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Simeng Wang\nSeminarium: Dyskretna analiza harmoniczna i niekom
+ utatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dy
+ skretna-analiza-harmoniczna#2015-05-07-wang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-05-07-wang
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-05-14-gorska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150514T101500
+DTEND;TZID=Europe/Warsaw:20150514T114500
+SUMMARY:Stabilne rozkady prawdopodobienstwa typu Levy
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Katarzyna Górska\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2015-05-14-gorska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-05-14-gorska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-05-28-schrempf@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150528T101500
+DTEND;TZID=Europe/Warsaw:20150528T114500
+SUMMARY:Noncommutative Rational Functions in Free Probability
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Konrad Schrempf\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2015-05-28-schrempf
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-05-28-schrempf
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-06-25-sinha@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150625T120000
+DTEND;TZID=Europe/Warsaw:20150625T133000
+SUMMARY:On the Trace Formulae in Operator Theory
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Kalyan B. Sinha\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2015-06-25-sinha
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-06-25-sinha
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-10-08-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151008T101500
+DTEND;TZID=Europe/Warsaw:20151008T114500
+SUMMARY:O nowej charakteryzacji rozkładu normalnego
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2015-10-08-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-10-08-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-10-15-weber@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151015T101500
+DTEND;TZID=Europe/Warsaw:20151015T114500
+SUMMARY:From Woronowicz's Tannaka-Krein result to examples of combinatorial
+  quantum groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Moritz Weber (Universität des Saarlandes\, Saarbrücken)\nSemi
+ narium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#
+ 2015-10-15-weber
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-10-15-weber
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-10-29-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151029T101500
+DTEND;TZID=Europe/Warsaw:20151029T114500
+SUMMARY:O Dwóch Wybranych Problemach z Analizy Harmonicznej w Przestrzeni 
+ Fazowej
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Nowak (Drexel University\, Filadelfia\, USA)\nSeminar
+ ium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#201
+ 5-10-29-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-10-29-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-11-19-grela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151119T101500
+DTEND;TZID=Europe/Warsaw:20151119T114500
+SUMMARY:Burgers dynamics in non-Hermitian random matrix models
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jacek Grela (Instytut Fizyki\, Uniwersytet Jagielloński)\nSemi
+ narium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#
+ 2015-11-19-grela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-11-19-grela
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-11-26-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151126T101500
+DTEND;TZID=Europe/Warsaw:20151126T114500
+SUMMARY:Operatory R-cyrkularne i asymptotyka bloków niehermitowskich macie
+ rzy Gaussowskich
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2015-11-26-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-11-26-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-12-10-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151210T101500
+DTEND;TZID=Europe/Warsaw:20151210T114500
+SUMMARY:q-dyskretne procesy Gaussowskie
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Bożejko\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2015-12-10-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-12-10-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2015-12-17-gismatulin@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151217T101500
+DTEND;TZID=Europe/Warsaw:20151217T114500
+SUMMARY:O użyteczności entropii soficznej
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jakub Gismatulin\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2015-12-17-gismatulin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2015-12-17-gismatulin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-01-07-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160107T101500
+DTEND;TZID=Europe/Warsaw:20160107T114500
+SUMMARY:Przestrzenie Focka powiązane z grupami Coxetera
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2016-01-07-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-01-07-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-01-14-kobuszewski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160114T101500
+DTEND;TZID=Europe/Warsaw:20160114T114500
+SUMMARY:Wstęp do teorii iteracyjnych równań funkcyjnych
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Rafał Kobuszewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2016-01-14-kobuszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-01-14-kobuszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-01-21-kordecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160121T101500
+DTEND;TZID=Europe/Warsaw:20160121T114500
+SUMMARY:q-analogi\, geometrie skończone i ich losowe podzbiory
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Wojciech Kordecki\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2016-01-21-kordecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-01-21-kordecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-01-28-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160128T101500
+DTEND;TZID=Europe/Warsaw:20160128T114500
+SUMMARY:Kanoniczne biwolne operatory kreacji i anihilacji na wolnej przestr
+ zeni Focka
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Piotr Dacko\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2016-01-28-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-01-28-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-02-25-salapata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160225T121500
+DTEND;TZID=Europe/Warsaw:20160225T134500
+SUMMARY:Kombinatoryka produktów macierzy losowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Sałapata\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2016-02-25-salapata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-02-25-salapata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-03-03-shulman@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160303T121500
+DTEND;TZID=Europe/Warsaw:20160303T134500
+SUMMARY:On some lifting problems in C*-algebras and Operator Theory
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tatiana Shulman (IM PAN - Warszawa)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-03-03-shulman
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-03-03-shulman
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-03-10-joziak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160310T121500
+DTEND;TZID=Europe/Warsaw:20160310T134500
+SUMMARY:O kwantowych ciągach rosnących
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Paweł Józiak (IM PAN - Warszawa)\nSeminarium: Dyskretna anali
+ za harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-03-10-joziak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-03-10-joziak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-03-17-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160317T121500
+DTEND;TZID=Europe/Warsaw:20160317T134500
+SUMMARY:Uwagi o wolnej nieskończonej podzielności
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2016-03-17-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-03-17-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-03-31-tomilov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160331T121500
+DTEND;TZID=Europe/Warsaw:20160331T134500
+SUMMARY:Rachunki funkcyjne\, subordynacja i holomorficzność z lotu ptaka
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Yuriy Tomilov (IMPAN\, Toruń)\nSeminarium: Dyskretna analiza h
+ armoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/dyskretna-analiza-harmoniczna#2016-03-31-tomilov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-03-31-tomilov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-04-07-rzeszut@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160407T121500
+DTEND;TZID=Europe/Warsaw:20160407T134500
+SUMMARY:New class of idempotent Fourier multipliers on $H^1(\\mathbb{T}\\ti
+ mes\\mathbb{T})$
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Maciej Rzeszut (IMPAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2016-04-07-rzeszut
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-04-07-rzeszut
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-04-21-wasilewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160421T121500
+DTEND;TZID=Europe/Warsaw:20160421T134500
+SUMMARY:Haagerup approximation property of q-deformed Araki-Woods algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mateusz Wasilewski (IMPAN)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2016-04-21-wasilewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-04-21-wasilewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-04-28-ohrysko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160428T121500
+DTEND;TZID=Europe/Warsaw:20160428T134500
+SUMMARY:Miary rozsądne
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Przemysław Ohrysko (IMPAN)\nSeminarium: Dyskretna analiza harm
+ oniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/dyskretna-analiza-harmoniczna#2016-04-28-ohrysko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-04-28-ohrysko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-05-05-adamczak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160505T121500
+DTEND;TZID=Europe/Warsaw:20160505T134500
+SUMMARY:Zamykanie informacji klasycznej w stanach kwantowych. Konstrukcje o
+ parte o losowe macierze unitarne.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Radosław Adamczak (Uniwersytet Warszawski)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-05-05-ada
+ mczak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-05-05-adamczak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-05-19-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160519T121500
+DTEND;TZID=Europe/Warsaw:20160519T134500
+SUMMARY:Czego nie wiemy o charakterach Jacka?
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Śniady (UAM\, IMPAN)\nSeminarium: Dyskretna analiza harm
+ oniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/dyskretna-analiza-harmoniczna#2016-05-19-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-05-19-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-06-02-chudoba@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160602T121500
+DTEND;TZID=Europe/Warsaw:20160602T134500
+SUMMARY:Realizm (platonizm) w matematyce w rozumiejącej interpretacji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiesław Chudoba (Polskie Towarzystwo Filozoficzne-Radom)\nSemi
+ narium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#
+ 2016-06-02-chudoba
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-06-02-chudoba
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-06-09-wojtylak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160609T121500
+DTEND;TZID=Europe/Warsaw:20160609T134500
+SUMMARY:Niehermitowskie perturbacje dużych macierzy losowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Michał Wojtylak (UJ)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2016-06-09-wojtylak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-06-09-wojtylak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-06-16-kobuszewski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160616T121500
+DTEND;TZID=Europe/Warsaw:20160616T134500
+SUMMARY:Uogólniona transformacja dwumianowa i jej zastosowania w teorii it
+ eracji funkcji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Kobuszewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2016-06-16-kobuszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-06-16-kobuszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-06-23-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160623T121500
+DTEND;TZID=Europe/Warsaw:20160623T134500
+SUMMARY:Kanoniczne bi-wolne operatory kreacji i anihilacji na wolnej przest
+ rzeni Focka\, część II
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Piotr Dacko\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2016-06-23-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-06-23-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-09-20-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160920T091500
+DTEND;TZID=Europe/Warsaw:20160920T104500
+SUMMARY:Spreadability\, cumulants and Hausdorff series
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Franz Lehner (Technische Universität Graz)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-09-20-leh
+ ner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-09-20-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-10-06-tarnowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161006T101500
+DTEND;TZID=Europe/Warsaw:20161006T114500
+SUMMARY:Druga część twierdzenia Haagerupa-Larsena i funkcja korelacji dl
+ a wektorów własnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Tarnowski (Uniwersytet Jagielloński)\nSeminarium: Dys
+ kretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-10-06-
+ tarnowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-10-06-tarnowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-10-27-salapata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161027T101500
+DTEND;TZID=Europe/Warsaw:20161027T114500
+SUMMARY:Kombinatoryka produktów macierzy losowych\, cz II.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Sałapata\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2016-10-27-salapata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-10-27-salapata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-11-03-dabrowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161103T101500
+DTEND;TZID=Europe/Warsaw:20161103T114500
+SUMMARY:Noncommutative Borsuk-Ulam-type conjecture revisited
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ludwik Dąbrowski\, Piotr M. Hajac (SISSA Trieste/IMPAN\; IMPAN
+ )\nSeminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilisty
+ ka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmo
+ niczna#2016-11-03-dabrowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-11-03-dabrowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-11-10-krystek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161110T101500
+DTEND;TZID=Europe/Warsaw:20161110T114500
+SUMMARY:Direct product of automorphism groups of digraphs
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Krystek\, Łukasz Wojakowski\nSeminarium: Dyskretna analiz
+ a harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-11-10-krystek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-11-10-krystek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-11-17-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161117T101500
+DTEND;TZID=Europe/Warsaw:20161117T114500
+SUMMARY:bm-Central Limit Theorem associated with nonsymmetric cone
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oussi Lahcen (Hassan I University\, Maroko)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2016-11-17-ous
+ si
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-11-17-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2016-12-08-el-harti@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161208T101500
+DTEND;TZID=Europe/Warsaw:20161208T114500
+SUMMARY:The amenability from algebraic and analytical perspective
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rachid El Harti (Université Hassan I FST de Settat\, Maroko)\n
+ Seminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmonic
+ zna#2016-12-08-el-harti
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2016-12-08-el-harti
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-01-12-lytova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170112T101500
+DTEND;TZID=Europe/Warsaw:20170112T114500
+SUMMARY:Linear eigenvalue statistics for sample covariance matrices without
+  independent structure in columns
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Lytova (Uniwersytet Opolski)\nSeminarium: Dyskretna analiz
+ a harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-01-12-lytova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-01-12-lytova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-01-19-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170119T101500
+DTEND;TZID=Europe/Warsaw:20170119T114500
+SUMMARY:Poisson type limit theorems for a noncommutative independence assoc
+ iated with positive symmetric cones
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oussi Lahcen (Hassan I University\, Maroko)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-01-19-ous
+ si
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-01-19-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-01-24-obata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170124T121500
+DTEND;TZID=Europe/Warsaw:20170124T134500
+SUMMARY:Distance matrices and quadratic embedding of graphs
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Nobuaki Obata (Tohoku University)\nSeminarium: Dyskretna analiz
+ a harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-01-24-obata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-01-24-obata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-01-26-griseta@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170126T101500
+DTEND;TZID=Europe/Warsaw:20170126T114500
+SUMMARY:On the distributions of position operators on Weakly Monotone Fock 
+ Space
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Maria Elena Griseta (University of Bari Aldo Moro)\nSeminarium:
+  Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-01
+ -26-griseta
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-01-26-griseta
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-02-02-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170202T101500
+DTEND;TZID=Europe/Warsaw:20170202T114500
+SUMMARY:Semiclassical asymptotics of GLN(C) tensor products and quantum ran
+ dom matrices
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Śniady (IMPAN)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2017-02-02-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-02-02-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-02-14-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170214T121500
+DTEND;TZID=Europe/Warsaw:20170214T134500
+SUMMARY:Consequences of the torsion noncommutative Borsuk-Ulam Theorem
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Hajac (IMPAN)\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2017-02-14-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-02-14-hajac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-02-23-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170223T101500
+DTEND;TZID=Europe/Warsaw:20170223T114500
+SUMMARY:Cancellation phenomenon in free probability
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont (Uniwersytet Ekonomiczny)\nSeminarium: Dyskretna
+  analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-02-23-ejsmon
+ t
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-02-23-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-03-02-kobuszewski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170302T101500
+DTEND;TZID=Europe/Warsaw:20170302T114500
+SUMMARY:Szacowanie i badanie zbieżności iteracji szeregów
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Kobuszewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2017-03-02-kobuszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-03-02-kobuszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-03-23-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170323T101500
+DTEND;TZID=Europe/Warsaw:20170323T114500
+SUMMARY:Non-commutative separate continuity: Ellis joint continuity theorem
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das (University of Oulu\, Finland)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-03-23-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-03-23-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-03-28-werner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170328T121500
+DTEND;TZID=Europe/Warsaw:20170328T134500
+SUMMARY:Symmetric spaces and K-theory
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Wend Werner (Universität Münster)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-03-28-werner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-03-28-werner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-03-30-wasilewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170330T101500
+DTEND;TZID=Europe/Warsaw:20170330T114500
+SUMMARY:Complete metric approximation property of q-Araki-Woods algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mateusz Wasilewski (IMPAN)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2017-03-30-wasilewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-03-30-wasilewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-04-06-wojciechowski@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170406T101500
+DTEND;TZID=Europe/Warsaw:20170406T114500
+SUMMARY:Anisotropic Ornstein noninequalieties
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Michał Wojciechowski (IMPAN)\nSeminarium: Dyskretna analiza ha
+ rmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/dyskretna-analiza-harmoniczna#2017-04-06-wojciechowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-04-06-wojciechowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-04-13-prykarpatski@im-uwr.github
+ .io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170413T101500
+DTEND;TZID=Europe/Warsaw:20170413T114500
+SUMMARY:The classsical rational Lax matrices versus the Yang-Baxter equatio
+ n canonical solution
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anatolij K. Prykarpatski (Dept. of the Applied Mathematics at A
+ GH University of Science and Technology of Krakow)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-04-13-prykarp
+ atski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-04-13-prykarpatski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-04-27-zyczkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170427T101500
+DTEND;TZID=Europe/Warsaw:20170427T114500
+SUMMARY:Spectral properties of some ensembles of random matrices
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Karol Życzkowski (IF UJ & CFT PAN)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-04-27-zyczkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-04-27-zyczkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-05-11-ohrysko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170511T101500
+DTEND;TZID=Europe/Warsaw:20170511T114500
+SUMMARY:Spectral theory of Fourier-Stieltjes algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Przemysław Ohrysko (IMPAN\, Warszawa)\nSeminarium: Dyskretna a
+ naliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-05-11-ohrysko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-05-11-ohrysko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-05-24-zegarlinski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170524T104500
+DTEND;TZID=Europe/Warsaw:20170524T121500
+SUMMARY:Part. I Algebraic and Analytic Questions Concerning Crystallographi
+ c Groups for Hoermander Fields\, Part.II Smoothing and Ergodicity of Dissi
+ pative Dynamics for Large Interacting Systems
+LOCATION:OW IMPAN\, Kopernika 18
+DESCRIPTION:Bogusław Zegarliński (Imperial College London)\nSeminarium: D
+ yskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-05-2
+ 4-zegarlinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-05-24-zegarlinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-05-25-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170525T101500
+DTEND;TZID=Europe/Warsaw:20170525T114500
+SUMMARY:Poisson type limit theorems for a noncommutative independence assoc
+ iated with positive symmetric cones (second part)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oussi Lahcen (Hassan I University\, Maroko)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-05-25-ous
+ si
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-05-25-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-09-28-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170928T101500
+DTEND;TZID=Europe/Warsaw:20170928T114500
+SUMMARY:Cancellation phenomenon in free probability II
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2017-09-28-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-09-28-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-10-12-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171012T100000
+DTEND;TZID=Europe/Warsaw:20171012T113000
+SUMMARY:Związki teorii kohomologii z procesami Levy'ego na zwartych grupac
+ h kwantowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Wysoczańska-Kula\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2017-10-12-wysoczanska-kula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-10-12-wysoczanska-kula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-10-19-griseta@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171019T100000
+DTEND;TZID=Europe/Warsaw:20171019T113000
+SUMMARY:Distributions on non-symmetric position operators on Weakly Monoton
+ e Fock Space.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Maria Elena Griseta (University of Bari Aldo Moro)\nSeminarium:
+  Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-10
+ -19-griseta
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-10-19-griseta
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-10-26-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171026T100000
+DTEND;TZID=Europe/Warsaw:20171026T113000
+SUMMARY:Ujemna określoność metryki na grafie
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Młotkowski\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2017-10-26-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-10-26-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-11-09-gerhold@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171109T100000
+DTEND;TZID=Europe/Warsaw:20171109T113000
+SUMMARY:Bi-monotone independence
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Malte Gerhold (Ernst-Moritz-Arndt-Universität Greifswald)\nSem
+ inarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna
+ #2017-11-09-gerhold
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-11-09-gerhold
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-11-16-franz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171116T100000
+DTEND;TZID=Europe/Warsaw:20171116T113000
+SUMMARY:On monotone independence and quantum stochastic processes with mono
+ tonically independent increments
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Uwe Franz (Universite de Franche-Comte\, Francja)\nSeminarium: 
+ Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-11-
+ 16-franz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-11-16-franz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-11-23-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171123T100000
+DTEND;TZID=Europe/Warsaw:20171123T113000
+SUMMARY:Kazhdhan property (T) for quantum groups: summary and new results.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2017-11-23-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-11-23-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-11-30-bryc@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171130T100000
+DTEND;TZID=Europe/Warsaw:20171130T113000
+SUMMARY:Rodziny miar z jądrem Cauchy'ego i wielomianową funkcją wariancj
+ i
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Włodek Bryc (University of Cincinnati)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2017-11-30-bryc
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-11-30-bryc
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-12-07-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171207T100000
+DTEND;TZID=Europe/Warsaw:20171207T113000
+SUMMARY:Kazhdhan property (T) for quantum groups: summary and new results. 
+ II
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das (IM UWr)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2017-12-07-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-12-07-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2017-12-14-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171214T100000
+DTEND;TZID=Europe/Warsaw:20171214T113000
+SUMMARY:Wolna probabilistyka i zwiazki z logika wielowartosciowa Lukasiewic
+ za oraz entropią Tsallisa
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Bożejko\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2017-12-14-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2017-12-14-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-01-04-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180104T100000
+DTEND;TZID=Europe/Warsaw:20180104T113000
+SUMMARY:Projekcje w wolnej probabilistyce
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Wysoczańska-Kula\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2018-01-04-wysoczanska-kula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-01-04-wysoczanska-kula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-01-25-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180125T100000
+DTEND;TZID=Europe/Warsaw:20180125T113000
+SUMMARY:Locally compact quantum group.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2018-01-25-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-01-25-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-02-08-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180208T100000
+DTEND;TZID=Europe/Warsaw:20180208T113000
+SUMMARY:Wolne prawo tangensa
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2018-02-08-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-02-08-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-02-22-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180222T100000
+DTEND;TZID=Europe/Warsaw:20180222T113000
+SUMMARY:Jack polynomials and their (dual) combinatorics
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Śniady (IM PAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2018-02-22-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-02-22-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-01-nica@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180301T100000
+DTEND;TZID=Europe/Warsaw:20180301T113000
+SUMMARY:Free probabilistic aspects of meandric systems
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Alexandru Nica (University of Waterloo\, Ontario\, Canada)\nSem
+ inarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna
+ #2018-03-01-nica
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-01-nica
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-08-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180308T100000
+DTEND;TZID=Europe/Warsaw:20180308T113000
+SUMMARY:Analogue of Poisson Distribution in bm-Discrete Fock Space
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Lahcen Oussi\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2018-03-08-oussi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-08-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-15-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180315T100000
+DTEND;TZID=Europe/Warsaw:20180315T113000
+SUMMARY:Rodziny rozkładów typu Cauchy'ego-Stieltjesa
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Młotkowski\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2018-03-15-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-15-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-22-salapata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180322T100000
+DTEND;TZID=Europe/Warsaw:20180322T113000
+SUMMARY:Łańcuchy partycji nieprzecinających a kombinatoryka granicznych 
+ momentów macierzy Wisharta
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Rafał Sałapata\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2018-03-22-salapata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-22-salapata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-03-29-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180329T105000
+DTEND;TZID=Europe/Warsaw:20180329T122000
+SUMMARY:Sums of Commutators in Free Probability
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Franz Lehner (TU Graz)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2018-03-29-lehner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-03-29-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-04-05-bice@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180405T101500
+DTEND;TZID=Europe/Warsaw:20180405T114500
+SUMMARY:C*-algebras with and without <<-increasing approximate units
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tristan Bice (IMPAN)\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2018-04-05-bice
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-04-05-bice
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-04-12-sitarz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180412T101500
+DTEND;TZID=Europe/Warsaw:20180412T114500
+SUMMARY:BRAIDED HOPF ALGEBRAS FROM TWISTING
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Andrzej Sitarz (Uniwersytet Jagielloński)\nSeminarium: Dyskret
+ na analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-04-12-sita
+ rz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-04-12-sitarz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-04-19-wesolowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180419T101500
+DTEND;TZID=Europe/Warsaw:20180419T114500
+SUMMARY:Kwadratowe harnessy - brakujące ogniwo miedzy wielomianami Askey-W
+ ilsona a ASEPami
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jacek Wesolowski (Politechnika Warszawska)\nSeminarium: Dyskret
+ na analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-04-19-weso
+ lowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-04-19-wesolowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-04-25-burkchard@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180425T101500
+DTEND;TZID=Europe/Warsaw:20180425T114500
+SUMMARY:O hipotezach Gouldena i Jackson
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Adam Burkchard (UAM\, Poznań)\nSeminarium: Dyskretna analiza h
+ armoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/dyskretna-analiza-harmoniczna#2018-04-25-burkchard
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-04-25-burkchard
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-05-17-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180517T100000
+DTEND;TZID=Europe/Warsaw:20180517T113000
+SUMMARY:Macierze losowe\, ciągłe układy cyrkularne i operator trójkątn
+ y
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski (Politechnika Wrocławska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-05-17-l
+ enczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-05-17-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-05-24-wojtylak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180524T101500
+DTEND;TZID=Europe/Warsaw:20180524T114500
+SUMMARY:The Crouzeix conjecture. Deformations.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Michał Wojtylak (Uniwersytet Jagielloński)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-05-24-wo
+ jtylak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-05-24-wojtylak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-06-07-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180607T100000
+DTEND;TZID=Europe/Warsaw:20180607T113000
+SUMMARY:AN EQUIVARIANT PULLBACK STRUCTURE OF TRIMMABLE GRAPH C*-ALGEBRAS
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2018-06-07-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-06-07-hajac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-06-14-szpojankowski@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180614T100000
+DTEND;TZID=Europe/Warsaw:20180614T113000
+SUMMARY:O pewnym związku pomiędzy c-wolnością i wolnością infinitezym
+ alną
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Kamil Szpojankowski (Politechnika Warszawska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-06-14-s
+ zpojankowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-06-14-szpojankowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-07-12-kawahigashi@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180712T101500
+DTEND;TZID=Europe/Warsaw:20180712T114500
+SUMMARY:Conformal field theory\, vertex operator algebras and operator alge
+ bras.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Yasuyuki Kawahigashi (Tokyo Univ)\nSeminarium: Dyskretna analiz
+ a harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-07-12-kawahigashi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-07-12-kawahigashi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-07-12-john@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180712T113000
+DTEND;TZID=Europe/Warsaw:20180712T130000
+SUMMARY:Real Normal operators and Williamson's Normal Form
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tiju Cherian John (Bangalore)\nSeminarium: Dyskretna analiza ha
+ rmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/dyskretna-analiza-harmoniczna#2018-07-12-john
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-07-12-john
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-07-24-lytvynov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180724T100000
+DTEND;TZID=Europe/Warsaw:20180724T113000
+SUMMARY:Gauge-invariant quasi-free states on the CCR and CAR algebras and t
+ heir particle density
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:E. Lytvynov (Swansea)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2018-07-24-lytvynov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-07-24-lytvynov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-07-24-penson@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180724T111500
+DTEND;TZID=Europe/Warsaw:20180724T124500
+SUMMARY:INTEGER RATIOS OF FACTORIALS AS HAUSDORFF MOMENTS VERSUS ALGEBRAICI
+ TY
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Karol A. Penson (Sorbonne Université\, Univ. Paris VI\, France
+ )\nSeminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilisty
+ ka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmo
+ niczna#2018-07-24-penson
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-07-24-penson
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-07-24-ueda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180724T121500
+DTEND;TZID=Europe/Warsaw:20180724T134500
+SUMMARY:Free infinite divisibility for Generalized Power distributions with
+  Free Poisson term
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Yuki Ueda (Hokkaido University)\nSeminarium: Dyskretna analiza 
+ harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-07-24-ueda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-07-24-ueda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-10-04-bendikov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181004T101500
+DTEND;TZID=Europe/Warsaw:20181004T114500
+SUMMARY:On the spectrum of the hierarchical Schrödinger operator: the case
+  of fast decreasing potential
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Alexander Bendikov (IM UWr)\nSeminarium: Dyskretna analiza harm
+ oniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/dyskretna-analiza-harmoniczna#2018-10-04-bendikov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-10-04-bendikov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-10-11-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181011T101500
+DTEND;TZID=Europe/Warsaw:20181011T114500
+SUMMARY:V-monotone independence
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Dacko (Politechnika Wrocławska)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-10-11-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-10-11-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-10-25-pagacz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181025T101500
+DTEND;TZID=Europe/Warsaw:20181025T114500
+SUMMARY:Rozkłady typu Wolda dla stacjonarnych pól losowych oraz dla komut
+ ujących izometrii na przestrzeni Hilberta
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Patryk Pagacz (Uniwersytet Jagielloński)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-10-25-pagac
+ z
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-10-25-pagacz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-11-08-wilson@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181108T101500
+DTEND;TZID=Europe/Warsaw:20181108T114500
+SUMMARY:Quantum symmetry of the toric noncommutative manifolds
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mitsuru Wilson (IM PAN)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2018-11-08-wilson
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-11-08-wilson
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-11-15-paszkiewicz@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181115T101500
+DTEND;TZID=Europe/Warsaw:20181115T114500
+SUMMARY:Fenomeny związane ze składaniem kontrakcji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Paszkiewicz (Uniwersytet Łódzki)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-11-15-paszkie
+ wicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-11-15-paszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-11-22-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181122T101500
+DTEND;TZID=Europe/Warsaw:20181122T114500
+SUMMARY:V-monotone independence
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Dacko (Politechnika Wrocławska)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-11-22-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-11-22-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-11-29-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181129T101500
+DTEND;TZID=Europe/Warsaw:20181129T114500
+SUMMARY:V-monotone independence
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Dacko (Politechnika Wrocławska)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-11-29-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-11-29-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-12-06-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181206T101500
+DTEND;TZID=Europe/Warsaw:20181206T114500
+SUMMARY:Admissibility conjecture for quantum group representations
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das (IM UWr)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2018-12-06-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-12-06-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-12-13-schmidt@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181213T101500
+DTEND;TZID=Europe/Warsaw:20181213T114500
+SUMMARY:Quantum symmetries of finite graphs
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Simon Schmidt (Universität des Saarlandes)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-12-13-sch
+ midt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-12-13-schmidt
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2018-12-17-blitvic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181217T140000
+DTEND;TZID=Europe/Warsaw:20181217T153000
+SUMMARY:Noncommutative Central Limit Theorems
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Natasha Blitvic (Lancaster University)\nSeminarium: Dyskretna a
+ naliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2018-12-17-blitvic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2018-12-17-blitvic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-01-03-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190103T101500
+DTEND;TZID=Europe/Warsaw:20190103T114500
+SUMMARY:Central Limit Theorem\, Generalized Gaussian processes and realizat
+ ions on some Fock spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Bożejko\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2019-01-03-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-01-03-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-01-10-vergara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190110T101500
+DTEND;TZID=Europe/Warsaw:20190110T114500
+SUMMARY:Radial Schur multipliers
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ignacio Vergara (IM PAN)\nSeminarium: Dyskretna analiza harmoni
+ czna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/dyskretna-analiza-harmoniczna#2019-01-10-vergara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-01-10-vergara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-01-17-gismatullin@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190117T101500
+DTEND;TZID=Europe/Warsaw:20190117T114500
+SUMMARY:On counting multifurcating trees and metric ultraproducts of groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM PAN & UWr)\nSeminarium: Dyskretna analiza
+  harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-01-17-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-01-17-gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-01-24-wang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190124T101500
+DTEND;TZID=Europe/Warsaw:20190124T114500
+SUMMARY:Invariant Markov semigroups on the quantum homogeneous spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Xumin Wang (Universite Bourgogne Franche Comte)\nSeminarium: Dy
+ skretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-01-24
+ -wang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-01-24-wang
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-01-31-damek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190131T101500
+DTEND;TZID=Europe/Warsaw:20190131T114500
+SUMMARY:Solutions to smoothing equations - existence of density.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ewa Damek (IM UWr)\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2019-01-31-damek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-01-31-damek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-02-07-labuschagne@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190207T101500
+DTEND;TZID=Europe/Warsaw:20190207T114500
+SUMMARY:Entropy for general quantum systems.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Louis Labuschagne (North-West University\, RPA)\nSeminarium: Dy
+ skretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-02-07
+ -labuschagne
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-02-07-labuschagne
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-02-14-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190214T101500
+DTEND;TZID=Europe/Warsaw:20190214T114500
+SUMMARY:Generalized Gaussian processes and realizations on some Fock spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2019-02-14-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-02-14-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-02-21-malecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190221T101500
+DTEND;TZID=Europe/Warsaw:20190221T114500
+SUMMARY:Zbieżność miar empirycznych dla rozwiązań stochastycznych maci
+ erzowych równań różniczkowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jacek Małecki (Politechnika Wrocławska)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-02-21-malec
+ ki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-02-21-malecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-02-28-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190228T101500
+DTEND;TZID=Europe/Warsaw:20190228T114500
+SUMMARY:Hudson-Parthasarathy (HP) dilation of translation invariant Markov 
+ semigroups on CQG algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das (IM UWr)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2019-02-28-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-02-28-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-03-07-das@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190307T101500
+DTEND;TZID=Europe/Warsaw:20190307T114500
+SUMMARY:Hudson-Parthasarathy (HP) dilation of translation invariant Markov 
+ semigroups on CQG algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Biswarup Das (IM UWr)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2019-03-07-das
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-03-07-das
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-03-21-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190321T101500
+DTEND;TZID=Europe/Warsaw:20190321T114500
+SUMMARY:Warunkowo monotoniczna niezależność i związany z nią produkt g
+ rafów
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski (Politechnika Wrocławska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-03-21-l
+ enczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-03-21-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-03-28-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190328T101500
+DTEND;TZID=Europe/Warsaw:20190328T114500
+SUMMARY:Warunkowo monotoniczna niezależność i związany z nią produkt g
+ rafów. Część 2
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski (Politechnika Wrocławska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-03-28-l
+ enczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-03-28-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-04-04-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190404T101500
+DTEND;TZID=Europe/Warsaw:20190404T114500
+SUMMARY:Rodzina ciągów typu Catalana
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Młotkowski (IM UWr)\nSeminarium: Dyskretna analiza ha
+ rmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/dyskretna-analiza-harmoniczna#2019-04-04-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-04-04-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-04-18-joziak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190418T101500
+DTEND;TZID=Europe/Warsaw:20190418T114500
+SUMMARY:On quantum increasing sequences (again)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Paweł Józiak (Politechnika Warszawska)\nSeminarium: Dyskretna
+  analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-04-18-joziak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-04-18-joziak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-05-16-lytvynov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190516T101500
+DTEND;TZID=Europe/Warsaw:20190516T114500
+SUMMARY:Sheffer homeomorphisms of spaces of entire functions in infinite di
+ mensional analysis
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Eugene Lytvynov (Swansea University)\nSeminarium: Dyskretna ana
+ liza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-05-16-lytvynov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-05-16-lytvynov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-05-20-lytvynov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190520T101500
+DTEND;TZID=Europe/Warsaw:20190520T114500
+SUMMARY:Fock representations of multicomponent commutation relations
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Eugene Lytvynov (Swansea University)\nSeminarium: Dyskretna ana
+ liza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-05-20-lytvynov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-05-20-lytvynov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-05-23-woyczynski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190523T101500
+DTEND;TZID=Europe/Warsaw:20190523T114500
+SUMMARY:Multiscale conservation laws driven by Levy stable and Linnik diffu
+ sions: asymptotics\, explicit representations\, shock creation\, preservat
+ ion and dissolution
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojbor Woyczyński (Case Western Reserve University)\nSeminariu
+ m: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-
+ 05-23-woyczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-05-23-woyczynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-05-30-baraquin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190530T101500
+DTEND;TZID=Europe/Warsaw:20190530T114500
+SUMMARY:Analysis and probability on finite quantum groups and dual groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Isabelle Baraquin (Université de Franche-Comté)\nSeminarium: 
+ Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-05-
+ 30-baraquin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-05-30-baraquin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-06-06-gismatullin@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190606T101500
+DTEND;TZID=Europe/Warsaw:20190606T114500
+SUMMARY:Metric ultraproducts of groups: simplicity and amenability
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2019-06-06-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-06-06-gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-06-13-shoikhet@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190613T101500
+DTEND;TZID=Europe/Warsaw:20190613T114500
+SUMMARY:Resolvent method in complex analysis and geometric function theory
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:David Shoikhet (The Galilee Research Center for Applied Mathema
+ tics & Holon Institute of Technology)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2019-06-13-shoikhet
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-06-13-shoikhet
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-09-04-crismale@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190904T101500
+DTEND;TZID=Europe/Warsaw:20190904T114500
+SUMMARY:Sums and limit distribution for non symmetric weakly monotone posit
+ ion operators
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Vitonofrio Crismale (University of Bari Aldo Moro)\nSeminarium:
+  Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-09
+ -04-crismale
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-09-04-crismale
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-10-10-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191010T101500
+DTEND;TZID=Europe/Warsaw:20191010T114500
+SUMMARY:Welcome seminar. Positivity and Gaussian processes.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Bożejko (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2019-10-10-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-10-10-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-10-17-szwarc@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191017T101500
+DTEND;TZID=Europe/Warsaw:20191017T114500
+SUMMARY:Closable Hankel forms and moment problems
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Ryszard Szwarc (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2019-10-17-szwarc
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-10-17-szwarc
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-10-24-wysoczanski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191024T101500
+DTEND;TZID=Europe/Warsaw:20191024T114500
+SUMMARY:O pewnej C*-algebrze generowanej przez częściowe izometrie i spek
+ trum jej maksymalnej C*-podalgebry abelowej
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Janusz Wysoczański\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2019-10-24-wysoczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-10-24-wysoczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-10-30-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191030T101500
+DTEND;TZID=Europe/Warsaw:20191030T114500
+SUMMARY:From pushouts to pullbacks: a sample of noncommutative topology
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2019-10-30-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-10-30-hajac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-11-07-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191107T101500
+DTEND;TZID=Europe/Warsaw:20191107T114500
+SUMMARY:V-monotoniczne centralne twierdzenie graniczne
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adrian Dacko\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2019-11-07-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-11-07-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-11-14-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191114T101500
+DTEND;TZID=Europe/Warsaw:20191114T114500
+SUMMARY:V-monotoniczne centralne twierdzenie graniczne
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adrian Dacko\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2019-11-14-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-11-14-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-11-21-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191121T101500
+DTEND;TZID=Europe/Warsaw:20191121T114500
+SUMMARY:Własności rozkładów Fussa-Catalana
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Wojciech Młotkowski\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2019-11-21-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-11-21-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-12-12-cadilhac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191212T101500
+DTEND;TZID=Europe/Warsaw:20191212T114500
+SUMMARY:On the best possible constants in the free Khintchine inequalities
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Leonard Cadilhac\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2019-12-12-cadilhac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-12-12-cadilhac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-12-19-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191219T101500
+DTEND;TZID=Europe/Warsaw:20191219T114500
+SUMMARY:The trace method for cotangent sums
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Franz Lehner\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2019-12-19-lehner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-12-19-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-01-09-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200109T101500
+DTEND;TZID=Europe/Warsaw:20200109T114500
+SUMMARY:Niezależność ortogonalna
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2020-01-09-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-01-09-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-01-16-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200116T101500
+DTEND;TZID=Europe/Warsaw:20200116T114500
+SUMMARY:Twierdzenia graniczne w probabilistyce V-monotonicznej
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Adrian Dacko\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2020-01-16-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-01-16-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-01-23-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200123T101500
+DTEND;TZID=Europe/Warsaw:20200123T114500
+SUMMARY:Niezależność ortogonalna
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2020-01-23-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-01-23-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-01-30-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200130T101500
+DTEND;TZID=Europe/Warsaw:20200130T114500
+SUMMARY:Poisson limit theorems related to random Young diagrams
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Śniady\nSeminarium: Dyskretna analiza harmoniczna i niek
+ omutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ dyskretna-analiza-harmoniczna#2020-01-30-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-01-30-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-02-20-ranallo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200220T101500
+DTEND;TZID=Europe/Warsaw:20200220T114500
+SUMMARY:Non-Commutative Disintegration Theory: from Classical Probability t
+ o Operator Algebras
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Alessio Ranallo\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2020-02-20-ranallo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-02-20-ranallo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-02-27-dolega@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200227T101500
+DTEND;TZID=Europe/Warsaw:20200227T114500
+SUMMARY:Random Young diagrams and the approximate factorization property
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Maciej Dołęga\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2020-02-27-dolega
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-02-27-dolega
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-03-05-wysoczanski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200305T101500
+DTEND;TZID=Europe/Warsaw:20200305T114500
+SUMMARY:Uwagi na temat wspólnego promienia numerycznego dla n operatorów
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Janusz Wysoczański\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2020-03-05-wysoczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-03-05-wysoczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-03-12-wysoczanski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200312T101500
+DTEND;TZID=Europe/Warsaw:20200312T114500
+SUMMARY:Uwagi na temat wspólnego promienia numerycznego dla n operatorów
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Janusz Wysoczański\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2020-03-12-wysoczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-03-12-wysoczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-10-08-cohen@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201008T104500
+DTEND;TZID=Europe/Warsaw:20201008T121500
+SUMMARY:Moments of discrete orthogonal polynomial ensembles
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Philip Cohen\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2020-10-08-cohen
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-10-08-cohen
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-10-19-kuznetsova@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201019T104500
+DTEND;TZID=Europe/Warsaw:20201019T121500
+SUMMARY:New norm estimates for functions of the Laplacian on the `ax+b' gro
+ ups
+LOCATION:sala A\, IM UWr
+DESCRIPTION:Yulia Kuznetsova\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2020-10-19-kuznetsova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-10-19-kuznetsova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-10-29-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201029T104500
+DTEND;TZID=Europe/Warsaw:20201029T121500
+SUMMARY:Noncommutative universal spaces
+LOCATION:zoom.us
+DESCRIPTION:Mariusz Tobolski\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2020-10-29-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-10-29-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-11-05-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201105T104500
+DTEND;TZID=Europe/Warsaw:20201105T121500
+SUMMARY:Noncommutative universal spaces (continue)
+LOCATION:zoom.us
+DESCRIPTION:Mariusz Tobolski\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2020-11-05-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-11-05-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-11-12-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201112T103000
+DTEND;TZID=Europe/Warsaw:20201112T120000
+SUMMARY:Cotangens
+LOCATION:zoom.us
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2020-11-12-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-11-12-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-11-19-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201119T104500
+DTEND;TZID=Europe/Warsaw:20201119T121500
+SUMMARY:V-monotoniczne centralne twierdzenie graniczne\, cz. 2
+LOCATION:zoom.us
+DESCRIPTION:Adrian Dacko\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2020-11-19-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-11-19-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-11-26-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201126T104500
+DTEND;TZID=Europe/Warsaw:20201126T121500
+SUMMARY:V-monotoniczne centralne twierdzenie graniczne\, cz. 3
+LOCATION:zoom.us
+DESCRIPTION:Adrian Dacko\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2020-11-26-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-11-26-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2020-12-03-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201203T103000
+DTEND;TZID=Europe/Warsaw:20201203T120000
+SUMMARY:Analogue of Poisson type limit distribution in discrete bm-Fock spa
+ ce.
+LOCATION:zoom.us
+DESCRIPTION:Lahcen Oussi (IM UWr)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2020-12-03-oussi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2020-12-03-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-01-21-litvinov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210121T103000
+DTEND;TZID=Europe/Warsaw:20210121T120000
+SUMMARY:From Stirling numbers to Stirling operators
+LOCATION:zoom.us
+DESCRIPTION:Eugene Litvinov (Swansea University)\nSeminarium: Dyskretna ana
+ liza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2021-01-21-litvinov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-01-21-litvinov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-03-04-oconnell@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210304T103000
+DTEND;TZID=Europe/Warsaw:20210304T120000
+SUMMARY:Some new perspectives on moments of random matrices
+LOCATION:zoom.us
+DESCRIPTION:Neil O'Connell (University College Dublin)\nSeminarium: Dyskret
+ na analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2021-03-04-ocon
+ nell
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-03-04-oconnell
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-03-18-wasilewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210318T103000
+DTEND;TZID=Europe/Warsaw:20210318T120000
+SUMMARY:Quantum Markov semigroups and the Akemann-Ostrand property
+LOCATION:zoom.us
+DESCRIPTION:Mateusz Wasilewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2021-03-18-wasilewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-03-18-wasilewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-03-25-ben-salah@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210325T103000
+DTEND;TZID=Europe/Warsaw:20210325T120000
+SUMMARY:Convolution of an infinitely divisible distribution and a Bernoulli
+  distribution
+LOCATION:zoom.us
+DESCRIPTION:Nahla Ben Salah (Sfax University and Carthage University-Tunisi
+ a)\nSeminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilist
+ yka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harm
+ oniczna#2021-03-25-ben-salah
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-03-25-ben-salah
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-04-08-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210408T103000
+DTEND;TZID=Europe/Warsaw:20210408T120000
+SUMMARY:V-monotoniczne centralne twierdzenie graniczne\, cz. 4
+LOCATION:zoom.us
+DESCRIPTION:Adrian Dacko (Politechnika Wrocławska)\nSeminarium: Dyskretna 
+ analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2021-04-08-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-04-08-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-04-15-franz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210415T103000
+DTEND;TZID=Europe/Warsaw:20210415T120000
+SUMMARY:De Finetti theorems for the unitary dual group (a.k.a. the Brown-Gl
+ ockner-von Waldenfels algebra)
+LOCATION:zoom.us
+DESCRIPTION:Uwe Franz (Université de Franche-Comté)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2021-04-15-franz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-04-15-franz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-04-22-odzijewicz@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210422T103000
+DTEND;TZID=Europe/Warsaw:20210422T120000
+SUMMARY:Some Aspects of Positive Kernel Method of Quantization
+LOCATION:zoom.us
+DESCRIPTION:Anatol Odzijewicz\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2021-04-22-odzijewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-04-22-odzijewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-04-29-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210429T103000
+DTEND;TZID=Europe/Warsaw:20210429T120000
+SUMMARY:Equivariant dimensions on graph C*-algebras
+LOCATION:zoom.us
+DESCRIPTION:Mariusz Tobolski\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2021-04-29-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-04-29-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-05-06-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210506T100000
+DTEND;TZID=Europe/Warsaw:20210506T113000
+SUMMARY:Equivariant dimensions on graph C*-algebras (P2)
+LOCATION:zoom.us
+DESCRIPTION:Mariusz Tobolski\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2021-05-06-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-06-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-05-06-arizmendi-echegaray@im-uwr
+ .github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210506T110000
+DTEND;TZID=Europe/Warsaw:20210506T123000
+SUMMARY:Energy of graphs and vertices
+LOCATION:zoom.us
+DESCRIPTION:Octavio Arizmendi Echegaray (CIMAT Guanajuato and Saarbrücken)
+ \nSeminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyk
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-06-arizmendi-echegaray
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-06-arizmendi-echegaray
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-05-13-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210513T103000
+DTEND;TZID=Europe/Warsaw:20210513T120000
+SUMMARY:Eikonal formulation of large dynamical random matrix models
+LOCATION:zoom.us
+DESCRIPTION:Maciej Nowak\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2021-05-13-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-13-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-05-20-fidaleo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210520T103000
+DTEND;TZID=Europe/Warsaw:20210520T120000
+SUMMARY:Spectral and ergodic properties of completely positive maps and dec
+ oherence
+LOCATION:zoom.us
+DESCRIPTION:Francesco Fidaleo (Università di Roma "Tor Vergata")\nSeminari
+ um: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2021
+ -05-20-fidaleo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-20-fidaleo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-05-27-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210527T103000
+DTEND;TZID=Europe/Warsaw:20210527T120000
+SUMMARY:Cyclic Boolean independence
+LOCATION:zoom.us
+DESCRIPTION:Franz Lehner (TU Graz)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2021-05-27-lehner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-05-27-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-06-10-dolega@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210610T103000
+DTEND;TZID=Europe/Warsaw:20210610T120000
+SUMMARY:Signed reflection function in type B as a character and application
+ s
+LOCATION:zoom.us
+DESCRIPTION:Maciej Dołęga\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2021-06-10-dolega
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-06-10-dolega
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-06-24-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210624T103000
+DTEND;TZID=Europe/Warsaw:20210624T120000
+SUMMARY:Random Young diagrams and tableaux: things that we do not know
+LOCATION:zoom.us
+DESCRIPTION:Piotr Śniady\nSeminarium: Dyskretna analiza harmoniczna i niek
+ omutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ dyskretna-analiza-harmoniczna#2021-06-24-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-06-24-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-10-14-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211014T101500
+DTEND;TZID=Europe/Warsaw:20211014T114500
+SUMMARY:Skończone wolne kumulanty
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2021-10-14-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-10-14-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-10-28-krahmer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211028T101500
+DTEND;TZID=Europe/Warsaw:20211028T114500
+SUMMARY:What is a quantum group?
+LOCATION:zoom.us
+DESCRIPTION:Ulrich Krähmer\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2021-10-28-krahmer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-10-28-krahmer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-11-09-baraquin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211109T121500
+DTEND;TZID=Europe/Warsaw:20211109T134500
+SUMMARY:De Finetti Theorems
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Isabelle Baraquin\nSeminarium: Dyskretna analiza harmoniczna i 
+ niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/dyskretna-analiza-harmoniczna#2021-11-09-baraquin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-11-09-baraquin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-11-09-franz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211109T131500
+DTEND;TZID=Europe/Warsaw:20211109T144500
+SUMMARY:A Schoenberg correspondence for k-positive maps
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Uwe Franz\nSeminarium: Dyskretna analiza harmoniczna i niekomut
+ atywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/dysk
+ retna-analiza-harmoniczna#2021-11-09-franz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-11-09-franz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-11-18-szwarc@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211118T101500
+DTEND;TZID=Europe/Warsaw:20211118T114500
+SUMMARY:Properties of quadratic forms associated with positive definite Han
+ kel matrices
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ryszard Szwarc\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2021-11-18-szwarc
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-11-18-szwarc
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-11-25-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211125T101500
+DTEND;TZID=Europe/Warsaw:20211125T114500
+SUMMARY:Zredukowane złącza zwartych grup kwantowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mariusz Tobolski\nSeminarium: Dyskretna analiza harmoniczna i n
+ iekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/dyskretna-analiza-harmoniczna#2021-11-25-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-11-25-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2021-12-02-swieca@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211202T101500
+DTEND;TZID=Europe/Warsaw:20211202T114500
+SUMMARY:Własność Matsumoto-Yora w wolnej probabilistyce
+LOCATION:zoom.us
+DESCRIPTION:Marcin Świeca\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2021-12-02-swieca
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2021-12-02-swieca
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-04-21-krahmer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220421T101500
+DTEND;TZID=Europe/Warsaw:20220421T114500
+SUMMARY:Cyclic duality for slice and orbit 2-categories
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ulrich Krähmer\nSeminarium: Dyskretna analiza harmoniczna i ni
+ ekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/dyskretna-analiza-harmoniczna#2022-04-21-krahmer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-04-21-krahmer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-05-05-muranova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220505T101500
+DTEND;TZID=Europe/Warsaw:20220505T114500
+SUMMARY:Weighted graphs with edge weights from an ordered field
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna Muranova (Uniwersytet Warmińsko-Mazurski w Olsztynie)\nSe
+ minarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczn
+ a#2022-05-05-muranova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-05-05-muranova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-05-19-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220519T101500
+DTEND;TZID=Europe/Warsaw:20220519T114500
+SUMMARY:THE FUNCTORIALITY OF GRAPH ALGEBRAS AND PUSHOUT-TO-PULLBACK THEOREM
+ S
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2022-05-19-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-05-19-hajac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-10-13-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221013T101500
+DTEND;TZID=Europe/Warsaw:20221013T114500
+SUMMARY:Wolne prawo tangensa
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wiktor Ejsmont\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2022-10-13-ejsmont
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-10-13-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-10-20-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221020T101500
+DTEND;TZID=Europe/Warsaw:20221020T114500
+SUMMARY:Distribution for non symmetric position operators on the free toy F
+ ock space
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Lahcen Oussi\nSeminarium: Dyskretna analiza harmoniczna i nieko
+ mutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria/d
+ yskretna-analiza-harmoniczna#2022-10-20-oussi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-10-20-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-10-27-szwarc@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221027T101500
+DTEND;TZID=Europe/Warsaw:20221027T114500
+SUMMARY:Dziedzina domknięcia nieograniczonych macierzy Jacobiego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ryszard Szwarc\nSeminarium: Dyskretna analiza harmoniczna i nie
+ komutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /dyskretna-analiza-harmoniczna#2022-10-27-szwarc
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-10-27-szwarc
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-11-24-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221124T101500
+DTEND;TZID=Europe/Warsaw:20221124T114500
+SUMMARY:Kumulanty Motzkina
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2022-11-24-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-11-24-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-12-01-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221201T101500
+DTEND;TZID=Europe/Warsaw:20221201T114500
+SUMMARY:Kumulanty Motzkina
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Romuald Lenczewski\nSeminarium: Dyskretna analiza harmoniczna i
+  niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/dyskretna-analiza-harmoniczna#2022-12-01-lenczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-12-01-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-12-08-szpojankowski@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221208T101500
+DTEND;TZID=Europe/Warsaw:20221208T114500
+SUMMARY:Wolny rachunek całkowy
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Kamil Szpojankowski (Politechnika Warszawska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2022-12-08-s
+ zpojankowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-12-08-szpojankowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2022-12-15-mlotkowski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221215T101500
+DTEND;TZID=Europe/Warsaw:20221215T114500
+SUMMARY:Rozkłady\, dla których wolna R-transformata jest funkcją wymiern
+ ą
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wojciech Młotkowski (IM UWr)\nSeminarium: Dyskretna analiza ha
+ rmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/dyskretna-analiza-harmoniczna#2022-12-15-mlotkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2022-12-15-mlotkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-01-12-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230112T101500
+DTEND;TZID=Europe/Warsaw:20230112T114500
+SUMMARY:Nierówności dla mnożników Fourierowskich na algebrach grupowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Adam Osękowski (Uniwersytet Warszawski)\nSeminarium: Dyskretna
+  analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-01-12-osekow
+ ski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-01-12-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-01-19-mukhopadhyay@im-uwr.github
+ .io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230119T101500
+DTEND;TZID=Europe/Warsaw:20230119T114500
+SUMMARY:Liberated orthogonal groups: An exercise in noncommutative differen
+ tial calculi
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Sugato Mukhopadhyay (IMPAN)\nSeminarium: Dyskretna analiza harm
+ oniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/dyskretna-analiza-harmoniczna#2023-01-19-mukhopadhyay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-01-19-mukhopadhyay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-01-26-penson@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230126T101500
+DTEND;TZID=Europe/Warsaw:20230126T114500
+SUMMARY:Hausdorff moment problems for combinatorial numbers: heuristics via
+  Meijer G-functions
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Karol A. Penson (LPTMC\, Uniwersytet Paryski)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-01-26-p
+ enson
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-01-26-penson
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-02-02-wang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230202T101500
+DTEND;TZID=Europe/Warsaw:20230202T114500
+SUMMARY:On the factoriality of q-deformed Araki-Woods von Neumann algebras
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Simeng Wang (Harbin Institute of Technology)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-02-02-wa
+ ng
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-02-02-wang
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-03-02-buchala@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230302T101500
+DTEND;TZID=Europe/Warsaw:20230302T114500
+SUMMARY:Rozszerzenia wsteczne obciętych ciągów momentów i problem uzupe
+ łnień przesunięć ważonych na drzewach skierowanych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michał Buchała (Uniwersytet Jagielloński)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-03-02-bu
+ chala
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-03-02-buchala
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-03-09-skalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230309T101500
+DTEND;TZID=Europe/Warsaw:20230309T114500
+SUMMARY:On certain operator Hecke algebras arising as deformations of group
+  algebras of Coxeter groups
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Adam Skalski (IMPAN)\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2023-03-09-skalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-03-09-skalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-03-16-wasilewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230316T101500
+DTEND;TZID=Europe/Warsaw:20230316T114500
+SUMMARY:Recent advances in q-deformed von Neumann algebras
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mateusz Wasilewski (IMPAN\, Warszawa)\nSeminarium: Dyskretna an
+ aliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-03-16-wasilewsk
+ i
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-03-16-wasilewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-03-23-hecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230323T101500
+DTEND;TZID=Europe/Warsaw:20230323T114500
+SUMMARY:The Boolean quadratic forms and tangent law
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Patrycja Hęćka (Politechnika Wrocławska)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-03-23-hec
+ ka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-03-23-hecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-03-30-hecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230330T101500
+DTEND;TZID=Europe/Warsaw:20230330T114500
+SUMMARY:The Boolean quadratic forms and tangent law . (część II)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Patrycja Hęćka (Politechnika Wrocławska)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-03-30-hec
+ ka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-03-30-hecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-04-20-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230420T101500
+DTEND;TZID=Europe/Warsaw:20230420T114500
+SUMMARY:Klasa Witta.
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jan Dymara (IM UWr)\nSeminarium: Dyskretna analiza harmoniczna 
+ i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/dyskretna-analiza-harmoniczna#2023-04-20-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-04-20-dymara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-04-27-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230427T101500
+DTEND;TZID=Europe/Warsaw:20230427T114500
+SUMMARY:Kohomologie Hochschilda uniwersalnych unitarnych grup kwantowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna Wysoczańska-Kula (IM UWr)\nSeminarium: Dyskretna analiza 
+ harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-04-27-wysoczanska-kul
+ a
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-04-27-wysoczanska-kula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-05-11-wojtylak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230511T101500
+DTEND;TZID=Europe/Warsaw:20230511T114500
+SUMMARY:On stability of certain matrix polynomials
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michał Wojtylak (Uniwersytet Jagielloński)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-05-11-wo
+ jtylak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-05-11-wojtylak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-06-01-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230601T101500
+DTEND;TZID=Europe/Warsaw:20230601T114500
+SUMMARY:Symetryzatory na grupie hyperoktahedralnej B(n) (inaczej permutacje
+  znakowane) z zastosowaniami do modeli przestrzeni Focka typuB
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Marek Bożejko (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2023-06-01-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-06-01-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-06-15-bercovici@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230615T101500
+DTEND;TZID=Europe/Warsaw:20230615T114500
+SUMMARY:Connectedness of the support of a free convolution
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Hari Bercovici (Indiana University)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-06-15-bercovici
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-06-15-bercovici
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-11-30-hasik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231130T101500
+DTEND;TZID=Europe/Warsaw:20231130T114500
+SUMMARY:q-wyznaczniki i grafy macierzy
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mikołaj Hasik (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2023-11-30-hasik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-11-30-hasik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-12-07-kumar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231207T101500
+DTEND;TZID=Europe/Warsaw:20231207T114500
+SUMMARY:Fullness of q-Araki-Woods factors
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Manish Kumar (IMPAN)\nSeminarium: Dyskretna analiza harmoniczna
+  i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/dyskretna-analiza-harmoniczna#2023-12-07-kumar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-12-07-kumar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2023-12-14-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231214T101500
+DTEND;TZID=Europe/Warsaw:20231214T114500
+SUMMARY:Operatory Poissona typu B
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wiktor Ejsmont (Politechnika Wrocławska)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2023-12-14-ejsmo
+ nt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2023-12-14-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-02-22-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240222T101500
+DTEND;TZID=Europe/Warsaw:20240222T114500
+SUMMARY:Deformations of q-discrete Fock spaces: relation to q-discrete Herm
+ ite polynomials and operator- Khinchine inequality
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Marek Bożejko (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2024-02-22-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-02-22-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-02-29-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240229T101500
+DTEND;TZID=Europe/Warsaw:20240229T114500
+SUMMARY:Operatory Poissona typu B (część II)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wiktor Ejsmont (Politechnika Wrocławska)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-02-29-ejsmo
+ nt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-02-29-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-03-07-kawnik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240307T101500
+DTEND;TZID=Europe/Warsaw:20240307T114500
+SUMMARY:Języki Dycka i funkcje tworzące
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wiktoria Kawnik (IM UWr)\nSeminarium: Dyskretna analiza harmoni
+ czna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/dyskretna-analiza-harmoniczna#2024-03-07-kawnik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-03-07-kawnik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-04-11-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240411T101500
+DTEND;TZID=Europe/Warsaw:20240411T114500
+SUMMARY:Operatorowe wersje nierownosci Chinczyna-Leinerta-Haagerupa-Buchhol
+ za z zastosowaniami
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Marek Bożejko (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2024-04-11-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-04-11-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-04-18-swiecicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240418T101500
+DTEND;TZID=Europe/Warsaw:20240418T114500
+SUMMARY:No dimension reduction for doubling spaces of $\\ell_q$ for $q>2$
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Święcicki (Politechnika Wrocławska)\nSeminarium: D
+ yskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-04-1
+ 8-swiecicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-04-18-swiecicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-04-25-hasebe@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240425T101500
+DTEND;TZID=Europe/Warsaw:20240425T114500
+SUMMARY:Free probability of type B prime
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Takahiro Hasebe (Hokkaido University)\nSeminarium: Dyskretna an
+ aliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-04-25-hasebe
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-04-25-hasebe
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-05-09-jekel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240509T101500
+DTEND;TZID=Europe/Warsaw:20240509T114500
+SUMMARY:Non-commutative independence defined by trees
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:David Jekel (Fields Institute\, Toronto)\nSeminarium: Dyskretna
+  analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-05-09-jekel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-05-09-jekel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-05-16-daws@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240516T101500
+DTEND;TZID=Europe/Warsaw:20240516T114500
+SUMMARY:Quantum Graphs and their automorphisms
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Matthew Daws (University of Central Lancashire)\nSeminarium: Dy
+ skretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-05-16
+ -daws
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-05-16-daws
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-05-23-roth@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240523T101500
+DTEND;TZID=Europe/Warsaw:20240523T114500
+SUMMARY:Topology of Magnetized Fluid: from knot Encryption to basic Heliosp
+ heric structures
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ilan Roth (University of California Space Sciences\, Berkeley)\
+ nSeminarium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoni
+ czna#2024-05-23-roth
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-05-23-roth
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-10-10-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241010T101500
+DTEND;TZID=Europe/Warsaw:20241010T114500
+SUMMARY:AI dla grup kwantowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Anna Wysoczańska-Kula\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2024-10-10-wysoczanska-kula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-10-10-wysoczanska-kula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-10-17-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241017T101500
+DTEND;TZID=Europe/Warsaw:20241017T114500
+SUMMARY:On limit theorems for linear statistics of Orthogonal Polynomial En
+ sembles
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Grzegorz Świderski (Politechnika Wrocławska)\nSeminarium: Dys
+ kretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-10-17-
+ swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-10-17-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-10-24-skrzypczyk@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241024T101500
+DTEND;TZID=Europe/Warsaw:20241024T114500
+SUMMARY:O kwadratowej zanurzalności grafów dwudzielnych i grafów theta
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Skrzypczyk (Uniwersytet Jagielloński)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-10-24-sk
+ rzypczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-10-24-skrzypczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-10-31-gismatullin@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241031T101500
+DTEND;TZID=Europe/Warsaw:20241031T114500
+SUMMARY:O losowym ciągu Fibonacciego w grupach cyklicznych\, czyli o losow
+ ym produkcie macierzy w GL_m(Z_n)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2024-10-31-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-10-31-gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-11-14-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241114T101500
+DTEND;TZID=Europe/Warsaw:20241114T114500
+SUMMARY:Free Integral Calculus
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Franz Lehner (Uniwersytet Techniczny w Grazu)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-11-14-l
+ ehner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-11-14-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-11-21-skrzypczyk@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241121T101500
+DTEND;TZID=Europe/Warsaw:20241121T114500
+SUMMARY:Zanurzenie kwadratowe grafów theta (część II)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Skrzypczyk (Uniwersytet Jagielloński)\nSeminarium: Dyskr
+ etna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-11-21-sk
+ rzypczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-11-21-skrzypczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-11-28-szpojankowski@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241128T101500
+DTEND;TZID=Europe/Warsaw:20241128T114500
+SUMMARY:Wolne odszumianie\, czyli co warunkowa wolność mówi o warunkowyc
+ h wartościach oczekiwanych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Kamil Szpojankowski (Politechnika Warszawska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-11-28-s
+ zpojankowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-11-28-szpojankowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-12-05-gothe@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241205T101500
+DTEND;TZID=Europe/Warsaw:20241205T114500
+SUMMARY:A partial quantum CW-complex structure for even-dimensional quantum
+  real projective spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Atul Gothe (Uniwersytet Warszawski)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-12-05-gothe
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-12-05-gothe
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-12-12-obata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241212T101500
+DTEND;TZID=Europe/Warsaw:20241212T114500
+SUMMARY:Classification of Graphs Using Quadratic Embedding Constants
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Nobuaki Obata (Uniwersytet Tohoku)\nSeminarium: Dyskretna anali
+ za harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-12-12-obata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-12-12-obata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-01-16-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250116T101500
+DTEND;TZID=Europe/Warsaw:20250116T114500
+SUMMARY:O C*-algebrach grafów topologicznych\, część 1
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mariusz Tobolski (IM UWr)\nSeminarium: Dyskretna analiza harmon
+ iczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/dyskretna-analiza-harmoniczna#2025-01-16-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-01-16-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-01-23-tobolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250123T101500
+DTEND;TZID=Europe/Warsaw:20250123T114500
+SUMMARY:O C*-algebrach grafów topologicznych\, część 2
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mariusz Tobolski (IM UWr)\nSeminarium: Dyskretna analiza harmon
+ iczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/dyskretna-analiza-harmoniczna#2025-01-23-tobolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-01-23-tobolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-01-30-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250130T101500
+DTEND;TZID=Europe/Warsaw:20250130T114500
+SUMMARY:Niezależne zmienne losowe
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiktor Ejsmont (Politechnika Wrocławska)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-01-30-ejsmo
+ nt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-01-30-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-03-27-hecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250327T101500
+DTEND;TZID=Europe/Warsaw:20250327T114500
+SUMMARY:Wybrane operatory działające w podwójnej przestrzeni Focka typu 
+ B
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Patrycja Hęćka (Politechnika Wrocławska)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-03-27-hec
+ ka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-03-27-hecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-04-03-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250403T101500
+DTEND;TZID=Europe/Warsaw:20250403T114500
+SUMMARY:Operatory infinitezymalne w probabilistyce nieprzemiennej i asympto
+ tyce macierzy losowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski (Politechnika Wrocławska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-04-03-l
+ enczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-04-03-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-04-10-lenczewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250410T101500
+DTEND;TZID=Europe/Warsaw:20250410T114500
+SUMMARY:Operatory infinitezymalne w probabilistyce nieprzemiennej i asympto
+ tyce macierzy losowych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Romuald Lenczewski (Politechnika Wrocławska)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-04-10-l
+ enczewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-04-10-lenczewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-04-24-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250424T101500
+DTEND;TZID=Europe/Warsaw:20250424T114500
+SUMMARY:On positive Jacobi matrices with compact inverses
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Świderski (Politechnika Wrocławska)\nSeminarium: Dys
+ kretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-04-24-
+ swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-04-24-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-05-08-hecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250508T101500
+DTEND;TZID=Europe/Warsaw:20250508T114500
+SUMMARY:Operatory Poissona w podwójnej przestrzeni Focka typu B
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Patrycja Hęćka (Politechnika Wrocławska)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-05-08-hec
+ ka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-05-08-hecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-05-15-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250515T101500
+DTEND;TZID=Europe/Warsaw:20250515T114500
+SUMMARY:Unital embeddings of C*-algebras that one can see
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2025-05-15-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-05-15-hajac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-10-09-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251009T101500
+DTEND;TZID=Europe/Warsaw:20251009T114500
+SUMMARY:Remarks on Tsallis entropy related to free and conditionally free i
+ ndependence
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Bożejko (IM UWr)\nSeminarium: Dyskretna analiza harmonic
+ zna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/dyskretna-analiza-harmoniczna#2025-10-09-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-10-09-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-10-16-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251016T101500
+DTEND;TZID=Europe/Warsaw:20251016T114500
+SUMMARY:Distribution for nonsymmetric V-monotone position operators (part I
+ )
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Daćko (Uniwersytet Przyrodniczy we Wrocławiu)\nSeminar
+ ium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#202
+ 5-10-16-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-10-16-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-10-30-dacko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251030T101500
+DTEND;TZID=Europe/Warsaw:20251030T114500
+SUMMARY:Distribution for nonsymmetric V-monotone position operators (part I
+ I)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adrian Daćko (Uniwersytet Przyrodniczy we Wrocławiu)\nSeminar
+ ium: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#202
+ 5-10-30-dacko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-10-30-dacko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-11-06-miller@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251106T101500
+DTEND;TZID=Europe/Warsaw:20251106T114500
+SUMMARY:A new class of distances between pure quantum states
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tomasz Miller (Uniwersytet Jagielloński)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-11-06-mille
+ r
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-11-06-miller
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-11-13-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251113T101500
+DTEND;TZID=Europe/Warsaw:20251113T114500
+SUMMARY:Rozkład Levy'ego-Chinczyna na grupach kwantowych z relacjami typu 
+ komutacji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anna Wysoczańska-Kula (IM UWr)\nSeminarium: Dyskretna analiza 
+ harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-11-13-wysoczanska-kul
+ a
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-11-13-wysoczanska-kula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-11-27-kurpas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251127T101500
+DTEND;TZID=Europe/Warsaw:20251127T114500
+SUMMARY:Generalized entropy in molecular biology and non-linear growth mode
+ l of SARS-CoV-2 variant succession
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Monika Kurpas (Politechnika Śląska)\nSeminarium: Dyskretna an
+ aliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-11-27-kurpas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-11-27-kurpas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-12-04-schafer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251204T101500
+DTEND;TZID=Europe/Warsaw:20251204T114500
+SUMMARY:Quantum Graphs on M2
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Björn Schäfer (Universität des Saarlandes)\nSeminarium: Dysk
+ retna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2025-12-04-s
+ chafer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-12-04-schafer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2025-12-11-poprawa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251211T101500
+DTEND;TZID=Europe/Warsaw:20251211T114500
+SUMMARY:Macierze Jacobiego na drzewach z jednym końcem w nieskończoności
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojciech Poprawa (IM UWr)\nSeminarium: Dyskretna analiza harmon
+ iczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/dyskretna-analiza-harmoniczna#2025-12-11-poprawa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2025-12-11-poprawa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-02-12-sniady@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260212T101500
+DTEND;TZID=Europe/Warsaw:20260212T114500
+SUMMARY:A Karlin-McGregor formula for coalescing random walks
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Śniady (IMPAN)\nSeminarium: Dyskretna analiza harmoniczn
+ a i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/dyskretna-analiza-harmoniczna#2026-02-12-sniady
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-02-12-sniady
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-03-12-krajczok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260312T101500
+DTEND;TZID=Europe/Warsaw:20260312T114500
+SUMMARY:Forma standardowa a warkoczowy iloczyn tensorowy
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jacek Krajczok (Vrije Universiteit Brussel)\nSeminarium: Dyskre
+ tna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2026-03-12-kra
+ jczok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-03-12-krajczok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-03-26-wasilewski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260326T101500
+DTEND;TZID=Europe/Warsaw:20260326T114500
+SUMMARY:Separable elements in tensor products of C*-algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mateusz Wasilewski (IMPAN)\nSeminarium: Dyskretna analiza harmo
+ niczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/dyskretna-analiza-harmoniczna#2026-03-26-wasilewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-03-26-wasilewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-03-27-lehner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260327T121500
+DTEND;TZID=Europe/Warsaw:20260327T134500
+SUMMARY:Conditionally free conditional expectations and applications to fre
+ e denoising
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Franz Lehner (TU Graz)\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2026-03-27-lehner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-03-27-lehner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-04-23-szpojankowski@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260423T101500
+DTEND;TZID=Europe/Warsaw:20260423T114500
+SUMMARY:Miara Browna operatorów postaci x+iy\, gdzie y ma rozkład wolny P
+ oissona
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Kamil Szpojankowski (IMPAN)\nSeminarium: Dyskretna analiza harm
+ oniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/dyskretna-analiza-harmoniczna#2026-04-23-szpojankowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-04-23-szpojankowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-06-11-bhattacharjee@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260611T101500
+DTEND;TZID=Europe/Warsaw:20260611T114500
+SUMMARY:Crystallization and K-theoretical aspects of the quantum twistor bu
+ ndle
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Suvrajit Bhattacharjee (Uniwersytet w Białymstoku)\nSeminarium
+ : Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2026-0
+ 6-11-bhattacharjee
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-06-11-bhattacharjee
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-06-18-chelstowski@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260618T101500
+DTEND;TZID=Europe/Warsaw:20260618T114500
+SUMMARY:Kwantowe grafy Knesera
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Igor Chełstowski (Uniwersytet Warszawski)\nSeminarium: Dyskret
+ na analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2026-06-18-chel
+ stowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-06-18-chelstowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-10-22-kogiso@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261022T090000
+DTEND;TZID=Europe/Warsaw:20261022T103000
+SUMMARY:Local functional equations for polynomials and related topics
+LOCATION:D1.2\, budynek C-16\, Politechnika Wrocławska
+DESCRIPTION:Takeyoshi Kogiso (Josai University)\nSeminarium: Dyskretna anal
+ iza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2026-10-22-kogiso
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-10-22-kogiso
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-10-29-ejsmont@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261029T090000
+DTEND;TZID=Europe/Warsaw:20261029T103000
+SUMMARY:O pewnym starym problemie w teorii niekomutatywnej probabilistyki
+LOCATION:208\, budynek C.13\, Politechnika Wrocławska
+DESCRIPTION:Wiktor Ejsmont (Politechnika Wrocławska)\nSeminarium: Dyskretn
+ a analiza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2026-10-29-ejsmo
+ nt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-10-29-ejsmont
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2026-11-05-wysoczanska-kula@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261105T090000
+DTEND;TZID=Europe/Warsaw:20261105T103000
+SUMMARY:Algebry grafowe związane z operatorami kreacji na przestrzeniach F
+ ocka
+LOCATION:208\, budynek C.13\, Politechnika Wrocławska
+DESCRIPTION:Anna Wysoczańska-Kula\nSeminarium: Dyskretna analiza harmonicz
+ na i niekomutatywna probabilistyka\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/dyskretna-analiza-harmoniczna#2026-11-05-wysoczanska-kula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2026-11-05-wysoczanska-kula
+END:VEVENT
+END:VCALENDAR

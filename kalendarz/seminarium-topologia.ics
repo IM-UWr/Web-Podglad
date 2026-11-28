@@ -1,0 +1,1983 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Topologia
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-topologia-2015-01-19-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150119T161500
+DTEND;TZID=Europe/Warsaw:20150119T174500
+SUMMARY:Normal measure on connected compact space
+LOCATION:sala 615\, IM UWr
+DESCRIPTION:Grzegorz Plebanek (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2015-01-19-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2015-01-19-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2015-01-26-drygier@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150126T161500
+DTEND;TZID=Europe/Warsaw:20150126T174500
+SUMMARY:Narost omega z miara scisle dodatnia
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Drygier (IM UWr)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2015-01-26-drygier
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2015-01-26-dry
+ gier
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-01-18-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160118T161500
+DTEND;TZID=Europe/Warsaw:20160118T174500
+SUMMARY:Brzegi Gromowa z kombinatoryczna wlasnoscia Loewnera
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Damian Osajda (IM UWr)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2016-01-18-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-01-18-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-03-21-kwiatkowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160321T161500
+DTEND;TZID=Europe/Warsaw:20160321T174500
+SUMMARY:Uniwersalne potoki minimalne i teoria Ramseya (cykl wykładów)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Aleksandra Kwiatkowska (Bonn)\nSeminarium: Topologia\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/topologia#2016-03-21-kwiatkowska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-03-21-kwi
+ atkowska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-04-11-pietron@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160411T161500
+DTEND;TZID=Europe/Warsaw:20160411T174500
+SUMMARY:Mocniejsza forma przeliczalnej gęstej jednorodności płaszczyzny.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Maciej Pietroń (Wrocław)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2016-04-11-pietron
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-04-11-pie
+ tron
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-05-09-oprocha@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160509T161500
+DTEND;TZID=Europe/Warsaw:20160509T174500
+SUMMARY:O powracaniu w parach
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Oprocha (Kraków)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2016-05-09-oprocha
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-05-09-opr
+ ocha
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-05-23-martinez-cervantes@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160523T161500
+DTEND;TZID=Europe/Warsaw:20160523T174500
+SUMMARY:Weakly Radon-Nikodým compact spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Gonzalo Martinez Cervantes (Murcia)\nSeminarium: Topologia\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-05-23-martinez-
+ cervantes
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-05-23-mar
+ tinez-cervantes
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-05-30-kubis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160530T161500
+DTEND;TZID=Europe/Warsaw:20160530T174500
+SUMMARY:Fraisse theory and homogeneity of the Cantor set
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wiesław Kubiś (Czech Academy of Sciences)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-05-30-k
+ ubis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-05-30-kub
+ is
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-06-06-charatonik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160606T161500
+DTEND;TZID=Europe/Warsaw:20160606T174500
+SUMMARY:Przestrzenie homeomorficzne ze swoimi hiperprzestrzeniami.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Włodzimierz Charatonik\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2016-06-06-charatonik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-06-06-cha
+ ratonik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-10-10-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161010T161500
+DTEND;TZID=Europe/Warsaw:20161010T174500
+SUMMARY:Boole'owskie obrazy przestrzeni spójnych zwartych
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2016-10-10-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-10-10-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-10-17-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161017T161500
+DTEND;TZID=Europe/Warsaw:20161017T174500
+SUMMARY:Boole'owskie obrazy przestrzeni spójnych zwartych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2016-10-17-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-10-17-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-10-24-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161024T161500
+DTEND;TZID=Europe/Warsaw:20161024T174500
+SUMMARY:Metric approximation in groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2016-10-24-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-10-24-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-11-07-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161107T161500
+DTEND;TZID=Europe/Warsaw:20161107T174500
+SUMMARY:Metric approximation in groups - continuation
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2016-11-07-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-07-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-11-14-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161114T161500
+DTEND;TZID=Europe/Warsaw:20161114T174500
+SUMMARY:O entropii topologicznej dla działań grup
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2016-11-14-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-14-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-11-21-michalik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161121T161500
+DTEND;TZID=Europe/Warsaw:20161121T174500
+SUMMARY:Cones over locally connected curves and the uniqueness problem.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Daria Michalik (UKSW\, Warsaw)\nSeminarium: Topologia\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-21-michalik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-21-mic
+ halik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-11-28-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161128T161500
+DTEND;TZID=Europe/Warsaw:20161128T174500
+SUMMARY:O rozkladzie kostek euklidesowych na dwa punktoksztaltne zbiory bor
+ elowskie\, wg pracy Elzbiety i Romana Polów.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Paweł Krupski (Politechnika Wrocławska)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-28-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-11-28-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-12-05-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161205T161500
+DTEND;TZID=Europe/Warsaw:20161205T174500
+SUMMARY:Splitting chains
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2016-12-05-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-12-05-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2016-12-12-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161212T161500
+DTEND;TZID=Europe/Warsaw:20161212T174500
+SUMMARY:Boolean algebras with a few independent sequences
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2016-12-12-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2016-12-12-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-02-27-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170227T161500
+DTEND;TZID=Europe/Warsaw:20170227T174500
+SUMMARY:Extension operators and Hausdorff gaps
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2017-02-27-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-02-27-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-03-13-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170313T161500
+DTEND;TZID=Europe/Warsaw:20170313T174500
+SUMMARY:Extension operators and double interval.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2017-03-13-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-03-13-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-05-15-draga@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170515T161500
+DTEND;TZID=Europe/Warsaw:20170515T174500
+SUMMARY:Sumowalność i typ potęgowy indeksu Szlenka
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Szymon Draga (Uniwersytet Śląski)\nSeminarium: Topologia\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-05-15-draga
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-05-15-dra
+ ga
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-05-22-zakrzewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170522T161500
+DTEND;TZID=Europe/Warsaw:20170522T174500
+SUMMARY:On various notions of homogeneity of Borel sigma-ideals of Polish s
+ paces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Zakrzewski (Uniwersytet Warszawski)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-05-22-zak
+ rzewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-05-22-zak
+ rzewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-06-05-omiljanowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170605T161500
+DTEND;TZID=Europe/Warsaw:20170605T174500
+SUMMARY:Słaba selekcja generuje porządek.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Omiljanowski\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2017-06-05-omiljanowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-06-05-omi
+ ljanowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2017-11-03-sobota@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171103T133000
+DTEND;TZID=Europe/Warsaw:20171103T150000
+SUMMARY:Convergence of measures and cardinal characteristics of the continu
+ um
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Damian Sobota (Politechnika Wiedeńska)\nSeminarium: Topologia\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-11-03-sobot
+ a
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2017-11-03-sob
+ ota
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-01-08-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180108T161500
+DTEND;TZID=Europe/Warsaw:20180108T174500
+SUMMARY:Mardešić's problem on products of linearly ordered spaces.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2018-01-08-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-01-08-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-01-22-vejnar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180122T162000
+DTEND;TZID=Europe/Warsaw:20180122T175000
+SUMMARY:Fixed points of continuous group actions on continua
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Benjamin Vejnar (Charles University\, Prague)\nSeminarium: Topo
+ logia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-01-22
+ -vejnar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-01-22-vej
+ nar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-02-19-doucha@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180219T162000
+DTEND;TZID=Europe/Warsaw:20180219T175000
+SUMMARY:Complexity of distances between metric and Banach spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Michal Doucha (Prague)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2018-02-19-doucha
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-02-19-dou
+ cha
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-02-26-kwiatkowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180226T162000
+DTEND;TZID=Europe/Warsaw:20180226T175000
+SUMMARY:Homeomorphisms groups of Ważewski dendrites
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Aleksandra Kwiatkowska (Wrocław/Munster)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-02-26-kwi
+ atkowska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-02-26-kwi
+ atkowska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-03-19-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180319T162000
+DTEND;TZID=Europe/Warsaw:20180319T175000
+SUMMARY:Sekretne związki przestrzeni Banacha z analitycznymi P-ideałami
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2018-03-19-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-03-19-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-04-23-pol@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180423T162000
+DTEND;TZID=Europe/Warsaw:20180423T175000
+SUMMARY:O przekształceniach domkniętych przestrzeni sigma-zwartych i wymi
+ arze.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Elżbieta Pol (MIM UW)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2018-04-23-pol
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-04-23-pol
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-11-05-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181105T162000
+DTEND;TZID=Europe/Warsaw:20181105T175000
+SUMMARY:Dziedziczna wlasnosc Baire'a w hiperprzestrzeniach kompaktow
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Mikołaj Krupski (Uniwersytet Warszawski)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-11-05-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-11-05-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-11-26-gutik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181126T162000
+DTEND;TZID=Europe/Warsaw:20181126T175000
+SUMMARY:On semigroups of partial order isomorphism and co-finite partial ho
+ meomorphisms.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oleg Gutik (Lwów)\nSeminarium: Topologia\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/topologia#2018-11-26-gutik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-11-26-gut
+ ik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2018-12-10-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181210T162000
+DTEND;TZID=Europe/Warsaw:20181210T175000
+SUMMARY:The ideal of the strongly porous sets in the real line.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Arturo Martinez Celis\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2018-12-10-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-12-10-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-01-14-charatonik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190114T162000
+DTEND;TZID=Europe/Warsaw:20190114T175000
+SUMMARY:Niemetryczne continua dziedzicznie nierozkładalne.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Włodzimierz J. Charatonik (Missouri University of Science and 
+ Technology\, Rolla)\nSeminarium: Topologia\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/topologia#2019-01-14-charatonik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-01-14-cha
+ ratonik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-01-21-malinowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190121T162000
+DTEND;TZID=Europe/Warsaw:20190121T175000
+SUMMARY:Reducing heights of covers of topological spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Malinowski\nSeminarium: Topologia\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/topologia#2019-01-21-malinowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-01-21-mal
+ inowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-03-11-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190311T171500
+DTEND;TZID=Europe/Warsaw:20190311T184500
+SUMMARY:Hyperspaces of infinite compacta with finitely many accumulation po
+ ints
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Paweł Krupski (Technical University of Wroclaw)\nSeminarium: T
+ opologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-03
+ -11-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-03-11-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-04-29-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190429T171500
+DTEND;TZID=Europe/Warsaw:20190429T184500
+SUMMARY:Banach spaces and analytic P-ideals generated by compact sets.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2019-04-29-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-04-29-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-05-13-omiljanowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190513T171500
+DTEND;TZID=Europe/Warsaw:20190513T184500
+SUMMARY:A_1(X)\, the space of compacta in X with one accumulation point
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Omiljanowski\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2019-05-13-omiljanowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-05-13-omi
+ ljanowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-05-27-salguero-alarcon@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190527T171500
+DTEND;TZID=Europe/Warsaw:20190527T184500
+SUMMARY:Some twisting around the Cantor space
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Alberto Salguero Alarcón (Universidad de Extramadura)\nSeminar
+ ium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2
+ 019-05-27-salguero-alarcon
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-05-27-sal
+ guero-alarcon
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-10-14-bartos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191014T171500
+DTEND;TZID=Europe/Warsaw:20191014T184500
+SUMMARY:Compactifiable classes of compacta
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Bartoš (IM UWr)\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2019-10-14-bartos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-10-14-bar
+ tos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-10-21-bartos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191021T171500
+DTEND;TZID=Europe/Warsaw:20191021T184500
+SUMMARY:Compactifiable classes of compacta
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Bartoš\nSeminarium: Topologia\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/topologia#2019-10-21-bartos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-10-21-bar
+ tos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2019-11-25-charatonik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191125T171500
+DTEND;TZID=Europe/Warsaw:20191125T184500
+SUMMARY:Generalized inverse limits
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Włodzimierz J. Charatonik (Missouri University of Science and 
+ Technology)\nSeminarium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/topologia#2019-11-25-charatonik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2019-11-25-cha
+ ratonik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-01-13-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200113T171500
+DTEND;TZID=Europe/Warsaw:20200113T184500
+SUMMARY:Almost disjoint families and spaces of continuous functions.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2020-01-13-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-01-13-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-02-10-aviles@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200210T170000
+DTEND;TZID=Europe/Warsaw:20200210T183000
+SUMMARY:Boolean algebras that resemble uncountable Fraïssé limits. $P(\\O
+ MEGA)/FIN$ and its relatives.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Antonio Aviles (Murcia)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2020-02-10-aviles
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-02-10-avi
+ les
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-04-21-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200421T170000
+DTEND;TZID=Europe/Warsaw:20200421T183000
+SUMMARY:Forcing with wider Silver
+LOCATION:online (Zoom)
+DESCRIPTION:Aleksander Cieślak (Nokia)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2020-04-21-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-04-21-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-04-28-kwiatkowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200428T171500
+DTEND;TZID=Europe/Warsaw:20200428T184500
+SUMMARY:Simplicity of the automorphism groups of homogeneous structures
+LOCATION:online (Zoom)
+DESCRIPTION:Aleksandra Kwiatkowska\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2020-04-28-kwiatkowska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-04-28-kwi
+ atkowska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-05-05-kostana@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200505T170000
+DTEND;TZID=Europe/Warsaw:20200505T183000
+SUMMARY:Cohen-like poset for adding Fraisse limits
+LOCATION:online (Zoom)
+DESCRIPTION:Ziemowit Kostana (MIMUW)\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2020-05-05-kostana
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-05-05-kos
+ tana
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-05-12-banakh@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200512T170000
+DTEND;TZID=Europe/Warsaw:20200512T183000
+SUMMARY:Set Theoretic Problems in Large-Scale Topology
+LOCATION:online (Zoom)
+DESCRIPTION:Taras Banakh (Lviv)\nSeminarium: Topologia\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/topologia#2020-05-12-banakh
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-05-12-ban
+ akh
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-05-26-zdomskyy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200526T170000
+DTEND;TZID=Europe/Warsaw:20200526T183000
+SUMMARY:Menger and Hurewicz spaces: products and applications to forcing.
+LOCATION:online (Zoom)
+DESCRIPTION:Lyubomyr Zdomskyy (KGRC\, Wiedeń)\nSeminarium: Topologia\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-05-26-zdomskyy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-05-26-zdo
+ mskyy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-06-02-marciszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200602T170000
+DTEND;TZID=Europe/Warsaw:20200602T183000
+SUMMARY:On countable dense homogeneous topological vector spaces
+LOCATION:online (Zoom)
+DESCRIPTION:Witold Marciszewski (UW)\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2020-06-02-marciszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-02-mar
+ ciszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-06-09-kubis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200609T170000
+DTEND;TZID=Europe/Warsaw:20200609T183000
+SUMMARY:Uniform homogeneity
+LOCATION:online (Zoom)
+DESCRIPTION:Wiesław Kubiś (Czech Academy of Sciences)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-09-k
+ ubis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-09-kub
+ is
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-06-16-basso@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200616T170000
+DTEND;TZID=Europe/Warsaw:20200616T183000
+SUMMARY:The universal minimal flow of topological groups beyond Polish
+LOCATION:online (Zoom)
+DESCRIPTION:Gianluca Basso (Lozanna\, Turyn)\nSeminarium: Topologia\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-16-basso
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-16-bas
+ so
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-06-23-fuchino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200623T170000
+DTEND;TZID=Europe/Warsaw:20200623T183000
+SUMMARY:A/the (possible) solution of the Continuum Problem
+LOCATION:online (Zoom)
+DESCRIPTION:Sakae Fuchino (Kobe)\nSeminarium: Topologia\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/topologia#2020-06-23-fuchino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-06-23-fuc
+ hino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-09-14-panagiotopoulos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200914T171500
+DTEND;TZID=Europe/Warsaw:20200914T184500
+SUMMARY:Dynamical obstructions for classification by (co)homology and other
+  TSI-group invariants
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Aristotelis Panagiotopoulos (Uniwersytet w Münster)\nSeminariu
+ m: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#202
+ 0-09-14-panagiotopoulos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-09-14-pan
+ agiotopoulos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-10-13-ralowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201013T170000
+DTEND;TZID=Europe/Warsaw:20201013T183000
+SUMMARY:Nonmeasurable unions with respect to analytic families
+LOCATION:online (Zoom)
+DESCRIPTION:Robert Rałowski (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-13-r
+ alowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-13-ral
+ owski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-10-20-van-mill@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201020T170000
+DTEND;TZID=Europe/Warsaw:20201020T183000
+SUMMARY:Splitting Tychonoff cubes into homeomorphic and homogeneous parts (
+ and more)
+LOCATION:online (Zoom)
+DESCRIPTION:Jan van Mill (University of Amsterdam)\nSeminarium: Topologia\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-20-van-mi
+ ll
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-20-van
+ -mill
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-10-27-aviles@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201027T170000
+DTEND;TZID=Europe/Warsaw:20201027T183000
+SUMMARY:Amalgamation of measures and Banach lattices
+LOCATION:online (Zoom)
+DESCRIPTION:Antonio Aviles (Murcia)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2020-10-27-aviles
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-27-avi
+ les
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-11-03-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201103T163000
+DTEND;TZID=Europe/Warsaw:20201103T180000
+SUMMARY:Complexity of homogeneous continua
+LOCATION:online (Zoom)
+DESCRIPTION:Paweł Krupski (Politechnika Wrocławska)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-03-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-03-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-11-10-dzamonja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201110T170000
+DTEND;TZID=Europe/Warsaw:20201110T183000
+SUMMARY:On wide Aronszajn trees
+LOCATION:online (Zoom)
+DESCRIPTION:Mirna Dzamonja (Université Panthéon Sorbonne\, Paris)\nSemina
+ rium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#
+ 2020-11-10-dzamonja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-10-dza
+ monja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-11-17-solecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201117T170000
+DTEND;TZID=Europe/Warsaw:20201117T183000
+SUMMARY:Random continuum and Brownian motion
+LOCATION:online (Zoom)
+DESCRIPTION:Sławomir Solecki (Cornell)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-17-solecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-17-sol
+ ecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-11-24-krzempek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201124T170000
+DTEND;TZID=Europe/Warsaw:20201124T183000
+SUMMARY:End-points of chainable continua
+LOCATION:online (Zoom)
+DESCRIPTION:Jerzy Krzempek (Silesian University of Technology)\nSeminarium:
+  Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-
+ 11-24-krzempek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-24-krz
+ empek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-11-25-roslanowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201125T183000
+DTEND;TZID=Europe/Warsaw:20201125T200000
+SUMMARY:Borel sets without perfectly many overlapping translations
+LOCATION:online (Zoom)
+DESCRIPTION:Andrzej Rosłanowski (University of Nebrasca Omaha)\nSeminarium
+ : Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020
+ -11-25-roslanowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-11-25-ros
+ lanowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-12-08-charatonik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201208T170000
+DTEND;TZID=Europe/Warsaw:20201208T183000
+SUMMARY:Projective Fraisse limits of trees
+LOCATION:online (Zoom)
+DESCRIPTION:Włodzimierz Charatonik (Missouri University of Science and Tec
+ hnology)\nSeminarium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/topologia#2020-12-08-charatonik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-12-08-cha
+ ratonik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2020-12-15-bartosova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201215T170000
+DTEND;TZID=Europe/Warsaw:20201215T183000
+SUMMARY:Attempts to understand the universal minimal flow of ZxZ
+LOCATION:online (Zoom)
+DESCRIPTION:Dana Bartošová (University of Florida)\nSeminarium: Topologia
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-12-15-bart
+ osova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-12-15-bar
+ tosova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-01-19-hrusak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210119T170000
+DTEND;TZID=Europe/Warsaw:20210119T183000
+SUMMARY:Invariant Ideal Axiom
+LOCATION:online (Zoom)
+DESCRIPTION:Michael Hrusak (Universidad Nacional Autónoma de México)\nSem
+ inarium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topolog
+ ia#2021-01-19-hrusak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-01-19-hru
+ sak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-01-26-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210126T170000
+DTEND;TZID=Europe/Warsaw:20210126T183000
+SUMMARY:A connected version of Kunen's compact L-space
+LOCATION:online (Zoom)
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2021-01-26-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-01-26-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-02-02-elekes@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210202T170000
+DTEND;TZID=Europe/Warsaw:20210202T183000
+SUMMARY:Games\, their values\, and Baire class 1 functions
+LOCATION:online (Zoom)
+DESCRIPTION:Márton Elekes (Alfréd Rényi Institute of Mathematics\, Budap
+ est)\nSeminarium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/topologia#2021-02-02-elekes
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-02-02-ele
+ kes
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-03-02-vejnar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210302T170000
+DTEND;TZID=Europe/Warsaw:20210302T183000
+SUMMARY:Complexity of some classes of metrizable compacta up to homeomorphi
+ sm
+LOCATION:online (Zoom)
+DESCRIPTION:Benjamin Vejnar (Charles University\, Prague)\nSeminarium: Topo
+ logia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-02
+ -vejnar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-02-vej
+ nar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-03-09-sargsyan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210309T170000
+DTEND;TZID=Europe/Warsaw:20210309T183000
+SUMMARY:The exact strength of Sealing
+LOCATION:online (Zoom)
+DESCRIPTION:Grigor Sargsyan (Rutgers & IMPAN)\nSeminarium: Topologia\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-09-sargsyan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-09-sar
+ gsyan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-03-16-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210316T170000
+DTEND;TZID=Europe/Warsaw:20210316T183000
+SUMMARY:Rosenthal families
+LOCATION:online (Zoom)
+DESCRIPTION:Arturo Antonio Martínez Celis Rodríguez (IM UWr)\nSeminarium:
+  Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-
+ 03-16-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-16-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-03-23-wilczynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210323T170000
+DTEND;TZID=Europe/Warsaw:20210323T183000
+SUMMARY:Convergence in measure and in category.
+LOCATION:online (Zoom)
+DESCRIPTION:Władysław Wilczyński (University of Łódź)\nSeminarium: To
+ pologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-
+ 23-wilczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-23-wil
+ czynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-03-30-martinez-cervantes@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210330T170000
+DTEND;TZID=Europe/Warsaw:20210330T183000
+SUMMARY:L-orthogonal sequences versus L-orthogonal elements
+LOCATION:online (Zoom)
+DESCRIPTION:Gonzalo Martinez Cervantes\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2021-03-30-martinez-cervantes
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-03-30-mar
+ tinez-cervantes
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-04-13-marciszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210413T170000
+DTEND;TZID=Europe/Warsaw:20210413T183000
+SUMMARY:On zero-dimensional subspaces of Eberlein compacta
+LOCATION:online (Zoom)
+DESCRIPTION:Witold Marciszewski (University of Warsaw)\nSeminarium: Topolog
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-04-13-ma
+ rciszewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-04-13-mar
+ ciszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-04-20-panagiotopoulos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210420T170000
+DTEND;TZID=Europe/Warsaw:20210420T183000
+SUMMARY:The definable content of (co)homological invariants: Cech cohomolog
+ y
+LOCATION:online (Zoom)
+DESCRIPTION:Aristotelis Panagiotopoulos (Universität Münster)\nSeminarium
+ : Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021
+ -04-20-panagiotopoulos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-04-20-pan
+ agiotopoulos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-04-27-zeberski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210427T170000
+DTEND;TZID=Europe/Warsaw:20210427T183000
+SUMMARY:Applications of non-measurable unions
+LOCATION:online (Zoom)
+DESCRIPTION:Szymon Żeberski (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-04-27-z
+ eberski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-04-27-zeb
+ erski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-05-11-kwela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210511T170000
+DTEND;TZID=Europe/Warsaw:20210511T183000
+SUMMARY:Unboring ideals
+LOCATION:online (Zoom)
+DESCRIPTION:Adam Kwela (University of Gdańsk)\nSeminarium: Topologia\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-11-kwela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-11-kwe
+ la
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-05-18-viale@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210518T170000
+DTEND;TZID=Europe/Warsaw:20210518T183000
+SUMMARY:Absolute model companionship\, forcibility\, and the Continuum Prob
+ lem
+LOCATION:online (Zoom)
+DESCRIPTION:Matteo Viale (Università di Torino)\nSeminarium: Topologia\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-18-viale
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-18-via
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-05-25-darji@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210525T170000
+DTEND;TZID=Europe/Warsaw:20210525T183000
+SUMMARY:Local Entropy and Descriptive Complexity
+LOCATION:online (Zoom)
+DESCRIPTION:Udayan Darji (University of Louisville)\nSeminarium: Topologia\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-25-darji
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-05-25-dar
+ ji
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-06-08-malicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210608T170000
+DTEND;TZID=Europe/Warsaw:20210608T183000
+SUMMARY:Infinitary continuous logic and descriptive set theory
+LOCATION:online (Zoom)
+DESCRIPTION:Maciej Malicki (IMPAN)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2021-06-08-malicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-06-08-mal
+ icki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-10-12-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211012T170000
+DTEND;TZID=Europe/Warsaw:20211012T183000
+SUMMARY:Full-splitting Miller trees and Cohen reals
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Aleksander Cieślak (Politechnika Wrocławska)\nSeminarium: Top
+ ologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-10-1
+ 2-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-10-12-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-10-19-salguero-alarcon@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211019T170000
+DTEND;TZID=Europe/Warsaw:20211019T183000
+SUMMARY:A twisted sum of $C(K)$-spaces not isomorphic to any $C(K)$-space
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Alberto Salguero Alarcón (Universidad de Extremadura\, Badajoz
+ \, Spain)\nSeminarium: Topologia\nhttps://im-uwr.github.io/Web-Podglad/sem
+ inaria/topologia#2021-10-19-salguero-alarcon
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-10-19-sal
+ guero-alarcon
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-10-26-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211026T170000
+DTEND;TZID=Europe/Warsaw:20211026T183000
+SUMMARY:On P-measures in random model
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2021-10-26-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-10-26-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-11-09-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211109T170000
+DTEND;TZID=Europe/Warsaw:20211109T183000
+SUMMARY:Generalized Corson compacta and calibers of measures
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2021-11-09-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-11-09-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-11-16-korpalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211116T170000
+DTEND;TZID=Europe/Warsaw:20211116T183000
+SUMMARY:Combinatorial characterization of null set covering
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Maciej Korpalski (IM UWr)\nSeminarium: Topologia\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/topologia#2021-11-16-korpalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-11-16-kor
+ palski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-11-30-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211130T170000
+DTEND;TZID=Europe/Warsaw:20211130T183000
+SUMMARY:Michael Spaces and Selective Ultrafilters
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Arturo Martinez Celis (IM UWr)\nSeminarium: Topologia\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-11-30-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-11-30-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2021-12-07-mazurkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211207T170000
+DTEND;TZID=Europe/Warsaw:20211207T183000
+SUMMARY:Possible modifications of Lusin analytic set
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Łukasz Mazurkiewicz (Politechnika Wrocławska)\nSeminarium: To
+ pologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-12-
+ 07-mazurkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2021-12-07-maz
+ urkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-01-18-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220118T170000
+DTEND;TZID=Europe/Warsaw:20220118T183000
+SUMMARY:A complemented subspace of a C(K)-space which is not a C(K)-space
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2022-01-18-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-01-18-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-01-25-jachimek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220125T170000
+DTEND;TZID=Europe/Warsaw:20220125T183000
+SUMMARY:A Banach space induced by a compact family
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Sebastian Jachimek (IM UWr)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2022-01-25-jachimek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-01-25-jac
+ himek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-03-01-widz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220301T170000
+DTEND;TZID=Europe/Warsaw:20220301T183000
+SUMMARY:Almost disjoint magic sets
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Agnieszka Widz (Politechnika Łódzka)\nSeminarium: Topologia\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-01-widz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-01-wid
+ z
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-03-15-ralowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220315T170000
+DTEND;TZID=Europe/Warsaw:20220315T183000
+SUMMARY:On T1- and T2-productable compact spaces
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Robert Rałowski (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-15-r
+ alowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-15-ral
+ owski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-03-22-zeberski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220322T170000
+DTEND;TZID=Europe/Warsaw:20220322T183000
+SUMMARY:Remarks on Eggleston theorem
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Szymon Żeberski (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-22-z
+ eberski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-22-zeb
+ erski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-03-29-korpalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220329T170000
+DTEND;TZID=Europe/Warsaw:20220329T183000
+SUMMARY:Continuous discrete extension of double arrow
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Maciej Korpalski (IM UWr)\nSeminarium: Topologia\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/topologia#2022-03-29-korpalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-03-29-kor
+ palski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-04-05-bartos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220405T170000
+DTEND;TZID=Europe/Warsaw:20220405T183000
+SUMMARY:Hereditarily indecomposable continua as Fraïssé limits
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Adam Bartoš (Czeska Akademia Nauk)\nSeminarium: Topologia\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04-05-bartos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04-05-bar
+ tos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-04-12-krolicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220412T170000
+DTEND;TZID=Europe/Warsaw:20220412T183000
+SUMMARY:TBA
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Konrad Królicki (Hungarian Academy of Sciences)\nSeminarium: T
+ opologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04
+ -12-krolicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04-12-kro
+ licki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-04-26-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220426T170000
+DTEND;TZID=Europe/Warsaw:20220426T183000
+SUMMARY:Marczewski ideals of product trees
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Aleksander Cieślak (Politechnika Wrocławska)\nSeminarium: Top
+ ologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04-2
+ 6-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-04-26-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-09-zindulka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220509T150000
+DTEND;TZID=Europe/Warsaw:20220509T163000
+SUMMARY:Microscopic sets\, Hausdorff measures and their cardinal invariants
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Ondrej Zindulka (Czech Technical University\, Prague)\nSeminari
+ um: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#20
+ 22-05-09-zindulka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-09-zin
+ dulka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-10-sobota@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220510T170000
+DTEND;TZID=Europe/Warsaw:20220510T183000
+SUMMARY:On sequences of finitely supported measures on products of compact 
+ spaces
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Damian Sobota (Kurt Goedel Research Center\, Vienna)\nSeminariu
+ m: Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#202
+ 2-05-10-sobota
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-10-sob
+ ota
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-17-dzamonja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220517T170000
+DTEND;TZID=Europe/Warsaw:20220517T183000
+SUMMARY:Reasonable structures of size aleph_1
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Mirna Dzamonja (Université deParis-Cité)\nSeminarium: Topolog
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-17-dz
+ amonja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-17-dza
+ monja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-24-chodounsky@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220524T170000
+DTEND;TZID=Europe/Warsaw:20220524T183000
+SUMMARY:Sacks indestructible ultrafilters and reaping families
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:David Chodounsky (Czech Academy of Sciences)\nSeminarium: Topol
+ ogia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-24-
+ chodounsky
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-24-cho
+ dounsky
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-31-filipow@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220531T170000
+DTEND;TZID=Europe/Warsaw:20220531T183000
+SUMMARY:Does there exist a Hindman space which is not a van der Waerden spa
+ ce?
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Rafał Filipów (University of Gdańsk)\nSeminarium: Topologia\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-31-filip
+ ow
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-31-fil
+ ipow
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-06-07-cancino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220607T170000
+DTEND;TZID=Europe/Warsaw:20220607T183000
+SUMMARY:Ideal independent families and ultrafilters
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jonathan Cancino (Czech Academy of Sciences)\nSeminarium: Topol
+ ogia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-06-07-
+ cancino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-06-07-can
+ cino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-06-14-jablonska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220614T170000
+DTEND;TZID=Europe/Warsaw:20220614T183000
+SUMMARY:From the Steinhaus property to the Laczkovich one
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Eliza Jabłońska (AGH)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2022-06-14-jablonska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-06-14-jab
+ lonska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-10-11-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221011T170000
+DTEND;TZID=Europe/Warsaw:20221011T183000
+SUMMARY:On the hyperspace of simple closed curves in the plane
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Paweł Krupski (Politechnika Wrocławska)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-10-11-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-10-11-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-10-18-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221018T170000
+DTEND;TZID=Europe/Warsaw:20221018T183000
+SUMMARY:Some combinatorics related to the Michael space problem
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Arturo Martinez Celis (IM UWr)\nSeminarium: Topologia\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-10-18-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-10-18-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-10-25-morawski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221025T171500
+DTEND;TZID=Europe/Warsaw:20221025T184500
+SUMMARY:P-measures in models without P-points
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Adam Morawski (IM UWr)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2022-10-25-morawski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-10-25-mor
+ awski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-11-08-glodkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221108T170000
+DTEND;TZID=Europe/Warsaw:20221108T183000
+SUMMARY:A Banach space C(K) reading the dimension of K
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Damian Głodkowski (MIM UW)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-08-glodkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-08-glo
+ dkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-11-15-michalik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221115T171500
+DTEND;TZID=Europe/Warsaw:20221115T184500
+SUMMARY:Blocking properties of the diagonal in Cartesian product
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Daria Michalik (UJK)\nSeminarium: Topologia\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/topologia#2022-11-15-michalik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-15-mic
+ halik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-11-22-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221122T171500
+DTEND;TZID=Europe/Warsaw:20221122T184500
+SUMMARY:Some combinatorics related to the Michael space problem II
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Arturo Martinez Celis (IM UWr)\nSeminarium: Topologia\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-22-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-22-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-11-29-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221129T171500
+DTEND;TZID=Europe/Warsaw:20221129T184500
+SUMMARY:Some combinatorics related to the Michael space problem III
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Arturo Martinez Celis\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2022-11-29-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-11-29-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-12-06-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221206T171500
+DTEND;TZID=Europe/Warsaw:20221206T184500
+SUMMARY:Kappa-pseudocompactness and uniform homeomorphisms of function spac
+ es
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Mikołaj Krupski (Uniwersytet Warszawski)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-12-06-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-12-06-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2022-12-13-jachymski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221213T171500
+DTEND;TZID=Europe/Warsaw:20221213T184500
+SUMMARY:Between Cantor and Smulian: the intersection theorem and its applic
+ ations
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Jacek Jachymski (Łódź University of Technology)\nSeminarium:
+  Topologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-
+ 12-13-jachymski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-12-13-jac
+ hymski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-01-10-ranchynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230110T170000
+DTEND;TZID=Europe/Warsaw:20230110T183000
+SUMMARY:Ultrafilters avoiding measures
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Artsiom Ranchynski (IM UWr)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-10-ranchynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-10-ran
+ chynski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-01-17-mazurkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230117T170000
+DTEND;TZID=Europe/Warsaw:20230117T183000
+SUMMARY:Ideal analytic sets
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Łukasz Mazurkiewicz (Politechnika Wrocławska)\nSeminarium: To
+ pologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-
+ 17-mazurkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-17-maz
+ urkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-01-24-mance@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230124T170000
+DTEND;TZID=Europe/Warsaw:20230124T183000
+SUMMARY:Descriptive complexity in number theory and dynamics
+LOCATION:3.11 C-11\, Politechnika Wrocławska
+DESCRIPTION:Bill Mance (Uniwersytet Adama Mickiewicza)\nSeminarium: Topolog
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-24-ma
+ nce
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-01-24-man
+ ce
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-03-07-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230307T171500
+DTEND;TZID=Europe/Warsaw:20230307T184500
+SUMMARY:Trees and Cohen reals
+LOCATION:A.2.22 C-19\, Politechnika Wrocławska
+DESCRIPTION:Aleksander Cieślak (Politechnika Wrocławska)\nSeminarium: Top
+ ologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-0
+ 7-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-07-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-03-14-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230314T171500
+DTEND;TZID=Europe/Warsaw:20230314T184500
+SUMMARY:Countable extensions of compact lines
+LOCATION:A.2.22 C-19\, Politechnika Wrocławska
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2023-03-14-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-14-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-03-21-jachimek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230321T171500
+DTEND;TZID=Europe/Warsaw:20230321T184500
+SUMMARY:Combinatorial Banach spaces
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Sebastian Jachimek (IM UWr)\nSeminarium: Topologia\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-21-jachimek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-21-jac
+ himek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-03-28-zuchowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230328T171500
+DTEND;TZID=Europe/Warsaw:20230328T184500
+SUMMARY:Katětov order on Borel ideals
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Tomasz Żuchowski (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2023-03-28-zuchowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-03-28-zuc
+ howski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-04-04-leiderman@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230404T171500
+DTEND;TZID=Europe/Warsaw:20230404T184500
+SUMMARY:On Delta-spaces
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Arkady Leiderman (Ben-Gurion University)\nSeminarium: Topologia
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-04-leid
+ erman
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-04-lei
+ derman
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-04-18-cancino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230418T171500
+DTEND;TZID=Europe/Warsaw:20230418T184500
+SUMMARY:On nwd-MAD families
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Jonathan Cancino (Czech Academy of Sciences)\nSeminarium: Topol
+ ogia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-18-
+ cancino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-18-can
+ cino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-04-25-solecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230425T171500
+DTEND;TZID=Europe/Warsaw:20230425T184500
+SUMMARY:Incomparable Borel linear subspaces of $\\mathbb{R}$ (over $\\mathb
+ b{Q}$)
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Sławomir Solecki (Cornell University)\nSeminarium: Topologia\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-25-soleck
+ i
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-04-25-sol
+ ecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-05-23-farkas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230523T171500
+DTEND;TZID=Europe/Warsaw:20230523T184500
+SUMMARY:A tool to avoid some technical forcing arguments when working with 
+ the Hechler forcing
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Barnabas Farkas (TU\, Wiedeń)\nSeminarium: Topologia\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-05-23-farkas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-05-23-far
+ kas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-05-30-lipecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230530T171500
+DTEND;TZID=Europe/Warsaw:20230530T184500
+SUMMARY:How noncompact is the space of Lebesgue measurable functions?
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Zbigniew Lipecki (IMPAN)\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2023-05-30-lipecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-05-30-lip
+ ecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-06-06-szewczak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230606T171500
+DTEND;TZID=Europe/Warsaw:20230606T184500
+SUMMARY:Totally imperfect Menger sets
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Piotr Szewczak (UKSW)\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2023-06-06-szewczak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-06-06-sze
+ wczak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-06-13-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230613T171500
+DTEND;TZID=Europe/Warsaw:20230613T184500
+SUMMARY:Remarks and questions on hyperspaces of knots: Borel complexity and
+  local contractibility
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Paweł Krupski (Politechnika Wrocławska)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-06-13-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-06-13-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-10-24-korpalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231024T171500
+DTEND;TZID=Europe/Warsaw:20231024T184500
+SUMMARY:Straightening almost chains into barely altenating ones
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Maciej Korpalski\nSeminarium: Topologia\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/topologia#2023-10-24-korpalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-10-24-kor
+ palski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-10-31-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231031T171500
+DTEND;TZID=Europe/Warsaw:20231031T184500
+SUMMARY:Cofinalities of tree ideals and Shrinking Property
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Aleksander Cieślak (Politechnika Wrocławska)\nSeminarium: Top
+ ologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-10-3
+ 1-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-10-31-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-11-07-silber@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231107T170000
+DTEND;TZID=Europe/Warsaw:20231107T183000
+SUMMARY:A countably tight P(K) space admitting a nonseparable measure
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Zdenek Silber (IM PAN)\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2023-11-07-silber
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-11-07-sil
+ ber
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-11-21-mejia@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231121T171500
+DTEND;TZID=Europe/Warsaw:20231121T184500
+SUMMARY:Ultrafilters and finitely additive measures in forcing theory
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Diego Mejia (Shizuoka University)\nSeminarium: Topologia\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-11-21-mejia
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-11-21-mej
+ ia
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-11-28-swaczyna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231128T171500
+DTEND;TZID=Europe/Warsaw:20231128T184500
+SUMMARY:Zoo of ideal Schauder bases
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jarosław Swaczyna (Politechnika Łódzka)\nSeminarium: Topolog
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-11-28-sw
+ aczyna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-11-28-swa
+ czyna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-12-05-perkowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231205T171500
+DTEND;TZID=Europe/Warsaw:20231205T184500
+SUMMARY:Non-meager filters
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Daria Perkowska\nSeminarium: Topologia\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/topologia#2023-12-05-perkowska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-12-05-per
+ kowska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2023-12-19-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231219T170000
+DTEND;TZID=Europe/Warsaw:20231219T183000
+SUMMARY:Antichain numbers and other cardinal invariants of ideals
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Aleksander Cieślak (Politechnika Wrocławska)\nSeminarium: Top
+ ologia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-12-1
+ 9-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2023-12-19-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-01-09-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240109T171500
+DTEND;TZID=Europe/Warsaw:20240109T184500
+SUMMARY:Fams on omega
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2024-01-09-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-01-09-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-02-27-plebanek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240227T170000
+DTEND;TZID=Europe/Warsaw:20240227T183000
+SUMMARY:Aftermath of the Winterschool
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Grzegorz Plebanek\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2024-02-27-plebanek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-02-27-ple
+ banek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-03-12-sargsyan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240312T170000
+DTEND;TZID=Europe/Warsaw:20240312T183000
+SUMMARY:Forcing extensions of models of determinacy
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Grigor Sargsyan (IMPAN)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2024-03-12-sargsyan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-03-12-sar
+ gsyan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-03-19-szewczak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240319T170000
+DTEND;TZID=Europe/Warsaw:20240319T183000
+SUMMARY:Perfectly meager sets in the transitive sense and the Hurewicz prop
+ erty
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Piotr Szewczak (UKSW)\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2024-03-19-szewczak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-03-19-sze
+ wczak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-03-26-zuchowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240326T170000
+DTEND;TZID=Europe/Warsaw:20240326T183000
+SUMMARY:The Nikodym property and filters on $\\omega$. Part I
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Tomasz Żuchowski\nSeminarium: Topologia\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/topologia#2024-03-26-zuchowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-03-26-zuc
+ howski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-04-09-rondos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240409T170000
+DTEND;TZID=Europe/Warsaw:20240409T183000
+SUMMARY:Topological properties of compact spaces K that are preserved by is
+ omorphisms of C(K)
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Jakub Rondos (Uni Wien)\nSeminarium: Topologia\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/topologia#2024-04-09-rondos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-04-09-ron
+ dos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-04-16-zakrzewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240416T170000
+DTEND;TZID=Europe/Warsaw:20240416T183000
+SUMMARY:Function spaces on Corson-like compacta
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Krzysztof Zakrzewski (MIM UW)\nSeminarium: Topologia\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/topologia#2024-04-16-zakrzewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-04-16-zak
+ rzewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-04-23-zuchowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240423T170000
+DTEND;TZID=Europe/Warsaw:20240423T183000
+SUMMARY:The Nikodym property and filters on $\\omega$. Part II
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Tomasz Żuchowski (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2024-04-23-zuchowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-04-23-zuc
+ howski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-06-04-uribe-zapata@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240604T201000
+DTEND;TZID=Europe/Warsaw:20240604T214000
+SUMMARY:Finitely additive measures on Boolean algebras: freeness and integr
+ ation
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Andres Uribe-Zapata (TU Wien)\nSeminarium: Topologia\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-04-uribe-zapata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-04-uri
+ be-zapata
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-06-11-swierczynska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240611T170000
+DTEND;TZID=Europe/Warsaw:20240611T183000
+SUMMARY:On Q- and selective measures
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Jadwiga Świerczyńska (IM UWr)\nSeminarium: Topologia\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-11-swierczynska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-11-swi
+ erczynska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-10-15-borodulin-nadzieja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241015T170000
+DTEND;TZID=Europe/Warsaw:20241015T183000
+SUMMARY:On Banach spaces induced by graphs
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Piotr Borodulin-Nadzieja\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2024-10-15-borodulin-nadzieja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-10-15-bor
+ odulin-nadzieja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-10-22-bargiela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241022T171500
+DTEND;TZID=Europe/Warsaw:20241022T184500
+SUMMARY:Topological Stäckel Hypothesis
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dominik Bargieła (IM UWr)\nSeminarium: Topologia\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/topologia#2024-10-22-bargiela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-10-22-bar
+ giela
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-10-29-nieto-de-la-rosa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241029T171500
+DTEND;TZID=Europe/Warsaw:20241029T184500
+SUMMARY:A property of Laver forcing parameterized
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Francisco Santiago Nieto de la Rosa\nSeminarium: Topologia\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-10-29-nieto-de-
+ la-rosa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-10-29-nie
+ to-de-la-rosa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-10-31-lopez-callejas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241031T171500
+DTEND;TZID=Europe/Warsaw:20241031T184500
+SUMMARY:High dimensional sequential compactness
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Carlos López Callejas\nSeminarium: Topologia\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/topologia#2024-10-31-lopez-callejas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-10-31-lop
+ ez-callejas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-11-05-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241105T170000
+DTEND;TZID=Europe/Warsaw:20241105T183000
+SUMMARY:An update on hyperspaces of knots
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Paweł Krupski (Politechnika Wrocławska)\nSeminarium: Topologi
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-11-05-kru
+ pski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-11-05-kru
+ pski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-11-19-gappo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241119T171500
+DTEND;TZID=Europe/Warsaw:20241119T184500
+SUMMARY:Maximality\, Recurrence\, Ground
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Takehiko Gappo (TU Wien)\nSeminarium: Topologia\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/topologia#2024-11-19-gappo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-11-19-gap
+ po
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-12-03-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241203T170000
+DTEND;TZID=Europe/Warsaw:20241203T183000
+SUMMARY:Distributivity and antichain number of algebra Borel modulo closed 
+ measure zero sets
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Aleksander Cieślak (PWr)\nSeminarium: Topologia\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/topologia#2024-12-03-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-12-03-cie
+ slak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-12-10-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241210T170000
+DTEND;TZID=Europe/Warsaw:20241210T183000
+SUMMARY:Parametrized Diamonds
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Arturo Martinez Celis\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2024-12-10-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-12-10-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2024-12-17-bardyla@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241217T170000
+DTEND;TZID=Europe/Warsaw:20241217T183000
+SUMMARY:Schur ultrafilters and Bohr compactifications of topological groups
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Serhii Bardyla (Uniwersytet Wiedeński)\nSeminarium: Topologia\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-12-17-bardy
+ la
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-12-17-bar
+ dyla
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2025-01-07-korpalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250107T170000
+DTEND;TZID=Europe/Warsaw:20250107T183000
+SUMMARY:A new version of the Semadeni derivative and functions on nonmetriz
+ able rectangles
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Maciej Korpalski\nSeminarium: Topologia\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/topologia#2025-01-07-korpalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-01-07-kor
+ palski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2025-01-14-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250114T170000
+DTEND;TZID=Europe/Warsaw:20250114T183000
+SUMMARY:A small\, badly behaved Radon-Nikodym compact space.
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Arturo Martinez Celis\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2025-01-14-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-01-14-mar
+ tinez-celis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2025-03-04-kostana@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250304T170000
+DTEND;TZID=Europe/Warsaw:20250304T183000
+SUMMARY:Discrete subgroups of normed spaces are free
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Ziemowit Kostana (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-03-04-k
+ ostana
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-03-04-kos
+ tana
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2025-03-11-ralowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250311T170000
+DTEND;TZID=Europe/Warsaw:20250311T183000
+SUMMARY:Peripherally Hausdorff spaces and fixed-point theorem
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Robert Rałowski (Politechnika Wrocławska)\nSeminarium: Topolo
+ gia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-03-11-r
+ alowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-03-11-ral
+ owski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-topologia-2025-04-08-martinez-celis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250408T171500
+DTEND;TZID=Europe/Warsaw:20250408T184500
+SUMMARY:Ultrafilters vs measures
+LOCATION:A.4.1 C-19
+DESCRIPTION:Arturo Martinez Celis\nSeminarium: Topologia\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/topologia#2025-04-08-martinez-celis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2025-04-08-mar
+ tinez-celis
+END:VEVENT
+END:VCALENDAR

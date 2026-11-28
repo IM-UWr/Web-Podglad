@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ultrakontrakcyjne półgrupy Ornsteina-Uhlenbecka w q-przestrz
+ eniach Focka (-1<q< 1) i związki z kwantowymi przestrzeniami Banacha
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-12-09-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;VALUE=DATE:20201209
+DTEND;VALUE=DATE:20201210
+SUMMARY:Ultrakontrakcyjne półgrupy Ornsteina-Uhlenbecka w q-przestrzeniac
+ h Focka (-1<q< 1) i związki z kwantowymi przestrzeniami Banacha
+LOCATION:online
+DESCRIPTION:Marek Bożejko (IM PAN)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2020-12-09-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -12-09-bozejko
+END:VEVENT
+END:VCALENDAR

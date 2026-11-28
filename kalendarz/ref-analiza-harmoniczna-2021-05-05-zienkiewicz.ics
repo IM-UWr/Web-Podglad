@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zależność od wymiaru dla oszacowań norm operatorów singul
+ arnych z diadycznego $H^1$ do $L^1$
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-05-05-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;VALUE=DATE:20210505
+DTEND;VALUE=DATE:20210506
+SUMMARY:Zależność od wymiaru dla oszacowań norm operatorów singularnyc
+ h z diadycznego $H^1$ do $L^1$
+LOCATION:online
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2021-05-05-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -05-05-zienkiewicz
+END:VEVENT
+END:VCALENDAR

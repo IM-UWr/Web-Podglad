@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Does there exist a Hindman space which is not a van der Waerde
+ n space?
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-topologia-2022-05-31-filipow@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20220531T170000
+DTEND;TZID=Europe/Warsaw:20220531T183000
+SUMMARY:Does there exist a Hindman space which is not a van der Waerden spa
+ ce?
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Rafał Filipów (University of Gdańsk)\nSeminarium: Topologia\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-31-filip
+ ow
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2022-05-31-fil
+ ipow
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Multiscale conservation laws driven by Levy stable and Linnik 
+ diffusions: asymptotics\, explicit representations\, shock creation\, pres
+ ervation and dissolution
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2019-05-23-woyczynski@im-uwr.github.i
+ o
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20190523T101500
+DTEND;TZID=Europe/Warsaw:20190523T114500
+SUMMARY:Multiscale conservation laws driven by Levy stable and Linnik diffu
+ sions: asymptotics\, explicit representations\, shock creation\, preservat
+ ion and dissolution
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Wojbor Woyczyński (Case Western Reserve University)\nSeminariu
+ m: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2019-
+ 05-23-woyczynski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2019-05-23-woyczynski
+END:VEVENT
+END:VCALENDAR

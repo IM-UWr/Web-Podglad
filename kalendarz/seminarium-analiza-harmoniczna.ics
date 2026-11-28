@@ -1,0 +1,3084 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Analiza harmoniczna i rozwinięcia ortogonalne
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-01-15-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140115
+DTEND;VALUE=DATE:20140116
+SUMMARY:Łączne rachunki funkcjonalne dla pary (Operator Ornsteina-Uhlenbe
+ cka\, Operator posiadający Ck rachunki funkcjonalne)
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2014-01-15-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -01-15-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-01-22-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140122
+DTEND;VALUE=DATE:20140123
+SUMMARY:Operatory potencjału w kontekście transformat Hankela i Hankela-D
+ unkla\, część 1
+DESCRIPTION:Krzysztof Stempak (IMiI PWr)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2014-01-22-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -01-22-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-01-29-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140129
+DTEND;VALUE=DATE:20140130
+SUMMARY:Operatory potencjału w kontekście transformat Hankela i Hankela-D
+ unkla\, część 2
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2014-01-29-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -01-29-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-03-12-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140312
+DTEND;VALUE=DATE:20140313
+SUMMARY:Reprezentacja całkowa transformat Riesza. Kontekst rozwinięć ort
+ ogonalnych
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2014-03-12-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -03-12-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-03-19-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140319
+DTEND;VALUE=DATE:20140320
+SUMMARY:Reprezentacja całkowa transformat Riesza-Jacobiego
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2014-03-19-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -03-19-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-03-26-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140326
+DTEND;VALUE=DATE:20140327
+SUMMARY:Nierówności dla transformat Hilberta oraz Riesza. W kierunku opty
+ malnych stałych
+DESCRIPTION:Adam Osękowski (MIM UW)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2014-03-26-osekowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -03-26-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-05-14-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140514
+DTEND;VALUE=DATE:20140515
+SUMMARY:Przestrzenie potencjałowe w kontekście rozwinięć Jacobiego\, cz
+ ęść 1
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2014-05-14-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -05-14-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-05-21-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140521
+DTEND;VALUE=DATE:20140522
+SUMMARY:Przestrzenie potencjałowe w kontekście rozwinięć Jacobiego\, cz
+ ęść 2
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2014-05-21-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -05-21-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-05-28-sjogren@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140528
+DTEND;VALUE=DATE:20140529
+SUMMARY:Weak type (1\,1) of some operators for the Laplacian with drift
+DESCRIPTION:Peter Sjögren (University of Gothenburg\, Szwecja)\nSeminarium
+ : Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/analiza-harmoniczna#2014-05-28-sjogren
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -05-28-sjogren
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-09-24-rosler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140924
+DTEND;VALUE=DATE:20140925
+SUMMARY:Integral representation for Heckman-Opdam hypergeometric functions 
+ of type A
+DESCRIPTION:Margit Rösler (Universität Paderborn\, Niemcy)\nSeminarium: A
+ naliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/analiza-harmoniczna#2014-09-24-rosler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -09-24-rosler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-10-08-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141008
+DTEND;VALUE=DATE:20141009
+SUMMARY:Singular solutions of Keller-Segel equations of chemotaxis
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2014-10-08-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -10-08-zienkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-10-15-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141015
+DTEND;VALUE=DATE:20141016
+SUMMARY:Zmodyfikowane operatory maksymalne w niedublujących przestrzeniach
+  metryczno-miarowych
+DESCRIPTION:Krzysztof Stempak (IMiI PWr)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2014-10-15-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -10-15-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-10-22-kulczycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141022
+DTEND;VALUE=DATE:20141023
+SUMMARY:O wklęsłości rozwiązania problemu Dirichleta dla równania $(-\
+ \Delta)^{1/2} \\phi = 1$ na wypukłym obszarze
+DESCRIPTION:Tadeusz Kulczycki (IMiI PWr)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2014-10-22-kulczycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -10-22-kulczycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-10-29-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141029
+DTEND;VALUE=DATE:20141030
+SUMMARY:Uwagi o dyskretnej wersji twierdzenia Tanaki dla operatora maksymal
+ nego
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2014-10-29-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -10-29-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-11-05-preisner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141105
+DTEND;VALUE=DATE:20141106
+SUMMARY:Rozkłady atomowe dla przestrzeni Hardy'ego związanych z operatora
+ mi Schrödingera
+DESCRIPTION:Marcin Preisner (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2014-11-05-preisner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -11-05-preisner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-11-19-dinew@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141119
+DTEND;VALUE=DATE:20141120
+SUMMARY:Równanie Monge'a-Ampere'a
+DESCRIPTION:Sławomir Dinew (UJ)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2014-11-19-dinew
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -11-19-dinew
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-12-03-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141203
+DTEND;VALUE=DATE:20141204
+SUMMARY:Mnożniki wieloliniowe z perspektywy rachunków funkcyjnych\, czę
+ ść 1
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2014-12-03-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -12-03-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2014-12-10-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20141210
+DTEND;VALUE=DATE:20141211
+SUMMARY:Mnożniki wieloliniowe z perspektywy rachunków funkcyjnych\, czę
+ ść 2
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2014-12-10-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2014
+ -12-10-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-01-14-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150114
+DTEND;VALUE=DATE:20150115
+SUMMARY:Operatory potencjału w kontekście skręconego Laplasjanu
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2015-01-14-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -01-14-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-01-21-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150121
+DTEND;VALUE=DATE:20150122
+SUMMARY:Mnożniki typu Laplace'a w kontekście skręconego Laplasjanu
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2015-01-21-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -01-21-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-03-18-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150318
+DTEND;VALUE=DATE:20150319
+SUMMARY:Przestrzenie potencjałowe dla zsymetryzowanych rozwinięć Jacobie
+ go
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2015-03-18-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -03-18-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-03-25-dyda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150325
+DTEND;VALUE=DATE:20150326
+SUMMARY:Ułamkowe nierówności Hardy'ego
+DESCRIPTION:Bartłomiej Dyda (PWr)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-03-25-dyda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -03-25-dyda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-04-15-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150415T131500
+DTEND;TZID=Europe/Warsaw:20150415T144500
+SUMMARY:Analiza na wielowymiarowych kulach i sferach\, część 1
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-04-15-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -04-15-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-04-22-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150422T131500
+DTEND;TZID=Europe/Warsaw:20150422T144500
+SUMMARY:Analiza na wielowymiarowych kulach i sferach\, część 2
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-04-22-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -04-22-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-04-29-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150429T131500
+DTEND;TZID=Europe/Warsaw:20150429T144500
+SUMMARY:Analiza na wielowymiarowych kulach i sferach\, część 3
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-04-29-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -04-29-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-05-13-sjogren@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150513T131500
+DTEND;TZID=Europe/Warsaw:20150513T144500
+SUMMARY:A characterization of the Gaussian Lipschitz space
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Peter Sjögren (University of Gothenburg\, Szwecja)\nSeminarium
+ : Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/analiza-harmoniczna#2015-05-13-sjogren
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -05-13-sjogren
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-05-20-sasso@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150520T131500
+DTEND;TZID=Europe/Warsaw:20150520T144500
+SUMMARY:Dimension free Lp estimates for Riesz transforms associated with cl
+ assical polynomial expansions
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Emanuela Sasso (Università di Genova\, Włochy)\nSeminarium: A
+ naliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/analiza-harmoniczna#2015-05-20-sasso
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -05-20-sasso
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-05-27-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150527
+DTEND;VALUE=DATE:20150528
+SUMMARY:Technika dyskretyzacji dla operatorów maksymalnych
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2015-05-27-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -05-27-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-10-07-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+SUMMARY:Charakteryzacja przez transformaty Riesza przestrzeni Hardy'ego dla
+  pewnych operatorów Dunkla
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2015-10-07-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -10-07-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-10-21-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151022
+SUMMARY:Operator maksymalny w kontekście rozwinięć w wielomiany Laguerre
+ 'a\, część 1
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-10-21-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -10-21-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-10-28-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
+SUMMARY:Operator maksymalny w kontekście rozwinięć w wielomiany Laguerre
+ 'a\, część 2
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-10-28-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -10-28-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-11-04-bogdan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+SUMMARY:Tożsamości Hardy'ego-Steina i funkcje kwadratowe dla półgrup
+DESCRIPTION:Krzysztof Bogdan (PWr)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2015-11-04-bogdan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -11-04-bogdan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-11-18-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151118
+DTEND;VALUE=DATE:20151119
+SUMMARY:O zależnościach między nierównościami słabego i mocnego typu 
+ dla operatorów maksymalnych na niedublujących przestrzeniach metryczno-m
+ iarowych\, część 1
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2015-11-18-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -11-18-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-11-25-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151126
+SUMMARY:O zależnościach między nierównościami słabego i mocnego typu 
+ dla operatorów maksymalnych na niedublujących przestrzeniach metryczno-m
+ iarowych\, część 2
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2015-11-25-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -11-25-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-12-02-malecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151202
+DTEND;VALUE=DATE:20151203
+SUMMARY:Oszacowania jąder Fouriera-Bessela
+DESCRIPTION:Jacek Małecki (PWr)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2015-12-02-malecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -12-02-malecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-12-16-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SUMMARY:Rozszerzenia typu Whitney'a - raport z warsztatów w Luminy
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2015-12-16-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -12-16-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-01-13-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160113
+DTEND;VALUE=DATE:20160114
+SUMMARY:Analiza harmoniczna w kontekście zsymetryzowanych rozwinięć Jaco
+ biego\; pełny zakres parametrów typu\, część 1
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2016-01-13-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -01-13-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-01-20-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160120
+DTEND;VALUE=DATE:20160121
+SUMMARY:Analiza harmoniczna w kontekście zsymetryzowanych rozwinięć Jaco
+ biego\; pełny zakres parametrów typu\, część 2
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2016-01-20-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -01-20-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-01-27-iglewska-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160127T110000
+DTEND;TZID=Europe/Warsaw:20160127T123000
+SUMMARY:Analiza falkowa na sferze
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Ilona Iglewska-Nowak (ZUT)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2016-01-27-iglewska-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -01-27-iglewska-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-03-02-trojan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160302
+DTEND;VALUE=DATE:20160303
+SUMMARY:Dwuparametrowa funkcja maksymalna\, część 1
+DESCRIPTION:Bartosz Trojan (PWr)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2016-03-02-trojan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -03-02-trojan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-03-09-trojan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160309
+DTEND;VALUE=DATE:20160310
+SUMMARY:Dwuparametrowa funkcja maksymalna\, część 2
+DESCRIPTION:Bartosz Trojan (PWr)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2016-03-09-trojan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -03-09-trojan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-03-16-kazaniecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SUMMARY:Ciągłość mnożników Fouriera na jednorodnej przestrzeni Sobole
+ wa $\\dot{W}^{1\,1}(R^d)$
+DESCRIPTION:Krystian Kazaniecki (UW)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2016-03-16-kazaniecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -03-16-kazaniecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-03-23-mirek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SUMMARY:Dyskretne operatory typu Radona: szacowania maksymalne i wariacyjne
+DESCRIPTION:Mariusz Mirek (Universität Bonn)\nSeminarium: Analiza harmonic
+ zna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/analiza-harmoniczna#2016-03-23-mirek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -03-23-mirek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-04-06-perez-lazaro@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160406
+DTEND;VALUE=DATE:20160407
+SUMMARY:The modulus of continuity of the Hardy-Littlewood maximal operator
+DESCRIPTION:Javier Pérez Lázaro (Universidad de La Rioja)\nSeminarium: An
+ aliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/analiza-harmoniczna#2016-04-06-perez-lazaro
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -04-06-perez-lazaro
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-04-20-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160421
+SUMMARY:Mnożniki sferyczne na drzewach jednorodnych i ich produktach\, cz
+ ęść 1
+DESCRIPTION:Błażej Wróbel (Universität Bonn)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2016-04-20-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -04-20-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-04-27-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160427
+DTEND;VALUE=DATE:20160428
+SUMMARY:Mnożniki sferyczne na drzewach jednorodnych i ich produktach\, cz
+ ęść 2
+DESCRIPTION:Błażej Wróbel (Universität Bonn)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2016-04-27-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -04-27-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-05-11-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160511
+DTEND;VALUE=DATE:20160512
+SUMMARY:Martingale study of Riesz transforms associated with orthogonal exp
+ ansions
+DESCRIPTION:Adam Osękowski (UW)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2016-05-11-osekowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -05-11-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-05-13-roncal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160514
+SUMMARY:Harmonic analysis around a discrete Laplacian
+DESCRIPTION:Luz Roncal (Universidad de La Rioja\, Logroño\, Hiszpania)\nSe
+ minarium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/analiza-harmoniczna#2016-05-13-roncal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -05-13-roncal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-06-01-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160601
+DTEND;VALUE=DATE:20160602
+SUMMARY:Egzotyczne półgrupy Laguerre'a\, Bessela i Jacobiego
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2016-06-01-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -06-01-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-06-08-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160608
+DTEND;VALUE=DATE:20160609
+SUMMARY:O nierównościach słabego i restrykcyjnego słabego typu dla oper
+ atorów maksymalnych na niedublujących przestrzeniach metryczno-miarowych
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2016-06-08-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -06-08-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-10-12-sikic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161012T111500
+DTEND;TZID=Europe/Warsaw:20161012T124500
+SUMMARY:Shift invariant spaces and filters
+LOCATION:Instytut Matematyczny PAN\, ul. Kopernika 18\, Wrocław
+DESCRIPTION:Hrvoje Šikić (University of Zagreb\, Chorwacja)\nSeminarium: 
+ Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/analiza-harmoniczna#2016-10-12-sikic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -10-12-sikic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-10-26-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161026T111500
+DTEND;TZID=Europe/Warsaw:20161026T124500
+SUMMARY:Przestrzenie Biesowa i Triebela-Lizorkina w kontekście rozwinięć
+  Laguerre'a typu hermitowskiego
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2016-10-26-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -10-26-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-11-09-lesnik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20161109
+DTEND;VALUE=DATE:20161110
+SUMMARY:Monotoniczne operatory substochastyczne i nowa para Calderona
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Karol Leśnik (PP)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2016-11-09-lesnik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -11-09-lesnik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2016-11-16-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161116T111500
+DTEND;TZID=Europe/Warsaw:20161116T124500
+SUMMARY:Oszacowania słabego typu 1-1 dla operatorów odwrotnych do ultra o
+ sobliwych dyskretnych transformat Hilberta
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2016-11-16-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2016
+ -11-16-zienkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-01-11-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170111T111500
+DTEND;TZID=Europe/Warsaw:20170111T124500
+SUMMARY:Radial spherical means and their generalizations
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2017-01-11-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -01-11-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-01-18-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170118T111500
+DTEND;TZID=Europe/Warsaw:20170118T124500
+SUMMARY:Kernel estimates related to generalized radial spherical means
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2017-01-18-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -01-18-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-01-25-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170125T111500
+DTEND;TZID=Europe/Warsaw:20170125T124500
+SUMMARY:Mixed norm estimates for generalized radial spherical means
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2017-01-25-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -01-25-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-03-01-labarga@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170301T111500
+DTEND;TZID=Europe/Warsaw:20170301T124500
+SUMMARY:Hardy's inequality on the sphere
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Edgar Labarga (Universidad de La Rioja\, Hiszpania)\nSeminarium
+ : Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/analiza-harmoniczna#2017-03-01-labarga
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -03-01-labarga
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-03-08-jahan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170308T111500
+DTEND;TZID=Europe/Warsaw:20170308T124500
+SUMMARY:Wavelets as unconditional basis
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Qaiser Jahan (Indian Institute of Technology Kanpur\, Indie)\nS
+ eminarium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017-03-08-jahan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -03-08-jahan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-03-15-arenas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170315T111500
+DTEND;TZID=Europe/Warsaw:20170315T124500
+SUMMARY:Fourier-Jacobi expansions in Morrey spaces
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Alberto Arenas (Universidad de La Rioja\, Hiszpania)\nSeminariu
+ m: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/analiza-harmoniczna#2017-03-15-arenas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -03-15-arenas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-03-22-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170322T111500
+DTEND;TZID=Europe/Warsaw:20170322T124500
+SUMMARY:Remarks on localizated sharp functions on certain sets in Rn
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2017-03-22-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -03-22-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-04-05-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170405
+DTEND;VALUE=DATE:20170406
+SUMMARY:O relacjach między nierównościami słabego i mocnego typu dla zm
+ odyfikowanych operatorów maksymalnych na niedublujących przestrzeniach m
+ etryczno-miarowych\, część 1
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2017-04-05-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -04-05-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-04-12-krol@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170412T111500
+DTEND;TZID=Europe/Warsaw:20170412T124500
+SUMMARY:Application of weighted inequalities to extrapolation of the maxima
+ l regularity of the abstract Cauchy problems
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Sebastian Król (UMK)\nSeminarium: Analiza harmoniczna i rozwin
+ ięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza
+ -harmoniczna#2017-04-12-krol
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -04-12-krol
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-04-26-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170426T111500
+DTEND;TZID=Europe/Warsaw:20170426T124500
+SUMMARY:O relacjach między nierównościami słabego i mocnego typu dla zm
+ odyfikowanych operatorów maksymalnych na niedublujących przestrzeniach m
+ etryczno-miarowych\, część 2
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2017-04-26-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -04-26-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-05-10-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170510T111500
+DTEND;TZID=Europe/Warsaw:20170510T124500
+SUMMARY:Niezależne od wymiaru oszacowania norm Lp wektorów transformat Ri
+ esza związanych z rozwinięciami ortogonalnymi
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Błażej Wróbel (Universität Bonn)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2017-05-10-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -05-10-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-05-24-zegarlinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170524
+DTEND;VALUE=DATE:20170525
+SUMMARY:Part.I. Algebraic and Analytic Questions Concerning Crystallographi
+ c Groups for Hoermander Fields Part.II. Smoothing and Ergodicity of Dissip
+ ative Dynamics for Large Interacting Systems
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Bogusław Zegarliński (Imperial College London)\nSeminarium: A
+ naliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/analiza-harmoniczna#2017-05-24-zegarlinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -05-24-zegarlinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-06-07-bownik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170607T111500
+DTEND;TZID=Europe/Warsaw:20170607T124500
+SUMMARY:Exponential frames and syndetic sets
+LOCATION:C-11 PWr (Wydział Matematyki)\, sala 2.11
+DESCRIPTION:Marcin Bownik (University of Oregon\, USA\, oraz IM PAN)\nSemin
+ arium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/analiza-harmoniczna#2017-06-07-bownik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -06-07-bownik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-10-18-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+SUMMARY:Przestrzenie BMO dla niedublujących przestrzeni metryczno-miarowyc
+ h\, część 1
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2017-10-18-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -10-18-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-10-25-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171025
+DTEND;VALUE=DATE:20171026
+SUMMARY:Przestrzenie BMO dla niedublujących przestrzeni metryczno-miarowyc
+ h\, część 2
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2017-10-25-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -10-25-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-11-22-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171122
+DTEND;VALUE=DATE:20171123
+SUMMARY:O regularności półgrup spełniających oszacowania gaussowskie\,
+  część 1
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2017-11-22-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -11-22-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-11-29-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171129
+DTEND;VALUE=DATE:20171130
+SUMMARY:O regularności półgrup spełniających oszacowania gaussowskie\,
+  część 2
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2017-11-29-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -11-29-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-12-06-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171206
+DTEND;VALUE=DATE:20171207
+SUMMARY:Zasada odbicia dla funkcji Laplasjanów Neumanna i Dirichleta na sy
+ metrycznych zbiorach otwartych
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2017-12-06-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -12-06-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2017-12-13-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20171213
+DTEND;VALUE=DATE:20171214
+SUMMARY:O pewnych rozszerzeniach kontekstów dunklowskich
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2017-12-13-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2017
+ -12-13-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-01-17-iglewska-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180117
+DTEND;VALUE=DATE:20180118
+SUMMARY:Analiza falkowa funkcji o wadze spinowej
+DESCRIPTION:Ilona Iglewska-Nowak (ZUT)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2018-01-17-iglewska-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -01-17-iglewska-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-02-28-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180228
+DTEND;VALUE=DATE:20180301
+SUMMARY:Niezależne od wymiaru oszacowania na $L^p$ dla półnorm r-wariacy
+ jnych związanych z operatorami średniującymi Hardy'ego-Littlewood'a
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2018-02-28-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -02-28-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-03-07-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180307
+DTEND;VALUE=DATE:20180308
+SUMMARY:Nierówność Hardy'ego w kontekście rozwinięć w funkcje Laguerr
+ e'a typu hermitowskiego\, część 1
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2018-03-07-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -03-07-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-03-14-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180314
+DTEND;VALUE=DATE:20180315
+SUMMARY:Nierówność Hardy'ego w kontekście rozwinięć w funkcje Laguerr
+ e'a typu hermitowskiego\, część 2
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2018-03-14-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -03-14-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-03-21-stochel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180321
+DTEND;VALUE=DATE:20180322
+SUMMARY:A solution to the Cauchy dual subnormality problem for 2-isometries
+DESCRIPTION:Jan Stochel (UJ)\nSeminarium: Analiza harmoniczna i rozwinięci
+ a ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-harm
+ oniczna#2018-03-21-stochel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -03-21-stochel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-03-28-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180328
+DTEND;VALUE=DATE:20180329
+SUMMARY:Własność dychotomii dla operatorów maksymalnych w kontekście p
+ rzestrzeni niedublujących
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2018-03-28-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -03-28-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-04-11-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180411
+DTEND;VALUE=DATE:20180412
+SUMMARY:Oszacowania sferycznego jądra ciepła
+DESCRIPTION:Tomasz Szarek (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2018-04-11-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -04-11-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-05-30-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180531
+SUMMARY:Hardy spaces in the rational Dunkl setting
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2018-05-30-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -05-30-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-06-06-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180607
+SUMMARY:Nierówności dla operatora maksymalnego w przestrzeniach Lorentza
+DESCRIPTION:Adam Osękowski (UW)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2018-06-06-osekowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -06-06-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-10-10-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181010
+DTEND;VALUE=DATE:20181011
+SUMMARY:Twierdzenie mnożnikowe Hörmandera dla transformaty Dunkla\, czę
+ ść 1
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2018-10-10-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -10-10-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-10-17-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181017
+DTEND;VALUE=DATE:20181018
+SUMMARY:Twierdzenie mnożnikowe Hörmandera dla transformaty Dunkla\, czę
+ ść 2
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2018-10-17-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -10-17-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-10-24-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181025
+SUMMARY:Ostra nierówność Hardy'ego dla rozwinięć Laguerre'a
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2018-10-24-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -10-24-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-11-07-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181107
+DTEND;VALUE=DATE:20181108
+SUMMARY:Operatory maksymalne na przestrzeniach Lorentza w kontekście niedu
+ blujących przestrzeni metryczno-miarowych
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2018-11-07-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -11-07-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-11-14-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181114
+DTEND;VALUE=DATE:20181115
+SUMMARY:Operator maksymalny uogólnionych średnich sferycznych funkcji rad
+ ialnych
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2018-11-14-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -11-14-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-11-21-kania@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181121
+DTEND;VALUE=DATE:20181122
+SUMMARY:Atomowa lokalna charakteryzacja dla przestrzeni Hardy'ego w kontek
+ ście produktowym
+DESCRIPTION:Edyta Kania (IM UWr)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2018-11-21-kania
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -11-21-kania
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2018-12-05-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20181205
+DTEND;VALUE=DATE:20181206
+SUMMARY:O pewnym nielokalnym równaniu opisującym wzory na rybach
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Analiza harmoniczna i rozwin
+ ięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza
+ -harmoniczna#2018-12-05-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2018
+ -12-05-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-01-16-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+SUMMARY:Zasady symetrii dla funkcji Laplasjanów Neumanna i Dirichleta na z
+ biorach otwartych\, symetrycznych względem dowolnych grup odbić\, częś
+ ć 1
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2019-01-16-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -01-16-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-01-23-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+SUMMARY:Zasady symetrii dla funkcji Laplasjanów Neumanna i Dirichleta na z
+ biorach otwartych\, symetrycznych względem dowolnych grup odbić\, częś
+ ć 2
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2019-01-23-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -01-23-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-02-27-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+SUMMARY:Oszacowania niezależne od wymiaru dla funkcji maksymalnej dyskretn
+ ych kul: duże skale
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2019-02-27-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -02-27-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-03-06-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+SUMMARY:Własności operatorów maksymalnych na przestrzeniach Lorentza w k
+ ontekście niedublujących przestrzeni metryczno-miarowych\, część 1
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2019-03-06-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -03-06-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-03-13-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+SUMMARY:Własności operatorów maksymalnych na przestrzeniach Lorentza w k
+ ontekście niedublujących przestrzeni metryczno-miarowych\, część 2
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2019-03-13-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -03-13-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-04-03-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+SUMMARY:Skończone grupy odbić i samosprzężone rozszerzenia laplasjanu n
+ a zbiorach symetrycznych
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2019-04-03-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -04-03-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-04-10-dyda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+SUMMARY:Własność $A_p$ Muckenhoupta dla potęg funkcji odległości w pr
+ zestrzeniach metrycznych z miarą dublującą i pewne zastosowania
+DESCRIPTION:Bartłomiej Dyda (PWr)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2019-04-10-dyda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -04-10-dyda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-05-15-sjogren@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+SUMMARY:Operators related to the sub-Laplacian with drift in the Heisenberg
+  group
+DESCRIPTION:Peter Sjögren (University of Gothenburg\, Szwecja)\nSeminarium
+ : Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/analiza-harmoniczna#2019-05-15-sjogren
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -05-15-sjogren
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-05-29-roncal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+SUMMARY:Hardy-type inequalities for fractional powers of the Dunkl-Hermite 
+ operator
+DESCRIPTION:Luz Roncal (BCAM\, Hiszpania)\nSeminarium: Analiza harmoniczna 
+ i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /analiza-harmoniczna#2019-05-29-roncal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -05-29-roncal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-05-31-roncal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+SUMMARY:Some notes on the analysis on the infinite torus
+DESCRIPTION:Luz Roncal (BCAM\, Hiszpania)\nSeminarium: Analiza harmoniczna 
+ i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /analiza-harmoniczna#2019-05-31-roncal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -05-31-roncal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-06-05-slomian@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+SUMMARY:Transferencja oszacowań $L^p$ pomiędzy zsymetryzowanymi rozwinię
+ ciami Jacobiego a transformatą Dunkla
+DESCRIPTION:Wojciech Słomian (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2019-06-05-slomian
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -06-05-slomian
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-06-12-bruno@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+SUMMARY:Hardy spaces and Riesz transforms for the Ornstein-Uhlenbeck operat
+ or
+DESCRIPTION:Tommaso Bruno (Politecnico di Torino\, Włochy)\nSeminarium: An
+ aliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/analiza-harmoniczna#2019-06-12-bruno
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -06-12-bruno
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-10-16-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+SUMMARY:Całki singularne w kontekście dunklowskim
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2019-10-16-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -10-16-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-10-23-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+SUMMARY:O różniczkowaniu całek w nieskończenie wymiarowym torusie
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2019-10-23-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -10-23-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-10-30-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+SUMMARY:Ostre oszacowania jądra ciepła w kilku kontekstach (panoramiczny 
+ wstęp)
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2019-10-30-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -10-30-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-11-06-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+SUMMARY:Ostre oszacowania jądra ciepła w kilku kontekstach (Jacobi\, CROS
+ S\, kula\, sympleks)
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2019-11-06-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -11-06-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-11-20-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+SUMMARY:Mnożniki Marcinkiewicza na produktach przestrzeni symetrycznych ni
+ ezwartego typu
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2019-11-20-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -11-20-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-11-27-kwasnicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+SUMMARY:Norma $l^p$ dyskretnej transformaty Hilberta
+DESCRIPTION:Mateusz Kwaśnicki (PWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2019-11-27-kwasnicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -11-27-kwasnicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-12-04-preisner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+SUMMARY:Przestrzenie Hardy'ego związane z funkcjami harmonicznymi
+DESCRIPTION:Marcin Preisner (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2019-12-04-preisner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -12-04-preisner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-12-18-mirek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+SUMMARY:O pewnych problemach związanych ze zbieżnością punktową
+DESCRIPTION:Mariusz Mirek (Rutgers University)\nSeminarium: Analiza harmoni
+ czna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/analiza-harmoniczna#2019-12-18-mirek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -12-18-mirek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2019-12-30-wright@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+SUMMARY:On the local sum conjecture
+DESCRIPTION:James Wright (The University of Edinburgh)\nSeminarium: Analiza
+  harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/analiza-harmoniczna#2019-12-30-wright
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2019
+ -12-30-wright
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-02-26-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20200226
+DTEND;VALUE=DATE:20200227
+SUMMARY:Nierówność Feffermana-Phonga i jej zastosowania w kontekście du
+ nklowskim\, część 1
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2020-02-26-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -02-26-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-03-04-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20200304
+DTEND;VALUE=DATE:20200305
+SUMMARY:Nierówność Feffermana-Phonga i jej zastosowania w kontekście du
+ nklowskim\, część 2
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2020-03-04-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -03-04-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-12-02-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20201202
+DTEND;VALUE=DATE:20201203
+SUMMARY:Ciągłość niescentrowanego operatora maksymalnego Hardy'ego–Li
+ ttlewooda na przestrzeni BV(R)
+LOCATION:online
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2020-12-02-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -12-02-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-12-09-bozejko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20201209
+DTEND;VALUE=DATE:20201210
+SUMMARY:Ultrakontrakcyjne półgrupy Ornsteina-Uhlenbecka w q-przestrzeniac
+ h Focka (-1<q< 1) i związki z kwantowymi przestrzeniami Banacha
+LOCATION:online
+DESCRIPTION:Marek Bożejko (IM PAN)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2020-12-09-bozejko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -12-09-bozejko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2020-12-16-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20201216
+DTEND;VALUE=DATE:20201217
+SUMMARY:Relacje między optymalnymi stałymi w nierównościach maksymalnyc
+ h na $R^d$ oraz $Z^d$
+LOCATION:online
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2020-12-16-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2020
+ -12-16-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-01-13-lesnik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210113
+DTEND;VALUE=DATE:20210114
+SUMMARY:Operatory Toeplitza i Hankela pomiędzy różnymi przestrzeniami Ha
+ rdy'ego
+LOCATION:online
+DESCRIPTION:Karol Leśnik (PP)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2021-01-13-lesnik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -01-13-lesnik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-01-20-serafin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210120
+DTEND;VALUE=DATE:20210121
+SUMMARY:Jądra ciepła dla Laplasjanu w zbiorach wypukłych
+LOCATION:online
+DESCRIPTION:Grzegorz Serafin (PWr)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2021-01-20-serafin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -01-20-serafin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-03-03-derezinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210303
+DTEND;VALUE=DATE:20210304
+SUMMARY:Jednorodne operatory Schroedingera
+LOCATION:online
+DESCRIPTION:Jan Dereziński (UW)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2021-03-03-derezinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -03-03-derezinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-04-14-martini@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210414
+DTEND;VALUE=DATE:20210415
+SUMMARY:Almost everywhere convergence of Bochner-Riesz means on Heisenberg-
+ type groups
+LOCATION:online
+DESCRIPTION:Alessio Martini (University of Birmingham)\nSeminarium: Analiza
+  harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/analiza-harmoniczna#2021-04-14-martini
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -04-14-martini
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-04-21-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210421
+DTEND;VALUE=DATE:20210422
+SUMMARY:O pochodnych\, transformatach Riesza i przestrzeniach Sobolewa dla 
+ dyskretnych rozwinięć Fouriera-Bessela
+LOCATION:online
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2021-04-21-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -04-21-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-04-28-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210428
+DTEND;VALUE=DATE:20210429
+SUMMARY:Ergodic theorems for certain arithmetic spheres
+LOCATION:online
+DESCRIPTION:Tomasz Zachary Szarek (BCAM)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2021-04-28-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -04-28-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-05-05-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210505
+DTEND;VALUE=DATE:20210506
+SUMMARY:Zależność od wymiaru dla oszacowań norm operatorów singularnyc
+ h z diadycznego $H^1$ do $L^1$
+LOCATION:online
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2021-05-05-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -05-05-zienkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-05-12-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210512
+DTEND;VALUE=DATE:20210513
+SUMMARY:$l^p$ improving dla dyskretnej paraboloidy
+LOCATION:online
+DESCRIPTION:Bartosz Langowski (Indiana University)\nSeminarium: Analiza har
+ moniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/analiza-harmoniczna#2021-05-12-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -05-12-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-05-26-sousa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210526
+DTEND;VALUE=DATE:20210527
+SUMMARY:Uncertainty principles and interpolation formulas
+LOCATION:online
+DESCRIPTION:Mateus Sousa (BCAM)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2021-05-26-sousa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -05-26-sousa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-06-09-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210609
+DTEND;VALUE=DATE:20210610
+SUMMARY:Oszacowania niezależne od wymiaru dla transformat Riesza związany
+ ch z oscylatorem harmonicznym
+LOCATION:online
+DESCRIPTION:Maciej Kucharski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2021-06-09-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -06-09-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-06-16-slomian@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210616
+DTEND;VALUE=DATE:20210617
+SUMMARY:Nierówność oscylacyjna dla dyskretnych średnich Radona
+LOCATION:online
+DESCRIPTION:Wojciech Słomian (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2021-06-16-slomian
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -06-16-slomian
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-10-06-kania-strojec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211006
+DTEND;VALUE=DATE:20211007
+SUMMARY:Charakteryzacja wielowymiarowych przestrzeni Hardy'ego przez transf
+ ormaty Riesza
+DESCRIPTION:Edyta Kania-Strojec (IM UWr)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2021-10-06-kania-strojec
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -10-06-kania-strojec
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-10-13-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211013
+DTEND;VALUE=DATE:20211014
+SUMMARY:Własności spektralne operatorów Sturma-Liouville'a o specjalnym 
+ rozkładzie
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2021-10-13-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -10-13-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-10-27-dragicevic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211027
+DTEND;VALUE=DATE:20211028
+SUMMARY:$L^p$ asymptotics for powers of the complex Riesz transform
+LOCATION:online
+DESCRIPTION:Oliver Dragičević (University of Ljubljana)\nSeminarium: Anal
+ iza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/analiza-harmoniczna#2021-10-27-dragicevic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -10-27-dragicevic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-11-03-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211103
+DTEND;VALUE=DATE:20211104
+SUMMARY:Oszacowanie niezależne od wymiaru na $L^2$ maksymalnej obciętej t
+ ransformaty Riesza przez transformatę Riesza
+DESCRIPTION:Maciej Kucharski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2021-11-03-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -11-03-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-11-10-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211110
+DTEND;VALUE=DATE:20211111
+SUMMARY:O bazach dla operatora maksymalnego w nieskończenie wymiarowym tor
+ usie
+DESCRIPTION:Dariusz Kosz (BCAM)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2021-11-10-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -11-10-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-11-24-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211124
+DTEND;VALUE=DATE:20211125
+SUMMARY:Górne i dolne oszacowania jądra ciepła Dunkla
+DESCRIPTION:Agnieszka Hejna (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2021-11-24-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -11-24-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2021-12-01-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20211201
+DTEND;VALUE=DATE:20211202
+SUMMARY:Oszacowania słabego typu (1\,1) dla dyskretnej maksymalnej obcięt
+ ej singularnej transformaty Hilberta
+LOCATION:online
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2021-12-01-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2021
+ -12-01-zienkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-01-19-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220120
+SUMMARY:Operator maksymalny uogólnionych średnich sferycznych funkcji rad
+ ialnych: oszacowania krańcowe i optymalność
+LOCATION:online
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2022-01-19-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -01-19-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-01-26-rodriguez-mesa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220126
+DTEND;VALUE=DATE:20220127
+SUMMARY:Sparse operators in harmonic analysis
+LOCATION:online
+DESCRIPTION:Lourdes Rodríguez-Mesa (University of La Laguna)\nSeminarium: 
+ Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/analiza-harmoniczna#2022-01-26-rodriguez-mesa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -01-26-rodriguez-mesa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-05-04-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220504
+DTEND;VALUE=DATE:20220505
+SUMMARY:Laplasjany na komórkach Weyla
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2022-05-04-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -05-04-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-05-11-roncal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220512
+SUMMARY:Variational bounds for spherical averages
+LOCATION:online
+DESCRIPTION:Luz Roncal (BCAM)\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2022-05-11-roncal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -05-11-roncal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-05-25-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220525
+DTEND;VALUE=DATE:20220526
+SUMMARY:Łączne $L^p$ spektrum dla pary komutujących operatorów na grupi
+ e SL(2\,R)
+DESCRIPTION:Błażej Wróbel (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2022-05-25-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -05-25-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-06-01-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220602
+SUMMARY:Skończone grupy odbić i całkowita dodatniość
+DESCRIPTION:Krzysztof Stempak (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2022-06-01-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -06-01-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-10-12-slomian@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221012T101500
+DTEND;TZID=Europe/Warsaw:20221012T114500
+SUMMARY:Oszacowania oscylacyjne i skokowe dla dyskretnych operatorów typu 
+ Radona modelowanych na liczbach pierwszych
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Wojciech Słomian (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2022-10-12-slomian
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -10-12-slomian
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-10-26-zienkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221026T101500
+DTEND;TZID=Europe/Warsaw:20221026T114500
+SUMMARY:Niezależne od wymiaru oszacowania wektorowe Lp dla maksymalnych tr
+ ansformat Riesza nieparzystych rzędów
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jacek Zienkiewicz (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2022-10-26-zienkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -10-26-zienkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-11-09-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221109T101500
+DTEND;TZID=Europe/Warsaw:20221109T114500
+SUMMARY:Asymptotic zero distribution of orthogonal polynomials
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Świderski (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2022-11-09-swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -11-09-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-11-30-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221130T101500
+DTEND;TZID=Europe/Warsaw:20221130T114500
+SUMMARY:Uwagi o przesunięciach Dunkla funkcji radialnych i nieradialnych\,
+  część 1
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2022-11-30-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -11-30-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-12-07-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221207T101500
+DTEND;TZID=Europe/Warsaw:20221207T114500
+SUMMARY:Uwagi o przesunięciach Dunkla funkcji radialnych i nieradialnych\,
+  część 2
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2022-12-07-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -12-07-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2022-12-14-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221214T101500
+DTEND;TZID=Europe/Warsaw:20221214T114500
+SUMMARY:Szacowania transformat Riesza związanych z operatorami Schrödinge
+ ra
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Maciej Kucharski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2022-12-14-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2022
+ -12-14-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-01-25-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230125T101500
+DTEND;TZID=Europe/Warsaw:20230125T114500
+SUMMARY:O funkcjach maksymalnych związanych z pewną miarą niedublującą
+  i nieradialną
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2023-01-25-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -01-25-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-03-01-kwasnicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230301T101500
+DTEND;TZID=Europe/Warsaw:20230301T114500
+SUMMARY:Norma transformaty Riesza–Titchmarsha na lp dla parzystych wykła
+ dników p
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Mateusz Kwaśnicki (PWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2023-03-01-kwasnicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -03-01-kwasnicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-03-22-lyzwa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20230322
+DTEND;VALUE=DATE:20230323
+SUMMARY:Komutator transformaty Riesza i funkcji z przestrzeni BMO - oszacow
+ ania dolne
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Rafał Łyżwa (IM UWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2023-03-22-lyzwa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -03-22-lyzwa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-03-29-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230329T101500
+DTEND;TZID=Europe/Warsaw:20230329T114500
+SUMMARY:Analiza harmoniczna operatora Jacobiego-Dunkla na $(-\\pi\,\\pi)$: 
+ przypadki egzotyczne
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2023-03-29-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -03-29-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-04-05-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230405T101500
+DTEND;TZID=Europe/Warsaw:20230405T114500
+SUMMARY:Twierdzenie Carlesona za pomocą przestrzennie centralnych płytek
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (BCAM)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2023-04-05-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -04-05-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-04-12-lemm@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230412T101500
+DTEND;TZID=Europe/Warsaw:20230412T114500
+SUMMARY:Discrete Green's functions and optimal Hardy weights
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Marius Lemm (University of Tübingen)\nSeminarium: Analiza harm
+ oniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/analiza-harmoniczna#2023-04-12-lemm
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -04-12-lemm
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-04-19-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230419T101500
+DTEND;TZID=Europe/Warsaw:20230419T114500
+SUMMARY:Komutator całek singularnych i funkcji z BMO w teorii Dunkla
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2023-04-19-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -04-19-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-04-26-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230426T101500
+DTEND;TZID=Europe/Warsaw:20230426T114500
+SUMMARY:O teorii subordynacji dla macierzy Jacobiego
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Świderski (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2023-04-26-swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -04-26-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-05-10-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230510T101500
+DTEND;TZID=Europe/Warsaw:20230510T114500
+SUMMARY:O punktowych twierdzeniach ergodycznych
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Tomasz Zachary Szarek (BCAM)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2023-05-10-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -05-10-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-05-24-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230524T101500
+DTEND;TZID=Europe/Warsaw:20230524T114500
+SUMMARY:Niezależne od wymiaru oszacowania Lp maksymalnych transformat Ries
+ za przez transformaty Riesza\; przypadek dowolnych rzędów
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Błażej Wróbel (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2023-05-24-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -05-24-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-05-31-vojnovic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230531T101500
+DTEND;TZID=Europe/Warsaw:20230531T114500
+SUMMARY:Microlocal defect measures and wavefront sets
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Ivana Vojnović (University of Novi Sad)\nSeminarium: Analiza h
+ armoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/analiza-harmoniczna#2023-05-31-vojnovic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -05-31-vojnovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-06-07-ombrosi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230607T101500
+DTEND;TZID=Europe/Warsaw:20230607T114500
+SUMMARY:Hyperbolic spaces and weighted estimates
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Sheldy Ombrosi (Universidad Complutense de Madrid)\nSeminarium:
+  Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/analiza-harmoniczna#2023-06-07-ombrosi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -06-07-ombrosi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-10-11-mousavi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231011T101500
+DTEND;TZID=Europe/Warsaw:20231011T114500
+SUMMARY:The Goldbach conjecture and pointwise ergodic theorem
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Hamed Mousavi (King's College London)\nSeminarium: Analiza harm
+ oniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/analiza-harmoniczna#2023-10-11-mousavi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -10-11-mousavi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-10-18-oliveira-e-silva@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231018T101500
+DTEND;TZID=Europe/Warsaw:20231018T114500
+SUMMARY:Sharp restriction theory: highlights and future directions
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Diogo Oliveira e Silva (Instituto Superior Técnico Lisboa)\nSe
+ minarium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/analiza-harmoniczna#2023-10-18-oliveira-e-s
+ ilva
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -10-18-oliveira-e-silva
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-10-25-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231025T101500
+DTEND;TZID=Europe/Warsaw:20231025T114500
+SUMMARY:Diabelskie schody mają absolutnie ciągłą funkcję maksymalną
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2023-10-25-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -10-25-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-11-08-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231108T101500
+DTEND;TZID=Europe/Warsaw:20231108T114500
+SUMMARY:Niezależne od wymiaru oszacowania norm transformat Riesza związan
+ ych z operatorami Schrödingera
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Maciej Kucharski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2023-11-08-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -11-08-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-11-15-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231115T101500
+DTEND;TZID=Europe/Warsaw:20231115T114500
+SUMMARY:Ostre twierdzenie mnożnikowe dla rozszerzeń grup typu Heisenberga
+ \, część 1
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Paweł Plewa (Politecnico di Torino)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2023-11-15-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -11-15-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-11-22-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231122T101500
+DTEND;TZID=Europe/Warsaw:20231122T114500
+SUMMARY:Ostre twierdzenie mnożnikowe dla rozszerzeń grup typu Heisenberga
+ \, część 2
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Paweł Plewa (Politecnico di Torino)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2023-11-22-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -11-22-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-11-29-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231129T101500
+DTEND;TZID=Europe/Warsaw:20231129T114500
+SUMMARY:O transferowaniu nierówności maksymalnych z ostrymi stałymi
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2023-11-29-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -11-29-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-12-06-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231206T101500
+DTEND;TZID=Europe/Warsaw:20231206T114500
+SUMMARY:O gęstości stanów nieograniczonych macierzy Jacobiego
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Świderski (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2023-12-06-swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -12-06-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-12-13-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231213T101500
+DTEND;TZID=Europe/Warsaw:20231213T114500
+SUMMARY:O tożsamościach dla zer funkcji Bessela
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2023-12-13-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -12-13-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-01-10-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240110T101500
+DTEND;TZID=Europe/Warsaw:20240110T114500
+SUMMARY:Ostre oszacowania jąder ciepła na komórkach Weyla
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2024-01-10-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -01-10-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-01-17-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240117T101500
+DTEND;TZID=Europe/Warsaw:20240117T114500
+SUMMARY:Ostre oszacowania jąder ciepła na komórkach Weyla\, część 2
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2024-01-17-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -01-17-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-01-24-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240124T101500
+DTEND;TZID=Europe/Warsaw:20240124T114500
+SUMMARY:Oszacowania niezależne od wymiaru na l^2(Z^d) dla dyskretnej diady
+ cznej funkcji maksymalnej kul l^1: przypadek małych skal
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jakub Niksiński (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2024-01-24-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -01-24-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-02-28-preisner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240228T101500
+DTEND;TZID=Europe/Warsaw:20240228T114500
+SUMMARY:Przestrzenie Hardy'ego związane z jedną lub dwiema funkcjami harm
+ onicznymi
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Marcin Preisner (IM UWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2024-02-28-preisner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -02-28-preisner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-03-06-ghosh@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240306T101500
+DTEND;TZID=Europe/Warsaw:20240306T114500
+SUMMARY:Maximal functions: unweighted and weighted estimates
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Abhishek Ghosh (IM PAN)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2024-03-06-ghosh
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -03-06-ghosh
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-03-13-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240313T101500
+DTEND;TZID=Europe/Warsaw:20240313T114500
+SUMMARY:Przestrzenie H^1 i BMO na komórkach Weyla dla ortogonalnych układ
+ ów pierwiastków
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Paweł Plewa (Politecnico di Torino)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2024-03-13-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -03-13-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-03-20-slomian@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240320T101500
+DTEND;TZID=Europe/Warsaw:20240320T114500
+SUMMARY:Oszacowania oscylacyjne dla operatora Carlesona na funkcjach radial
+ nych
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Wojciech Słomian (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2024-03-20-slomian
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -03-20-slomian
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-03-27-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240327T101500
+DTEND;TZID=Europe/Warsaw:20240327T114500
+SUMMARY:Ostre oszacowania jądra ciepła Jacobiego: ostateczna kompletacja 
+ rezultatu
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2024-03-27-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -03-27-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-04-03-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240403T101500
+DTEND;TZID=Europe/Warsaw:20240403T114500
+SUMMARY:Nierówności bezwymiarowe dla funkcji niskiego i wysokiego stopnia
+  na kostce Hamminga
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Błażej Wróbel (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2024-04-03-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -04-03-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-04-10-bownik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240410T101500
+DTEND;TZID=Europe/Warsaw:20240410T114500
+SUMMARY:A selector form of the Weaver conjecture and the Feichtinger conjec
+ ture
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Marcin Bownik (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2024-04-10-bownik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -04-10-bownik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-04-17-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240417T101500
+DTEND;TZID=Europe/Warsaw:20240417T114500
+SUMMARY:Niezależne od wymiaru oszacowania dyskretnej funkcji maksymalnej d
+ la kul l1 i dużych skal
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2024-04-17-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -04-17-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-05-08-slavikova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240508T101500
+DTEND;TZID=Europe/Warsaw:20240508T114500
+SUMMARY:Norm-variation of multiple ergodic averages for commuting transform
+ ations
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Lenka Slavíková (Charles University\, Prague)\nSeminarium: An
+ aliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/analiza-harmoniczna#2024-05-08-slavikova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -05-08-slavikova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-05-22-rozendaal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240522T101500
+DTEND;TZID=Europe/Warsaw:20240522T114500
+SUMMARY:Hardy spaces for Fourier integral operators
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jan Rozendaal (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2024-05-22-rozendaal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -05-22-rozendaal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-06-05-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240605T101500
+DTEND;TZID=Europe/Warsaw:20240605T114500
+SUMMARY:Własności translacji Dunkla funkcji gładkich: pozytywne i negaty
+ wne rezultaty
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Agnieszka Hejna (Rutgers University)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2024-06-05-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -06-05-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-11-06-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241106T101500
+DTEND;TZID=Europe/Warsaw:20241106T114500
+SUMMARY:Dimension and potential free estimates for Riesz transforms associa
+ ted with Schroedinger operators on L^p spaces
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2024-11-06-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -11-06-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-11-13-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241113T101500
+DTEND;TZID=Europe/Warsaw:20241113T114500
+SUMMARY:Analiza spektralna operatora związanego z rozwinięciami Fouriera-
+ Neumanna
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2024-11-13-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -11-13-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-11-27-daskalakis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241127T101500
+DTEND;TZID=Europe/Warsaw:20241127T114500
+SUMMARY:A pointwise ergodic theorem along fractional powers of primes
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Leonidas Daskalakis (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2024-11-27-daskalakis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -11-27-daskalakis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-12-04-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241204T101500
+DTEND;TZID=Europe/Warsaw:20241204T114500
+SUMMARY:Short remark on dimension-free estimates for discrete maximal funct
+ ions over lq balls: small scale
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jakub Niksiński (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2024-12-04-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -12-04-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-12-11-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241211T101500
+DTEND;TZID=Europe/Warsaw:20241211T114500
+SUMMARY:Variation of the centered maximal operator
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2024-12-11-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -12-11-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2024-12-18-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241218T101500
+DTEND;TZID=Europe/Warsaw:20241218T114500
+SUMMARY:Dimension-free Fourier restriction inequalities
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Błażej Wróbel (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2024-12-18-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2024
+ -12-18-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-01-08-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250108T101500
+DTEND;TZID=Europe/Warsaw:20250108T114500
+SUMMARY:Spacing problem of Robert and Sargos
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jakub Niksiński (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-01-08-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -01-08-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-01-15-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:On heat kernel estimates in the context of Fourier-Dini expansions
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2025-01-15-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -01-15-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-01-22-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:Riesz transforms on solvable extensions of Carnot groups
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2025-01-22-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -01-22-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-03-12-ciccone@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250312
+DTEND;VALUE=DATE:20250313
+SUMMARY:Sparse and endpoint estimates for multipliers with singularities on
+  Zygmund-Bonami sets
+DESCRIPTION:Valentina Ciccone (IM PAN)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2025-03-12-ciccone
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -03-12-ciccone
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-03-19-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+SUMMARY:On Dunkl Schrödinger semigroups with Green bounded potentials
+DESCRIPTION:Agnieszka Hejna (Rutgers University)\nSeminarium: Analiza harmo
+ niczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/analiza-harmoniczna#2025-03-19-hejna
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -03-19-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-03-26-dymowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250326
+DTEND;VALUE=DATE:20250327
+SUMMARY:Bessel operator with two bounded harmonic functions
+DESCRIPTION:Michał Dymowski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-03-26-dymowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -03-26-dymowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-04-02-rozendaal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250403
+SUMMARY:$H^1$ and bmo regularity of wave equations with rough coefficients
+DESCRIPTION:Jan Rozendaal (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2025-04-02-rozendaal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -04-02-rozendaal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-04-07-thangavelu@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250408
+SUMMARY:A tale of two operators
+DESCRIPTION:Sundaram Thangavelu (Indian Institute of Science)\nSeminarium: 
+ Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/W
+ eb-Podglad/seminaria/analiza-harmoniczna#2025-04-07-thangavelu
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -04-07-thangavelu
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-04-09-mousavi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250409T101500
+DTEND;TZID=Europe/Warsaw:20250409T114500
+SUMMARY:Study on a few recent Szemeredi type theorems
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Hamed Mousavi (King's College London)\nSeminarium: Analiza harm
+ oniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/analiza-harmoniczna#2025-04-09-mousavi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -04-09-mousavi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-04-16-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250416T101500
+DTEND;TZID=Europe/Warsaw:20250416T114500
+SUMMARY:Lifted Bessel operator on ax+b type hypergroups
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2025-04-16-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -04-16-plewa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-05-07-fornal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250507T101500
+DTEND;TZID=Europe/Warsaw:20250507T114500
+SUMMARY:Ergodyczne twierdzenie Birkhoffa dla specjalnego zbioru liczb pierw
+ szych
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jan Fornal (University of Bristol)\nSeminarium: Analiza harmoni
+ czna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/analiza-harmoniczna#2025-05-07-fornal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -05-07-fornal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-05-14-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250514T101500
+DTEND;TZID=Europe/Warsaw:20250514T114500
+SUMMARY:On spectral analysis of some Sturm-Liouville operators
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Świderski (PWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-05-14-swiderski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -05-14-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-05-21-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250521T101500
+DTEND;TZID=Europe/Warsaw:20250521T114500
+SUMMARY:Ionescu–Wainger multiplier theorem for canonical fractions
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Dariusz Kosz (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2025-05-21-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -05-21-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-05-28-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250528T101500
+DTEND;TZID=Europe/Warsaw:20250528T114500
+SUMMARY:New dimension-free estimates for the discrete maximal functions ove
+ r balls
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jakub Niksiński (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-05-28-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -05-28-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-06-04-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250604T101500
+DTEND;TZID=Europe/Warsaw:20250604T114500
+SUMMARY:Optimal version of Fefferman's inequality for analytic functions
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Adam Osękowski (UW)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2025-06-04-osekowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -06-04-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-06-18-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250618T101500
+DTEND;TZID=Europe/Warsaw:20250618T114500
+SUMMARY:Dimension-free estimates for a combinatorial maximal function
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Jakub Niksiński (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-06-18-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -06-18-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-10-08-sikora@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251008T101500
+DTEND;TZID=Europe/Warsaw:20251008T114500
+SUMMARY:On the interplay between Hodge projections and bounded harmonic fun
+ ctions on manifolds with ends
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Adam Sikora (Macquarie University\, Sydney)\nSeminarium: Analiz
+ a harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/analiza-harmoniczna#2025-10-08-sikora
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -10-08-sikora
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-10-15-sikora@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251015T101500
+DTEND;TZID=Europe/Warsaw:20251015T114500
+SUMMARY:Bochner-Riesz profile of harmonic oscillator\, anharmonic oscillato
+ r and Laguerre expansions
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Adam Sikora (Macquarie University\, Sydney)\nSeminarium: Analiz
+ a harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/analiza-harmoniczna#2025-10-15-sikora
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -10-15-sikora
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-10-22-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251022T101500
+DTEND;TZID=Europe/Warsaw:20251022T114500
+SUMMARY:Analiza spektralna operatora Grushina
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2025-10-22-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -10-22-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-10-29-daskalakis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251029T101500
+DTEND;TZID=Europe/Warsaw:20251029T114500
+SUMMARY:Pointwise convergence of ergodic averages along quadratic bracket p
+ olynomials
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Leonidas Daskalakis (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2025-10-29-daskalakis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -10-29-daskalakis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-11-05-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251105T101500
+DTEND;TZID=Europe/Warsaw:20251105T114500
+SUMMARY:On the dimension-free control of higher order truncated Riesz trans
+ forms by higher order Riesz transforms
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Maciej Kucharski (IM UWr)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-11-05-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -11-05-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-11-12-ciccone@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251112T101500
+DTEND;TZID=Europe/Warsaw:20251112T114500
+SUMMARY:Paraproducts and bilinear Fourier restriction to convex sets
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Valentina Ciccone (IM PAN)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2025-11-12-ciccone
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -11-12-ciccone
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-11-19-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251119T101500
+DTEND;TZID=Europe/Warsaw:20251119T114500
+SUMMARY:Dimension-free estimates for discrete maximal functions related to 
+ sampled gaussians
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Błażej Wróbel (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2025-11-19-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -11-19-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-12-03-ciccone@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251203T101500
+DTEND;TZID=Europe/Warsaw:20251203T114500
+SUMMARY:On high dimensional maximal functions associated to Gaussians\, bal
+ ls and spheres
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Valentina Ciccone (IM PAN)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2025-12-03-ciccone
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -12-03-ciccone
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-12-10-daskalakis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251210T101500
+DTEND;TZID=Europe/Warsaw:20251210T114500
+SUMMARY:Pointwise ergodic theorems for non-conventional bilinear averages a
+ long fractional powers
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Leonidas Daskalakis (IM PAN)\nSeminarium: Analiza harmoniczna i
+  rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ analiza-harmoniczna#2025-12-10-daskalakis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -12-10-daskalakis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2025-12-17-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251217T101500
+DTEND;TZID=Europe/Warsaw:20251217T114500
+SUMMARY:Variational estimates in the context of ergodic theorems
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Tomasz Z. Szarek (University of Georgia)\nSeminarium: Analiza h
+ armoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/analiza-harmoniczna#2025-12-17-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2025
+ -12-17-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-01-07-niksinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260107T101500
+DTEND;TZID=Europe/Warsaw:20260107T114500
+SUMMARY:Dimension-free estimates for discrete maximal functions over super-
+ symmetric convex bodies
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jakub Niksiński (Rutgers University)\nSeminarium: Analiza harm
+ oniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/s
+ eminaria/analiza-harmoniczna#2026-01-07-niksinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -01-07-niksinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-01-14-stempak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260114T101500
+DTEND;TZID=Europe/Warsaw:20260114T114500
+SUMMARY:Analiza spektralna operatora typu Grushina
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Krzysztof Stempak\nSeminarium: Analiza harmoniczna i rozwinięc
+ ia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-har
+ moniczna#2026-01-14-stempak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -01-14-stempak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-01-21-hejna-lyzwa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:On Lipschitz spaces in the Dunkl setting - semigroup approach
+DESCRIPTION:Agnieszka Hejna-Łyżwa (IM UWr)\nSeminarium: Analiza harmonicz
+ na i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/analiza-harmoniczna#2026-01-21-hejna-lyzwa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -01-21-hejna-lyzwa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-01-28-oliveira-e-silva@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260128T101500
+DTEND;TZID=Europe/Warsaw:20260128T114500
+SUMMARY:Nonlinear Fourier analysis and connections to quantum computing
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Diogo Oliveira e Silva (Instituto Superior Técnico Lisboa)\nSe
+ minarium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/analiza-harmoniczna#2026-01-28-oliveira-e-s
+ ilva
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -01-28-oliveira-e-silva
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-03-11-dabrowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260311T101500
+DTEND;TZID=Europe/Warsaw:20260311T114500
+SUMMARY:Equilibrium measures on curves
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Damian Dąbrowski (IM PAN)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2026-03-11-dabrowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -03-11-dabrowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-03-18-kwasnicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260318T101500
+DTEND;TZID=Europe/Warsaw:20260318T114500
+SUMMARY:Stein's spherical maximal functions and a new proof of dimension-fr
+ ee bounds for maximal Riesz transforms
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Mateusz Kwaśnicki (PWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2026-03-18-kwasnicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -03-18-kwasnicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-03-25-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260325T101500
+DTEND;TZID=Europe/Warsaw:20260325T114500
+SUMMARY:Explicit multiplicative constants in spherical and other heat kerne
+ ls bounds
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Adam Nowak (IM PAN)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2026-03-25-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -03-25-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-04-15-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260415T101500
+DTEND;TZID=Europe/Warsaw:20260415T114500
+SUMMARY:On the role of difference and derivative estimates in bounding maxi
+ mal functions
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Błażej Wróbel (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2026-04-15-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -04-15-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-04-22-rozendaal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260422T101500
+DTEND;TZID=Europe/Warsaw:20260422T114500
+SUMMARY:Local smoothing for rough wave equations
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jan Rozendaal (IM PAN)\nSeminarium: Analiza harmoniczna i rozwi
+ nięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiz
+ a-harmoniczna#2026-04-22-rozendaal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -04-22-rozendaal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-05-06-dragicevic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260506T101500
+DTEND;TZID=Europe/Warsaw:20260506T114500
+SUMMARY:The p-ellipticity condition and applications
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Oliver Dragičević (University of Ljubljana)\nSeminarium: Anal
+ iza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-P
+ odglad/seminaria/analiza-harmoniczna#2026-05-06-dragicevic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -05-06-dragicevic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-05-27-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Lectio iubilaris
+DESCRIPTION:Adam Nowak\, Błażej Wróbel\, Dariusz Kosz\, Paweł Plewa (IM
+  PAN\, PWr)\nSeminarium: Analiza harmoniczna i rozwinięcia ortogonalne\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026-05-
+ 27-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -05-27-nowak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-06-03-lyzwa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260603T101500
+DTEND;TZID=Europe/Warsaw:20260603T114500
+SUMMARY:Dimension dependence and dimension-free $\\ell^2$ estimates for var
+ iation seminorms of spherical means on the hypercube
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Rafał Łyżwa (UWr)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2026-06-03-lyzwa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -06-03-lyzwa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-06-10-slavikova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260610T101500
+DTEND;TZID=Europe/Warsaw:20260610T114500
+SUMMARY:Multilinear singular integral operators with rough kernels
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Lenka Slavíková (Charles University\, Prague)\nSeminarium: An
+ aliza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/analiza-harmoniczna#2026-06-10-slavikova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -06-10-slavikova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-10-07-ricci@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261007T121500
+DTEND;TZID=Europe/Warsaw:20261007T134500
+SUMMARY:Multi-norm structures on $R^d$ generated by families of dilations
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Fulvio Ricci (Scuola Normale Superiore\, Pisa)\nSeminarium: Ana
+ liza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/analiza-harmoniczna#2026-10-07-ricci
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -10-07-ricci
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-10-21-osekowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261021T121500
+DTEND;TZID=Europe/Warsaw:20261021T134500
+SUMMARY:Nierówności dualne w przestrzeniach $H_p$\, $0<p<1$
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Adam Osękowski (UW)\nSeminarium: Analiza harmoniczna i rozwini
+ ęcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-
+ harmoniczna#2026-10-21-osekowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -10-21-osekowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-11-04-weigt@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261104T121500
+DTEND;TZID=Europe/Warsaw:20261104T134500
+SUMMARY:Regularity of maximal functions and a Vitali covering lemma for the
+  boundary
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Julian Weigt (University of Oulu)\nSeminarium: Analiza harmonic
+ zna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/semin
+ aria/analiza-harmoniczna#2026-11-04-weigt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -11-04-weigt
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-11-18-dziubanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261118T121500
+DTEND;TZID=Europe/Warsaw:20261118T134500
+SUMMARY:O ograniczoności na $L^1$ transformat Riesza $V^a(-\\Delta_V)^{-a}
+ $ w wymiarze 1
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jacek Dziubański (IM UWr)\nSeminarium: Analiza harmoniczna i r
+ ozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/an
+ aliza-harmoniczna#2026-11-18-dziubanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -11-18-dziubanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-11-25-kosz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261125T121500
+DTEND;TZID=Europe/Warsaw:20261125T134500
+SUMMARY:O szczególnych bazach różniczkowania w nieskończenie wymiarowym
+  torusie
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Dariusz Kosz (Politechnika Wrocławska)\nSeminarium: Analiza ha
+ rmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/analiza-harmoniczna#2026-11-25-kosz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -11-25-kosz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2026-12-23-langowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261223T121500
+DTEND;TZID=Europe/Warsaw:20261223T134500
+SUMMARY:Dualność w analizie harmonicznej
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Bartosz Langowski (Franciscan University of Steubenville)\nSemi
+ narium: Analiza harmoniczna i rozwinięcia ortogonalne\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/analiza-harmoniczna#2026-12-23-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2026
+ -12-23-langowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2027-01-13-adamowicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20270113T121500
+DTEND;TZID=Europe/Warsaw:20270113T134500
+SUMMARY:TBA
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Tomasz Adamowicz (IM PAN)\nSeminarium: Analiza harmoniczna i ro
+ zwinięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ana
+ liza-harmoniczna#2027-01-13-adamowicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2027
+ -01-13-adamowicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2027-01-20-plewa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20270120T121500
+DTEND;TZID=Europe/Warsaw:20270120T134500
+SUMMARY:TBA
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Paweł Plewa (PWr)\nSeminarium: Analiza harmoniczna i rozwinię
+ cia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/analiza-ha
+ rmoniczna#2027-01-20-plewa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2027
+ -01-20-plewa
+END:VEVENT
+END:VCALENDAR

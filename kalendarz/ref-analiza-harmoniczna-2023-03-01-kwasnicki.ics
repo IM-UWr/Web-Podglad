@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norma transformaty Riesza–Titchmarsha na lp dla parzystych w
+ ykładników p
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2023-03-01-kwasnicki@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20230301T101500
+DTEND;TZID=Europe/Warsaw:20230301T114500
+SUMMARY:Norma transformaty Riesza–Titchmarsha na lp dla parzystych wykła
+ dników p
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Mateusz Kwaśnicki (PWr)\nSeminarium: Analiza harmoniczna i roz
+ winięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anal
+ iza-harmoniczna#2023-03-01-kwasnicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2023
+ -03-01-kwasnicki
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1 @@
+const t="(max-width: 1023px), (max-height: 500px) and (pointer: coarse)",a="(min-width: 1024px) and (min-height: 501px), (min-width: 1024px) and (pointer: fine)",i="(max-height: 500px) and (pointer: coarse)",e=n=>`(max-width: 1023px) ${n}, ${i} ${n}`;export{t as M,a,e as s};

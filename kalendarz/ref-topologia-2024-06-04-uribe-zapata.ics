@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Finitely additive measures on Boolean algebras: freeness and i
+ ntegration
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-topologia-2024-06-04-uribe-zapata@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20240604T201000
+DTEND;TZID=Europe/Warsaw:20240604T214000
+SUMMARY:Finitely additive measures on Boolean algebras: freeness and integr
+ ation
+LOCATION:A.4.1 C-19\, Politechnika Wrocławska
+DESCRIPTION:Andres Uribe-Zapata (TU Wien)\nSeminarium: Topologia\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-04-uribe-zapata
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2024-06-04-uri
+ be-zapata
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IM UWr — wydarzenia
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:konf-2013-workshop-on-set-theoretic-methods-in-compact-spaces-and-banac
+ h-spaces@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20130417
+DTEND;VALUE=DATE:20130422
+SUMMARY:Workshop on set theoretic methods in compact spaces and Banach spac
+ es
+LOCATION:Warszawa
+DESCRIPTION:http://www.impan.pl/~set_theory/Workshop2013/
+URL:http://www.impan.pl/~set_theory/Workshop2013/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2013-7th-international-conference-on-levy-processes-theory-and-app
+ lications@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20130715
+DTEND;VALUE=DATE:20130720
+SUMMARY:7th International Conference on Lévy Processes: Theory and Applica
+ tions
+LOCATION:Wrocław
+DESCRIPTION:http://bcc.impan.pl/13Levy/
+URL:http://bcc.impan.pl/13Levy/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2013-09-23-maciej-dolega@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20130923T101500
+DTEND;TZID=Europe/Warsaw:20130923T121500
+SUMMARY:Maciej Dołęga
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Kombinatoryka asymptotycznej teorii reprezentacji grup permutac
+ ji\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2013-09-23-maci
+ ej-dolega
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2013-09-23-macie
+ j-dolega
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-probabilistic-aspect-of-harmonic-analysis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140426
+DTEND;VALUE=DATE:20140504
+SUMMARY:Probabilistic Aspect of Harmonic Analysis
+LOCATION:Będlewo
+DESCRIPTION:http://bcc.impan.pl/14PAHA/
+URL:http://bcc.impan.pl/14PAHA/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-7th-young-set-theory-workshop@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140511
+DTEND;VALUE=DATE:20140518
+SUMMARY:7th Young Set Theory Workshop
+LOCATION:Będlewo
+DESCRIPTION:http://bcc.impan.pl/14Young/
+URL:http://bcc.impan.pl/14Young/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-stochastic-networks-and-risk-analysis-iv@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140527
+DTEND;VALUE=DATE:20140602
+SUMMARY:Stochastic Networks and Risk Analysis IV
+LOCATION:Będlewo
+DESCRIPTION:http://www.math.uni.wroc.pl/~lorek/bedlewo2014/
+URL:http://www.math.uni.wroc.pl/~lorek/bedlewo2014/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-sesja-poswiecona-100-leciu-urodzin-profesora-stanislawa-hartm
+ ana@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140606
+DTEND;VALUE=DATE:20140608
+SUMMARY:Sesja poświęcona 100-leciu urodzin profesora Stanisława Hartmana
+LOCATION:Wrocław
+DESCRIPTION:http://www.math.uni.wroc.pl/analiza/2014_Hartman/
+URL:http://www.math.uni.wroc.pl/analiza/2014_Hartman/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-integration-vector-measures-and-related-topics@im-uwr.github.
+ io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140615
+DTEND;VALUE=DATE:20140622
+SUMMARY:Integration\, Vector Measures and Related Topics
+LOCATION:Będlewo
+DESCRIPTION:http://www.math.uni.wroc.pl/ivmrt2014
+URL:http://www.math.uni.wroc.pl/ivmrt2014
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2014-06-24-sebastian-sydor@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140624T110000
+DTEND;TZID=Europe/Warsaw:20140624T130000
+SUMMARY:Sebastian Sydor
+LOCATION:sala B\, Instytut Matematyczny UWr
+DESCRIPTION:Oszacowania jąder całkowych\nhttps://im-uwr.github.io/Web-Pod
+ glad/obrony-doktorskie/2014-06-24-sebastian-sydor
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-06-24-sebas
+ tian-sydor
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-16th-workshop-non-commutative-harmonic-analysis@im-uwr.github
+ .io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140706
+DTEND;VALUE=DATE:20140713
+SUMMARY:16th Workshop: Non-commutative Harmonic Analysis
+LOCATION:Będlewo
+DESCRIPTION:http://www.math.uni.wroc.pl/analiza/bedlewo16
+URL:http://www.math.uni.wroc.pl/analiza/bedlewo16
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2014-workshop-in-set-theory@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20140914
+DTEND;VALUE=DATE:20140918
+SUMMARY:Workshop in set theory
+LOCATION:Będlewo
+DESCRIPTION:http://www.impan.pl/~set_theory/dmvptm14/
+URL:http://www.impan.pl/~set_theory/dmvptm14/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2014-09-16-lukasz-paszkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140916T100000
+DTEND;TZID=Europe/Warsaw:20140916T120000
+SUMMARY:Łukasz Paszkowski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Aproksymacja rozwiązań i oszacowania hiperkontraktywne dla mo
+ delu ewolucji dyslokacji\nhttps://im-uwr.github.io/Web-Podglad/obrony-dokt
+ orskie/2014-09-16-lukasz-paszkowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-09-16-lukas
+ z-paszkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2014-10-16-lukasz-wojciechowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141016T101500
+DTEND;TZID=Europe/Warsaw:20141016T121500
+SUMMARY:Łukasz Wojciechowski
+LOCATION:sala B\, Instytut Matematyczny UWr
+DESCRIPTION:Analiza stochastyczna systemów Lévy’ego\nhttps://im-uwr.git
+ hub.io/Web-Podglad/obrony-doktorskie/2014-10-16-lukasz-wojciechowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-10-16-lukas
+ z-wojciechowski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2014-10-28-wojciech-stadnicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141028T121500
+DTEND;TZID=Europe/Warsaw:20141028T141500
+SUMMARY:Wojciech Stadnicki
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Aksjomatyzacja modelu Mathiasa w terminach gier\nhttps://im-uwr
+ .github.io/Web-Podglad/obrony-doktorskie/2014-10-28-wojciech-stadnicki
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-10-28-wojci
+ ech-stadnicki
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2014-12-16-agata-chorowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141216T101500
+DTEND;TZID=Europe/Warsaw:20141216T121500
+SUMMARY:Agata Chorowska
+LOCATION:sala A\, Instytut Matematyczny UWr
+DESCRIPTION:Silne symplektyczne foldy i ich zastosowania w topologii kontak
+ towej\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-12-16-a
+ gata-chorowska
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2014-12-16-agata
+ -chorowska
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2015-01-19-jan-dobrowolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150119T160000
+DTEND;TZID=Europe/Warsaw:20150119T180000
+SUMMARY:Jan Dobrowolski
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Grupy i pierścienie w pewnych teoriomodelowych i motywowanych 
+ teorią modeli kontekstach\nhttps://im-uwr.github.io/Web-Podglad/obrony-do
+ ktorskie/2015-01-19-jan-dobrowolski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-01-19-jan-d
+ obrowolski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2015-winter-school-in-abstract-analysis-2015@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150131
+DTEND;VALUE=DATE:20150208
+SUMMARY:Winter School in Abstract Analysis 2015
+LOCATION:Hejnice
+DESCRIPTION:http://www.winterschool.eu/
+URL:http://www.winterschool.eu/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2015-kazimierz-urbanik-1930-2005@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150522
+DTEND;VALUE=DATE:20150524
+SUMMARY:Kazimierz Urbanik (1930-2005)
+LOCATION:Wrocław
+DESCRIPTION:http://www.math.uni.wroc.pl/sesja_Urbanik
+URL:http://www.math.uni.wroc.pl/sesja_Urbanik
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2015-05-29-lukasz-garncarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150529T121500
+DTEND;TZID=Europe/Warsaw:20150529T141500
+SUMMARY:Łukasz Garncarek
+LOCATION:sala 601\, Instytut Matematyczny UWr
+DESCRIPTION:Reprezentacje brzegowe grup hiperbolicznych\nhttps://im-uwr.git
+ hub.io/Web-Podglad/obrony-doktorskie/2015-05-29-lukasz-garncarek
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-05-29-lukas
+ z-garncarek
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2015-06-19-grzegorz-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150619T141500
+DTEND;TZID=Europe/Warsaw:20150619T161500
+SUMMARY:Grzegorz Jagiella
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Definiowalna dynamika topologiczna i o-minimalność\nhttps://i
+ m-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-06-19-grzegorz-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-06-19-grzeg
+ orz-jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2015-conference-on-geometric-group-theory@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20150629
+DTEND;VALUE=DATE:20150704
+SUMMARY:Conference on Geometric Group Theory
+LOCATION:Wrocław
+DESCRIPTION:http://www.math.uni.wroc.pl/ggt/
+URL:http://www.math.uni.wroc.pl/ggt/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2015-09-15-wojciech-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150915T100000
+DTEND;TZID=Europe/Warsaw:20150915T120000
+SUMMARY:Wojciech Cygan
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Asymptotyczne własności pewnej klasy spacerów losowych na kr
+ acie liczb całkowitych\nhttps://im-uwr.github.io/Web-Podglad/obrony-dokto
+ rskie/2015-09-15-wojciech-cygan
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-09-15-wojci
+ ech-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2015-10-05-michal-marcinkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151005T123000
+DTEND;TZID=Europe/Warsaw:20151005T143000
+SUMMARY:Michał Marcinkowski
+LOCATION:sala B\, Instytut Matematyczny UWr
+DESCRIPTION:Hipoteza Gromowa o dodatniej krzywiźnie i wymiernie nieistotne
+  makroskopowo duże rozmaitości. Parkietaże rozmaitości i jednostajnie 
+ skończone homologie\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorsk
+ ie/2015-10-05-michal-marcinkowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2015-10-05-micha
+ l-marcinkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-winter-school-in-abstract-analysis-2016@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160207
+SUMMARY:Winter School in Abstract Analysis 2016
+LOCATION:Hejnice
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-win
+ ter-school-in-abstract-analysis-2016
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-winter-scho
+ ol-in-abstract-analysis-2016
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-combinatorics-and-groups@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160411
+DTEND;VALUE=DATE:20160415
+SUMMARY:Combinatorics and Groups
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-com
+ binatorics-and-groups
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-combinatori
+ cs-and-groups
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-xxx-konferencja-z-historii-matematyki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160509
+SUMMARY:XXX Konferencja z Historii Matematyki
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-xxx
+ -konferencja-z-historii-matematyki
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-xxx-konfere
+ ncja-z-historii-matematyki
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2016-05-06-zeineb-ghardallou@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160506T093000
+DTEND;TZID=Europe/Warsaw:20160506T113000
+SUMMARY:Zeineb Ghardallou
+LOCATION:University of Tunis El Manar\, Tunis
+DESCRIPTION:Dodatnie rozwiązania pewnych nieliniowych problemów eliptyczn
+ ych\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2016-05-06-zei
+ neb-ghardallou
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2016-05-06-zeine
+ b-ghardallou
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-probabilistic-aspect-of-harmonic-analysis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160522
+SUMMARY:Probabilistic Aspect of Harmonic Analysis
+LOCATION:Będlewo
+DESCRIPTION:http://bcc.impan.pl/16PAHA/
+URL:http://bcc.impan.pl/16PAHA/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2016-06-01-agnieszka-czyzewska-jankowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160601T120000
+DTEND;TZID=Europe/Warsaw:20160601T140000
+SUMMARY:Agnieszka Czyżewska-Jankowska
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Nieorientowalne mapy i kombinatoryka wielomianów Jacka\nhttps:
+ //im-uwr.github.io/Web-Podglad/obrony-doktorskie/2016-06-01-agnieszka-czyz
+ ewska-jankowska
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2016-06-01-agnie
+ szka-czyzewska-jankowska
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-17th-workshop-non-commutative-probability-levy-processes-and-
+ operator-algebras-w@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160724
+DTEND;VALUE=DATE:20160731
+SUMMARY:17th Workshop: Non-commutative probability. Lévy processes and ope
+ rator algebras\, with applications
+LOCATION:Będlewo
+DESCRIPTION:http://magweb.math.uni.wroc.pl/analiza/bedlewo17/
+URL:http://magweb.math.uni.wroc.pl/analiza/bedlewo17/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-7th-euro-japanese-workshop-on-blow-up@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160904
+DTEND;VALUE=DATE:20160910
+SUMMARY:7th Euro-Japanese Workshop on Blow-up
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-7th
+ -euro-japanese-workshop-on-blow-up
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-7th-euro-ja
+ panese-workshop-on-blow-up
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-mathematics-of-pattern-formation@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160911
+DTEND;VALUE=DATE:20160917
+SUMMARY:Mathematics of pattern formation
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-mat
+ hematics-of-pattern-formation
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-mathematics
+ -of-pattern-formation
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2016-stochastic-models-v@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20160911
+DTEND;VALUE=DATE:20160918
+SUMMARY:Stochastic models V
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-sto
+ chastic-models-v
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2016-stochastic-
+ models-v
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2017-winter-school-in-abstract-analysis-2017@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170128
+DTEND;VALUE=DATE:20170205
+SUMMARY:Winter School in Abstract Analysis 2017
+LOCATION:Hejnice
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2017-win
+ ter-school-in-abstract-analysis-2017
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2017-winter-scho
+ ol-in-abstract-analysis-2017
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2017-04-12-grzegorz-swiderski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170412T081500
+DTEND;TZID=Europe/Warsaw:20170412T101500
+SUMMARY:Grzegorz Świderski
+LOCATION:sala 601\, Instytut Matematyczny UWr
+DESCRIPTION:Własności spektralne nieograniczonych macierzy Jacobiego\nhtt
+ ps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-04-12-grzegorz-sw
+ iderski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-04-12-grzeg
+ orz-swiderski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2017-xxxi-konferencja-z-historii-matematyki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170522
+DTEND;VALUE=DATE:20170527
+SUMMARY:XXXI Konferencja z Historii Matematyki
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2017-xxx
+ i-konferencja-z-historii-matematyki
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2017-xxxi-konfer
+ encja-z-historii-matematyki
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2017-model-theory-in-wroclaw-2017@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170630
+DTEND;VALUE=DATE:20170703
+SUMMARY:Model Theory in Wrocław 2017
+LOCATION:Wrocław
+DESCRIPTION:http://www.math.uni.wroc.pl/~pkowa/wroclaw17.html
+URL:http://www.math.uni.wroc.pl/~pkowa/wroclaw17.html
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2017-model-theory-conference@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170702
+DTEND;VALUE=DATE:20170709
+SUMMARY:Model Theory Conference
+LOCATION:Będlewo
+DESCRIPTION:https://www.impan.pl/en/activities/banach-center/conferences/17
+ -modeltheory
+URL:https://www.impan.pl/en/activities/banach-center/conferences/17-modelth
+ eory
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2017-analysis-and-applications-in-honor-of-professor-elias-m-stein
+ @im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20170904
+DTEND;VALUE=DATE:20170909
+SUMMARY:Analysis and Applications: in honor of Professor Elias M. Stein
+LOCATION:Wrocław
+DESCRIPTION:http://math.uni.wroc.pl/analysis2017/
+URL:http://math.uni.wroc.pl/analysis2017/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2017-10-12-agata-ilnicka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171012T121500
+DTEND;TZID=Europe/Warsaw:20171012T141500
+SUMMARY:Agata Ilnicka
+LOCATION:sala 605\, Instytut Matematyczny UWr
+DESCRIPTION:Stochastyczne metody punktu siodłowego w modelowaniu rezerw\nh
+ ttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-10-12-agata-iln
+ icka
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-10-12-agata
+ -ilnicka
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2017-11-23-grzegorz-kepa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171123T141500
+DTEND;TZID=Europe/Warsaw:20171123T161500
+SUMMARY:Grzegorz Kępa
+LOCATION:sala B\, Instytut Matematyczny UWr
+DESCRIPTION:Odwracalność operatorów flagowych na grupie Heisenberga\nhtt
+ ps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-11-23-grzegorz-ke
+ pa
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2017-11-23-grzeg
+ orz-kepa
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-01-23-daniel-hoffmann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180123T121500
+DTEND;TZID=Europe/Warsaw:20180123T141500
+SUMMARY:Daniel Hoffmann
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Teoria modeli z działaniami grupowymi\, ze specjalnym dyskurse
+ m o teoriach ciał\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie
+ /2018-01-23-daniel-hoffmann
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-01-23-danie
+ l-hoffmann
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-01-24-krystian-bekala@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180124T161500
+DTEND;TZID=Europe/Warsaw:20180124T181500
+SUMMARY:Krystian Bekała
+LOCATION:sala EM\, Instytut Matematyczny UWr
+DESCRIPTION:Rachunek symboliczny oraz splotowe półgrupy miar na grupie He
+ isenberga\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-01-
+ 24-krystian-bekala
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-01-24-kryst
+ ian-bekala
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-winter-school-in-abstract-analysis-2018@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180127
+DTEND;VALUE=DATE:20180204
+SUMMARY:Winter School in Abstract Analysis 2018
+LOCATION:Hejnice
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-win
+ ter-school-in-abstract-analysis-2018
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-winter-scho
+ ol-in-abstract-analysis-2018
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-03-20-maria-kaminska-zabierowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180320T121500
+DTEND;TZID=Europe/Warsaw:20180320T141500
+SUMMARY:Maria Kamińska-Zabierowska
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Zachowanie porządków stochastycznych przez przekształcenia d
+ efiniowane w teorii niezawodności\nhttps://im-uwr.github.io/Web-Podglad/o
+ brony-doktorskie/2018-03-20-maria-kaminska-zabierowska
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-03-20-maria
+ -kaminska-zabierowska
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-xxxii-konferencja-z-historii-matematyki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180423
+DTEND;VALUE=DATE:20180428
+SUMMARY:XXXII Konferencja z Historii Matematyki
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-xxx
+ ii-konferencja-z-historii-matematyki
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-xxxii-konfe
+ rencja-z-historii-matematyki
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-04-24-maciej-pietron@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180424T121500
+DTEND;TZID=Europe/Warsaw:20180424T141500
+SUMMARY:Maciej Pietroń
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Odwzorowania gęstych podzbiorów płaszczyzny i kostki Hilbert
+ a\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-04-24-macie
+ j-pietron
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-04-24-macie
+ j-pietron
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-probabilistic-aspects-of-harmonic-analysis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180506
+DTEND;VALUE=DATE:20180513
+SUMMARY:Probabilistic Aspects of Harmonic Analysis
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-pro
+ babilistic-aspects-of-harmonic-analysis
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2018-probabilist
+ ic-aspects-of-harmonic-analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-stochastic-models-vi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180603
+DTEND;VALUE=DATE:20180609
+SUMMARY:Stochastic Models VI
+LOCATION:Będlewo
+DESCRIPTION:https://www.math.uni.wroc.pl/~lorek/bedlewo2018/
+URL:https://www.math.uni.wroc.pl/~lorek/bedlewo2018/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-international-quantitative-linguistics-conference-qualico-201
+ 8@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180709
+SUMMARY:International Quantitative Linguistics Conference QUALICO 2018
+LOCATION:Wrocław
+DESCRIPTION:http://qualico2018.uni.wroc.pl/
+URL:http://qualico2018.uni.wroc.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-18th-workshop-noncommutative-probability-operators-algebras-r
+ andom-matrices-and@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180715
+DTEND;VALUE=DATE:20180722
+SUMMARY:18th Workshop: Noncommutative Probability\, Operators Algebras\, Ra
+ ndom Matrices and Related Topics\, with Applications
+LOCATION:Będlewo
+DESCRIPTION:https://www.impan.pl/en/activities/banach-center/conferences/18
+ -workshop18
+URL:https://www.impan.pl/en/activities/banach-center/conferences/18-worksho
+ p18
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-09-11-piotr-dyszewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180911T121500
+DTEND;TZID=Europe/Warsaw:20180911T141500
+SUMMARY:Piotr Dyszewski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Asymptotyczne własności modeli bazujących na transformacie g
+ ładzącej\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09
+ -11-piotr-dyszewski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09-11-piotr
+ -dyszewski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2018-umi-simai-ptm-joint-meeting@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20180917
+DTEND;VALUE=DATE:20180921
+SUMMARY:UMI-SIMAI-PTM Joint Meeting
+LOCATION:Wrocław
+DESCRIPTION:http://umi-simai.ptm.org.pl/
+URL:http://umi-simai.ptm.org.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-09-20-milosz-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180920T111500
+DTEND;TZID=Europe/Warsaw:20180920T131500
+SUMMARY:Miłosz Krupski
+LOCATION:sala 119\, Instytut Informatyki UWr\, ul. Joliot-Curie 15
+DESCRIPTION:Niekonwencjonalne\, nieliniowe\, nielokalne równania różnicz
+ kowe cząstkowe typu ewolucyjnego – studium dwóch przypadków\nhttps://
+ im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09-20-milosz-krupski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09-20-milos
+ z-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-09-24-tomasz-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180924T151500
+DTEND;TZID=Europe/Warsaw:20180924T171500
+SUMMARY:Tomasz Rzepecki
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Ograniczone\, niezmiennicze relacje równoważności\nhttps://i
+ m-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09-24-tomasz-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-09-24-tomas
+ z-rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2018-11-20-joanna-tumilewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181120T121500
+DTEND;TZID=Europe/Warsaw:20181120T141500
+SUMMARY:Joanna Tumilewicz
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Problemy wyboru optymalnego czasu zatrzymania – kontrakty ube
+ zpieczeniowo-finansowe i opcje amerykańskie\nhttps://im-uwr.github.io/Web
+ -Podglad/obrony-doktorskie/2018-11-20-joanna-tumilewicz
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2018-11-20-joann
+ a-tumilewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2019-winter-school-in-abstract-analysis-2019@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190126
+DTEND;VALUE=DATE:20190203
+SUMMARY:Winter School in Abstract Analysis 2019
+LOCATION:Hejnice
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2019-win
+ ter-school-in-abstract-analysis-2019
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2019-winter-scho
+ ol-in-abstract-analysis-2019
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2019-xxxiii-konferencja-z-historii-matematyki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190601
+SUMMARY:XXXIII Konferencja z Historii Matematyki
+LOCATION:Będlewo
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2019-xxx
+ iii-konferencja-z-historii-matematyki
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2019-xxxiii-konf
+ erencja-z-historii-matematyki
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2019-forum-on-partial-differential-equations-xi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20190623
+DTEND;VALUE=DATE:20190630
+SUMMARY:Forum on Partial Differential Equations XI
+LOCATION:Będlewo
+DESCRIPTION:http://forum2019.math.uni.wroc.pl/
+URL:http://forum2019.math.uni.wroc.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2019-09-19-witold-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190919T130000
+DTEND;TZID=Europe/Warsaw:20190919T150000
+SUMMARY:Witold Świątkowski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:O pewnych własnościach rozwiązań stochastycznych równania 
+ rekurencyjnego\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/201
+ 9-09-19-witold-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2019-09-19-witol
+ d-swiatkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2019-09-23-lahcen-oussi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190923T120000
+DTEND;TZID=Europe/Warsaw:20190923T140000
+SUMMARY:Lahcen Oussi
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Twierdzenia graniczne dla bm-niezależnych zmiennych losowych i
+  zagadnienia pokrewne\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktors
+ kie/2019-09-23-lahcen-oussi
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2019-09-23-lahce
+ n-oussi
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2019-10-22-kamil-dyba@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191022T121500
+DTEND;TZID=Europe/Warsaw:20191022T141500
+SUMMARY:Kamil Dyba
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Zastosowanie wielowymiarowych funkcji kwantylowych do badania w
+ ielowymiarowych porządków stochastycznych\nhttps://im-uwr.github.io/Web-
+ Podglad/obrony-doktorskie/2019-10-22-kamil-dyba
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2019-10-22-kamil
+ -dyba
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2019-11-29-michal-kos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191129T121500
+DTEND;TZID=Europe/Warsaw:20191129T141500
+SUMMARY:Michał Kos
+LOCATION:sala EM\, Instytut Matematyczny UWr
+DESCRIPTION:Identyfikacja istotnych predyktorów w dużych bazach danych. W
+ łasności teoretyczne i zastosowania praktyczne\nhttps://im-uwr.github.io
+ /Web-Podglad/obrony-doktorskie/2019-11-29-michal-kos
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2019-11-29-micha
+ l-kos
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2020-09-15-michal-krawiec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200915T131500
+DTEND;TZID=Europe/Warsaw:20200915T151500
+SUMMARY:Michał Krawiec
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Detekcja zmiany dryfu w modelach opartych o procesy Lévy’ego
+  z zastosowaniami do analizy śmiertelności\nhttps://im-uwr.github.io/Web
+ -Podglad/obrony-doktorskie/2020-09-15-michal-krawiec
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2020-09-15-micha
+ l-krawiec
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2021-06-15-agnieszka-hejna@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210615T100000
+DTEND;TZID=Europe/Warsaw:20210615T120000
+SUMMARY:Agnieszka Hejna
+LOCATION:online
+DESCRIPTION:Analiza harmoniczna i przestrzenie Hardy’ego w kontekście du
+ nklowskim\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2021-06-
+ 15-agnieszka-hejna
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2021-06-15-agnie
+ szka-hejna
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2021-09-22-edyta-kania-strojec@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210922T120000
+DTEND;TZID=Europe/Warsaw:20210922T140000
+SUMMARY:Edyta Kania-Strojec
+LOCATION:online
+DESCRIPTION:Przestrzenie Hardy’ego związane z pewnymi półgrupami opera
+ torów liniowych\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2
+ 021-09-22-edyta-kania-strojec
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2021-09-22-edyta
+ -kania-strojec
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2022-19th-workshop-noncommutative-probability-noncommucative-harmo
+ nic-analysis-and-re@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220731
+DTEND;VALUE=DATE:20220807
+SUMMARY:19th Workshop: Noncommutative Probability\, Noncommutative Harmonic
+  Analysis and Related Topics\, with Applications
+LOCATION:Będlewo
+DESCRIPTION:https://www.impan.pl/en/activities/banach-center/conferences/22
+ -19thworkshop
+URL:https://www.impan.pl/en/activities/banach-center/conferences/22-19thwor
+ kshop
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2022-probability-and-analysis-2022@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20220919
+DTEND;VALUE=DATE:20220924
+SUMMARY:Probability and Analysis 2022
+LOCATION:Wrocław
+DESCRIPTION:https://panda.pwr.edu.pl/
+URL:https://panda.pwr.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2022-09-27-szymon-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220927T091500
+DTEND;TZID=Europe/Warsaw:20220927T111500
+SUMMARY:Szymon Cygan
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Patterns in nonlocal and degenerate models from mathematical bi
+ ology\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2022-09-27-s
+ zymon-cygan
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2022-09-27-szymo
+ n-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2022-11-09-piotr-markowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221109T110000
+DTEND;TZID=Europe/Warsaw:20221109T130000
+SUMMARY:Piotr Markowski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Zastosowania dualności łańcuchów Markowa w modelach ruiny g
+ racza i symulacji doskonałej\nhttps://im-uwr.github.io/Web-Podglad/obrony
+ -doktorskie/2022-11-09-piotr-markowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2022-11-09-piotr
+ -markowski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2022-model-theory-conference-in-celebration-of-ludomir-newelski-s-
+ 60th-birthday@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221222
+SUMMARY:Model Theory Conference in celebration of Ludomir Newelski's 60th b
+ irthday
+LOCATION:Będlewo
+DESCRIPTION:http://www.math.uni.wroc.pl/~pkowa/ln20.html
+URL:http://www.math.uni.wroc.pl/~pkowa/ln20.html
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2023-stochastic-models-vii@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230603
+SUMMARY:Stochastic Models VII
+LOCATION:Będlewo
+DESCRIPTION:https://www.math.uni.wroc.pl/~lorek/bedlewo2023/
+URL:https://www.math.uni.wroc.pl/~lorek/bedlewo2023/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2023-model-theory-workshop@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230919
+SUMMARY:Model Theory Workshop
+LOCATION:Wrocław
+DESCRIPTION:https://www.math.uni.wroc.pl/~pkowa/work23.html
+URL:https://www.math.uni.wroc.pl/~pkowa/work23.html
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2023-09-18-adam-kaszubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230918T120000
+DTEND;TZID=Europe/Warsaw:20230918T140000
+SUMMARY:Adam Kaszubowski
+LOCATION:sala A\, Instytut Matematyczny UWr
+DESCRIPTION:Problemy wyjścia dla procesów typu Lévy’ego oraz ich zasto
+ sowania\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-09-18
+ -adam-kaszubowski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-09-18-adam-
+ kaszubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2023-model-theory-conference@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20230919
+DTEND;VALUE=DATE:20230924
+SUMMARY:Model Theory Conference
+LOCATION:Wrocław
+DESCRIPTION:https://www.math.uni.wroc.pl/~pkowa/conf23.html
+URL:https://www.math.uni.wroc.pl/~pkowa/conf23.html
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2023-09-29-adam-malinowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230929T160000
+DTEND;TZID=Europe/Warsaw:20230929T180000
+SUMMARY:Adam Malinowski
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Grupy Ellisa w teorii modeli i zbiory silnie generyczne\nhttps:
+ //im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-09-29-adam-malinowsk
+ i
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-09-29-adam-
+ malinowski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2023-discrete-random-structures@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20231016
+DTEND;VALUE=DATE:20231021
+SUMMARY:Discrete random structures
+LOCATION:Będlewo
+DESCRIPTION:https://sites.google.com/impan.pl/drs23/
+URL:https://sites.google.com/impan.pl/drs23/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2023-11-30-karol-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231130T141500
+DTEND;TZID=Europe/Warsaw:20231130T161500
+SUMMARY:Karol Duda
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Dynamika i obliczalność w geometrycznej teorii grup\nhttps://
+ im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-11-30-karol-duda
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2023-11-30-karol
+ -duda
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2024-probability-and-analysis-2024@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240427
+SUMMARY:Probability and Analysis 2024
+LOCATION:Będlewo
+DESCRIPTION:https://panda2024.pwr.edu.pl/
+URL:https://panda2024.pwr.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2024-second-wroclaw-logic-conference@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240603
+SUMMARY:Second Wroclaw Logic Conference
+LOCATION:Wrocław
+DESCRIPTION:https://prac.im.pwr.edu.pl/~twowlc/
+URL:https://prac.im.pwr.edu.pl/~twowlc/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2024-06-13-jakub-gogolok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240613T173000
+DTEND;TZID=Europe/Warsaw:20240613T193000
+SUMMARY:Jakub Gogolok
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:On model theory of fields with operators\nhttps://im-uwr.github
+ .io/Web-Podglad/obrony-doktorskie/2024-06-13-jakub-gogolok
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2024-06-13-jakub
+ -gogolok
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2024-xiii-forum-of-partial-differential-equations@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20240623
+DTEND;VALUE=DATE:20240630
+SUMMARY:XIII Forum of Partial Differential Equations
+LOCATION:Będlewo
+DESCRIPTION:https://sites.google.com/impan.pl/xiiifpde/
+URL:https://sites.google.com/impan.pl/xiiifpde/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2024-contemporary-harmonic-analysis-and-its-synergies@im-uwr.githu
+ b.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20241001
+SUMMARY:Contemporary Harmonic Analysis and its Synergies
+LOCATION:Wrocław/Będlewo/Warszawa
+DESCRIPTION:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2024-con
+ temporary-harmonic-analysis-and-its-synergies
+URL:https://im-uwr.github.io/Web-Podglad/nauka/konferencje/2024-contemporar
+ y-harmonic-analysis-and-its-synergies
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2024-09-06-maciej-kucharski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240906T101500
+DTEND;TZID=Europe/Warsaw:20240906T121500
+SUMMARY:Maciej Kucharski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Norm estimates for Riesz transforms\nhttps://im-uwr.github.io/W
+ eb-Podglad/obrony-doktorskie/2024-09-06-maciej-kucharski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2024-09-06-macie
+ j-kucharski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2024-09-23-adrian-portillo-fernandez@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240923T130000
+DTEND;TZID=Europe/Warsaw:20240923T150000
+SUMMARY:Adrián Portillo-Fernández
+LOCATION:sala HS\, Instytut Matematyczny UWr
+DESCRIPTION:Canonical quotients in model theory\nhttps://im-uwr.github.io/W
+ eb-Podglad/obrony-doktorskie/2024-09-23-adrian-portillo-fernandez
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2024-09-23-adria
+ n-portillo-fernandez
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2024-11-13-alicja-kolodziejska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241113T131500
+DTEND;TZID=Europe/Warsaw:20241113T151500
+SUMMARY:Alicja Kołodziejska
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:On random walks in a sparse random environment\nhttps://im-uwr.
+ github.io/Web-Podglad/obrony-doktorskie/2024-11-13-alicja-kolodziejska
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2024-11-13-alicj
+ a-kolodziejska
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2025-01-28-konrad-krystecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250128T121500
+DTEND;TZID=Europe/Warsaw:20250128T141500
+SUMMARY:Konrad Krystecki
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Ruin probability in multidimensional self-similar Gaussian risk
+  models\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-01-28
+ -konrad-krystecki
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-01-28-konra
+ d-krystecki
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2025-02-10-krzysztof-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250210T101500
+DTEND;TZID=Europe/Warsaw:20250210T121500
+SUMMARY:Krzysztof Krawczyk
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Concentration and stability of solutions to aggregation-diffusi
+ on equations\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-
+ 02-10-krzysztof-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-02-10-krzys
+ ztof-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2025-02-18-daniel-danielski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250218T151500
+DTEND;TZID=Europe/Warsaw:20250218T171500
+SUMMARY:Daniel Danielski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:On boundaries of bicombable spaces\nhttps://im-uwr.github.io/We
+ b-Podglad/obrony-doktorskie/2025-02-18-daniel-danielski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-02-18-danie
+ l-danielski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2025-structures-in-banach-spaces@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250322
+SUMMARY:Structures in Banach spaces
+LOCATION:Wiedeń
+DESCRIPTION:https://sites.google.com/view/structures-in-banach-spaces/
+URL:https://sites.google.com/view/structures-in-banach-spaces/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2025-perspectives-on-ergodic-theory-and-its-interactions@im-uwr.gi
+ thub.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250628
+SUMMARY:Perspectives on Ergodic Theory and its Interactions
+LOCATION:Warszawa
+DESCRIPTION:https://sites.google.com/impan.pl/peti/
+URL:https://sites.google.com/impan.pl/peti/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2025-20th-workshop-noncommutative-probability-operator-algebras-an
+ d-related-topics-wi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250713
+SUMMARY:20th Workshop: Noncommutative Probability\, Operator Algebras and R
+ elated Topics\, with Applications
+LOCATION:Będlewo
+DESCRIPTION:https://sites.google.com/impan.pl/20thworkshop/
+URL:https://sites.google.com/impan.pl/20thworkshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2025-stochastic-processes-and-their-applications@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250719
+SUMMARY:Stochastic Processes and their Applications
+LOCATION:Wrocław
+DESCRIPTION:https://spa.pwr.edu.pl/
+URL:https://spa.pwr.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2025-10-21-krzysztof-kepczynski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251021T120000
+DTEND;TZID=Europe/Warsaw:20251021T140000
+SUMMARY:Krzysztof Kępczyński
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Asymptotics of functionals of Gaussian and Lévy processes with
+  a view towards risk and queueing models\nhttps://im-uwr.github.io/Web-Pod
+ glad/obrony-doktorskie/2025-10-21-krzysztof-kepczynski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2025-10-21-krzys
+ ztof-kepczynski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-03-02-sebastian-jachimek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260302T161500
+DTEND;TZID=Europe/Warsaw:20260302T181500
+SUMMARY:Sebastian Jachimek
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Combinatorial Banach spaces\nhttps://im-uwr.github.io/Web-Podgl
+ ad/obrony-doktorskie/2026-03-02-sebastian-jachimek
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-03-02-sebas
+ tian-jachimek
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-03-03-krzysztof-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260303T120000
+DTEND;TZID=Europe/Warsaw:20260303T140000
+SUMMARY:Krzysztof Kowalski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Asymptotic behavior of the extremal position in a branching ran
+ dom walk\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-03-0
+ 3-krzysztof-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-03-03-krzys
+ ztof-kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2026-discrete-random-structures-ii@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260523
+SUMMARY:Discrete Random Structures II
+LOCATION:Będlewo
+DESCRIPTION:https://sites.google.com/impan.pl/drs2026/home-page?authuser=0
+URL:https://sites.google.com/impan.pl/drs2026/home-page?authuser=0
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-06-02-mateusz-staniak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260602T120000
+DTEND;TZID=Europe/Warsaw:20260602T140000
+SUMMARY:Mateusz Staniak
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Statistical Methods for Mass Spectrometry Proteomics Data with 
+ Multiple Membership Structure\nhttps://im-uwr.github.io/Web-Podglad/obrony
+ -doktorskie/2026-06-02-mateusz-staniak
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-06-02-mateu
+ sz-staniak
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-06-18-maciej-korpalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260618T163000
+DTEND;TZID=Europe/Warsaw:20260618T183000
+SUMMARY:Maciej Korpalski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:On isomorphic and geometric properties of Banach spaces of cont
+ inuous functions\nhttps://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2
+ 026-06-18-maciej-korpalski
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-06-18-macie
+ j-korpalski
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-06-19-aleksander-antasik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260619T153000
+DTEND;TZID=Europe/Warsaw:20260619T173000
+SUMMARY:Aleksander Antasik
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Rational approximation of surface group representations\nhttps:
+ //im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-06-19-aleksander-ant
+ asik
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-06-19-aleks
+ ander-antasik
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-06-19-seminarium-ze-statystyki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260622T110000
+DTEND;TZID=Europe/Warsaw:20260624T130000
+SUMMARY:Seminarium ze statystyki
+LOCATION:sale 602 i 605\, Instytut Matematyczny UWr
+DESCRIPTION:Dwa spotkania poświęcone metodom statystycznym dla danych wys
+ okowymiarowych i modelowaniu w biologii molekularnej — 22 i 24 czerwca.\
+ nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-06-19-seminarium-ze
+ -statystyki
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-06-19-seminarium-
+ ze-statystyki
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-06-16-seminarium-wydzialowe@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260623T123000
+DTEND;TZID=Europe/Warsaw:20260623T140000
+SUMMARY:Seminarium wydziałowe — prof. Olga Vitek
+LOCATION:sala 119\, Instytut Informatyki UWr
+DESCRIPTION:Statistical methods increase the accuracy and the interpretabil
+ ity of quantitative proteomic investigations\nhttps://im-uwr.github.io/Web
+ -Podglad/aktualnosci/2026-06-16-seminarium-wydzialowe
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-06-16-seminarium-
+ wydzialowe
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-07-14-szkola-baby-steps-beyond-the-horizon@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260906
+SUMMARY:Szkoła dla studentów Baby Steps Beyond the Horizon
+LOCATION:Będlewo
+DESCRIPTION:Szkoła w Będlewie (30 sierpnia – 5 września 2026) pokazuj
+ ąca studentom żywo rozwijającą się matematykę. Rejestracja on-site d
+ o 31 lipca.\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-07-14-s
+ zkola-baby-steps-beyond-the-horizon
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-07-14-szkola-baby
+ -steps-beyond-the-horizon
+END:VEVENT
+BEGIN:VEVENT
+UID:konf-2026-chilijsko-polski-kongres-matematyczny@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Chilijsko-polski Kongres Matematyczny
+LOCATION:Wrocław
+DESCRIPTION:https://somachi-ptm.pwr.edu.pl/
+URL:https://somachi-ptm.pwr.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-09-10-wyklad-prof-uwe-franza@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260915T130000
+DTEND;TZID=Europe/Warsaw:20260915T143000
+SUMMARY:Wykład prof. Uwe Franza
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Wykład otwarty „Who was Seki Takakazu?” w ramach programu 
+ IDUB.\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-09-10-wyklad-
+ prof-uwe-franza
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-09-10-wyklad-prof
+ -uwe-franza
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-09-23-2-kongres-mlodych-odkrywcow@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260923
+SUMMARY:2. Kongres Młodych Odkrywców
+LOCATION:Wydział Matematyki i Informatyki UWr
+DESCRIPTION:Prawie 170 uczniów z niemal 20 szkół średnich wzięło udzi
+ ał w wykładach\, warsztatach i grze terenowej.\nhttps://im-uwr.github.io
+ /Web-Podglad/aktualnosci/2026-09-23-2-kongres-mlodych-odkrywcow
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-09-23-2-kongres-m
+ lodych-odkrywcow
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-09-21-tomasz-zuchowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260921T170000
+DTEND;TZID=Europe/Warsaw:20260921T190000
+SUMMARY:Tomasz Żuchowski
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:On sequences of measures and ideals in Boolean algebras\nhttps:
+ //im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-09-21-tomasz-zuchows
+ ki
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-09-21-tomas
+ z-zuchowski
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-09-20-kurs-dla-studentow-pierwszego-roku@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Kurs dla studentów pierwszego roku
+LOCATION:Wydział Matematyki i Informatyki UWr
+DESCRIPTION:Kurs przygotowawczy dla osób przyjętych na pierwszy rok studi
+ ów na WMI UWr — od 25 września.\nhttps://im-uwr.github.io/Web-Podglad/
+ aktualnosci/2026-09-20-kurs-dla-studentow-pierwszego-roku
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-09-20-kurs-dla-st
+ udentow-pierwszego-roku
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-10-20-maciej-tadej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261020T140000
+DTEND;TZID=Europe/Warsaw:20261020T160000
+SUMMARY:Maciej Tadej
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Analysis and simulations of the non-linear models with non-loca
+ l dispersal of species considered in finite\, flat habitats\nhttps://im-uw
+ r.github.io/Web-Podglad/obrony-doktorskie/2026-10-20-maciej-tadej
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-10-20-macie
+ j-tadej
+END:VEVENT
+BEGIN:VEVENT
+UID:obr-2026-10-27-malwina-mrowinska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261027T131500
+DTEND;TZID=Europe/Warsaw:20261027T151500
+SUMMARY:Malwina Mrowińska
+LOCATION:sala WS\, Instytut Matematyczny UWr
+DESCRIPTION:Estimation of a block-structured covariance matrix\nhttps://im-
+ uwr.github.io/Web-Podglad/obrony-doktorskie/2026-10-27-malwina-mrowinska
+URL:https://im-uwr.github.io/Web-Podglad/obrony-doktorskie/2026-10-27-malwi
+ na-mrowinska
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-11-10-seminarium-wydzialowe-problem-milenijny@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261110T130000
+DTEND;TZID=Europe/Warsaw:20261110T150000
+SUMMARY:Seminarium wydziałowe — prof. Grzegorz Karch
+LOCATION:sala 119\, Instytut Informatyki UWr
+DESCRIPTION:Problem Milenijny i jego rozwiązanie zaproponowane przez OpenA
+ I\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-10-seminarium-
+ wydzialowe-problem-milenijny
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-10-seminarium-
+ wydzialowe-problem-milenijny
+END:VEVENT
+BEGIN:VEVENT
+UID:akt-2026-11-18-wyklad-popularnonaukowy-z-cyklu-misiu@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261127T121500
+DTEND;TZID=Europe/Warsaw:20261127T141500
+SUMMARY:Wykład popularnonaukowy z cyklu MISIU
+LOCATION:sala 25\, Instytut Informatyki UWr
+DESCRIPTION:Matematyczno-Informatyczne Spotkania na Uniwersytecie to seria 
+ wykładów popularyzujących matematykę i informatykę dla uczniów szkó
+ ł średnich.\nhttps://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-18
+ -wyklad-popularnonaukowy-z-cyklu-misiu
+URL:https://im-uwr.github.io/Web-Podglad/aktualnosci/2026-11-18-wyklad-popu
+ larnonaukowy-z-cyklu-misiu
+END:VEVENT
+END:VCALENDAR

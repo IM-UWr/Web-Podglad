@@ -1,0 +1,1222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Teoria modeli
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2015-04-08-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150408T161500
+DTEND;TZID=Europe/Warsaw:20150408T174500
+SUMMARY:Zbiory silnie generyczne\, część 4
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2015-04-08-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2015-04-08
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2015-12-16-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151216T161500
+DTEND;TZID=Europe/Warsaw:20151216T174500
+SUMMARY:Dynamika topologiczna i złożoność silnych typów\, cz. 4
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2015-12-16-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2015-12-16
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-02-24-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160224T161500
+DTEND;TZID=Europe/Warsaw:20160224T174500
+SUMMARY:Półgrupy stabilne\, wg Yatira Halevi
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2016-02-24-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-02-24
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-03-02-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160302T161500
+DTEND;TZID=Europe/Warsaw:20160302T174500
+SUMMARY:Półgrupy stabilne\, wg Yatira Halevi\, cz. 2
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2016-03-02-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-03-02
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-03-09-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160309T161500
+DTEND;TZID=Europe/Warsaw:20160309T174500
+SUMMARY:Półgrupy stabilne\, wg Yatira Halevi\, cz. 3
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2016-03-09-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-03-09
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-03-23-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160323T161500
+DTEND;TZID=Europe/Warsaw:20160323T174500
+SUMMARY:Relacje równoważności niezmiennicze na działania grup
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2016-03-23-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-03-23
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-03-30-simon@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160330T184500
+DTEND;TZID=Europe/Warsaw:20160330T201500
+SUMMARY:Around Hrushovski's stabilizer theorem and NTP_2
+DESCRIPTION:Pierre Simon (Université Claude Bernard - Lyon 1)\nSeminarium:
+  Teoria modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-mode
+ li#2016-03-30-simon
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-03-30
+ -simon
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-04-06-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160406T161500
+DTEND;TZID=Europe/Warsaw:20160406T174500
+SUMMARY:Relacje równoważności niezmiennicze na działania grup\, cz. 2
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2016-04-06-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-04-06
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-04-20-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160420T133000
+DTEND;TZID=Europe/Warsaw:20160420T150000
+SUMMARY:Grupy definiowalnie średniowalne w teoriach z NIP-em
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2016-04-20-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-04-20
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-04-27-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160427T161500
+DTEND;TZID=Europe/Warsaw:20160427T174500
+SUMMARY:Existentially closed fields with finite group actions
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2016-04-27-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-04-27
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-05-11-moconja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160511T161500
+DTEND;TZID=Europe/Warsaw:20160511T174500
+SUMMARY:Definable sets and regular types in linear orderings
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Slavko Moconja (University of Belgrade)\nSeminarium: Teoria mod
+ eli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-05-
+ 11-moconja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-05-11
+ -moconja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-06-08-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160608T161500
+DTEND;TZID=Europe/Warsaw:20160608T174500
+SUMMARY:Rzeczywisty ślad grup definiowalnych w strukturach o-minimalnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Grzegorz Jagiella (University of Haifa)\nSeminarium: Teoria mod
+ eli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-06-
+ 08-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-06-08
+ -jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-09-21-srivastava@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160921T161500
+DTEND;TZID=Europe/Warsaw:20160921T174500
+SUMMARY:An application of descriptive set theory to Kripke models
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Shashi Srivastava (Indian Statistical Institute\, Kolkata)\nSem
+ inarium: Teoria modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teo
+ ria-modeli#2016-09-21-srivastava
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-09-21
+ -srivastava
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-10-05-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161005T161500
+DTEND;TZID=Europe/Warsaw:20161005T174500
+SUMMARY:Modelowy towarzysz działań Galois grup wirtualnie wolnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2016-10-05-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-10-05
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-10-12-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161012T161500
+DTEND;TZID=Europe/Warsaw:20161012T174500
+SUMMARY:Modelowy towarzysz działań Galois grup wirtualnie wolnych\, cz. 2
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2016-10-12-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-10-12
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-10-18-pillay@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161018T161500
+DTEND;TZID=Europe/Warsaw:20161018T174500
+SUMMARY:Differential Galois theory and differential Galois cohomology.
+LOCATION:604?
+DESCRIPTION:Anand Pillay (University of Notre Dame)\nSeminarium: Teoria mod
+ eli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-10-
+ 18-pillay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-10-18
+ -pillay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-10-26-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161026T161500
+DTEND;TZID=Europe/Warsaw:20161026T174500
+SUMMARY:Modele atomowe teorii nieprzeliczalnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2016-10-26-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-10-26
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-11-16-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161116T161500
+DTEND;TZID=Europe/Warsaw:20161116T174500
+SUMMARY:Lematy o regularności
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2016-11-16-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-11-16
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2016-11-30-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161130T161500
+DTEND;TZID=Europe/Warsaw:20161130T174500
+SUMMARY:Średniowalność\, spójne składowe i G-zwartość
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2016-11-30-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2016-11-30
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-01-18-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170118T161500
+DTEND;TZID=Europe/Warsaw:20170118T174500
+SUMMARY:Średniowalność\, spójne składowe i G-zwartość
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Krupiński (IM UWr)\nSeminarium: Teoria modeli\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-01-18-krupins
+ ki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-01-18
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-02-01-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170201T161500
+DTEND;TZID=Europe/Warsaw:20170201T174500
+SUMMARY:O średnicach teorio-modelowych składowych grup
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin\nSeminarium: Teoria modeli\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/teoria-modeli#2017-02-01-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-02-01
+ -gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-03-01-wencel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170301T161500
+DTEND;TZID=Europe/Warsaw:20170301T174500
+SUMMARY:Wymiar Hausdorffa przestrzeni metrycznych definiowalnych w o-minima
+ lnych wzbogaceniach ciała liczb rzeczywistych (według J. Maříkovej i E
+ . Weinberga)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Roman Wencel (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-01-wencel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-01
+ -wencel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-03-22-kwiatkowska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170322T161500
+DTEND;TZID=Europe/Warsaw:20170322T174500
+SUMMARY:Własności grup topologicznych postaci L_0(G)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Aleksandra Kwiatkowska (IM UWr)\nSeminarium: Teoria modeli\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-22-kwiat
+ kowska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-22
+ -kwiatkowska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-03-29-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170329T161500
+DTEND;TZID=Europe/Warsaw:20170329T174500
+SUMMARY:Model i jego podzbiór
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ludomir Newelski (IM UWr)\nSeminarium: Teoria modeli\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-29-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-03-29
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-04-12-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170412T161500
+DTEND;TZID=Europe/Warsaw:20170412T174500
+SUMMARY:Wprowadzenie do silnych typów
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2017-04-12-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-04-12
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-04-21-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170421T141500
+DTEND;TZID=Europe/Warsaw:20170421T154500
+SUMMARY:Dynamika topologiczna i grupy definiowalnie średniowalne
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Grzegorz Jagiella\nSeminarium: Teoria modeli\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/teoria-modeli#2017-04-21-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-04-21
+ -jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-04-26-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170426T161500
+DTEND;TZID=Europe/Warsaw:20170426T174500
+SUMMARY:Some model theory of Galois actions
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2017-04-26-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-04-26
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-05-10-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170510T161500
+DTEND;TZID=Europe/Warsaw:20170510T174500
+SUMMARY:Teoria modeli a dynamika topologiczna i grupy polskie
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2017-05-10-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-05-10
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-10-04-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171004T161500
+DTEND;TZID=Europe/Warsaw:20171004T174500
+SUMMARY:Virtually free groups and Galois actions
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-10-04-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-10-04
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2017-11-22-moconja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171122T161500
+DTEND;TZID=Europe/Warsaw:20171122T174500
+SUMMARY:Stationary types in linear orders
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Slavko Moconja\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2017-11-22-moconja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2017-11-22
+ -moconja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-01-24-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180124T161500
+DTEND;TZID=Europe/Warsaw:20180124T174500
+SUMMARY:Difference modules and difference cohomology
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2018-01-24-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-01-24
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-03-14-pillay@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180314T161500
+DTEND;TZID=Europe/Warsaw:20180314T174500
+SUMMARY:Tame regularity theorems for groups with a distinguished subset
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anand Pillay\nSeminarium: Teoria modeli\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/teoria-modeli#2018-03-14-pillay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-03-14
+ -pillay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-03-21-wencel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180321T161500
+DTEND;TZID=Europe/Warsaw:20180321T174500
+SUMMARY:Wymiar Hausdorffa przestrzeni metrycznych definiowalnych w o-minima
+ lnych wzbogaceniach ciała liczb rzeczywistych (według J. Ma{\\v r}{\\'i}
+ kovej i E. Walsberga)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Roman Wencel\nSeminarium: Teoria modeli\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/teoria-modeli#2018-03-21-wencel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-03-21
+ -wencel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-04-11-lee@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180411T161500
+DTEND;TZID=Europe/Warsaw:20180411T174500
+SUMMARY:Homology theory of types in model theory
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Junguk Lee\nSeminarium: Teoria modeli\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/teoria-modeli#2018-04-11-lee
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-04-11
+ -lee
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-05-09-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180509T161500
+DTEND;TZID=Europe/Warsaw:20180509T174500
+SUMMARY:Boundedness and absoluteness of some dynamical invariants
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-09-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-09
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-05-16-tsankov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180516T161500
+DTEND;TZID=Europe/Warsaw:20180516T174500
+SUMMARY:Applications of model theory to the study of Roelcke precompact gro
+ ups and their actions
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Todor Tsankov (Paris Diderot University)\nSeminarium: Teoria mo
+ deli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-05
+ -16-tsankov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-16
+ -tsankov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-05-23-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180523T161500
+DTEND;TZID=Europe/Warsaw:20180523T174500
+SUMMARY:Boundedness and absoluteness of some dynamical invariants (continua
+ tion)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-23-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-23
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-05-30-newelski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180530T161500
+DTEND;TZID=Europe/Warsaw:20180530T174500
+SUMMARY:Localization
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Ludomir Newelski\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2018-05-30-newelski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-05-30
+ -newelski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-06-06-hoffmann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180606T161500
+DTEND;TZID=Europe/Warsaw:20180606T174500
+SUMMARY:On Galois groups and PAC substructures
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Daniel Hoffmann\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2018-06-06-hoffmann
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-06-06
+ -hoffmann
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-10-03-bradley-williams@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181003T161500
+DTEND;TZID=Europe/Warsaw:20181003T174500
+SUMMARY:Jordan permutation groups and reducts of trees
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:David Bradley-Williams (Universität Düsseldorf)\nSeminarium: 
+ Teoria modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-model
+ i#2018-10-03-bradley-williams
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-10-03
+ -bradley-williams
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-10-10-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181010T161500
+DTEND;TZID=Europe/Warsaw:20181010T174500
+SUMMARY:Model theory of fields with free operators in positive characterist
+ ic
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-10-10-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-10-10
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-11-07-ziegler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181107T161500
+DTEND;TZID=Europe/Warsaw:20181107T174500
+SUMMARY:Quantifier elimination of pure extensions of abelian groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Martin Ziegler\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2018-11-07-ziegler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11-07
+ -ziegler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-11-14-pezda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181114T161500
+DTEND;TZID=Europe/Warsaw:20181114T174500
+SUMMARY:Finding polynomial orbits.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tadeusz Pezda\nSeminarium: Teoria modeli\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/teoria-modeli#2018-11-14-pezda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11-14
+ -pezda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-11-21-pillay@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181121T161500
+DTEND;TZID=Europe/Warsaw:20181121T174500
+SUMMARY:Definable actions\, weakly almost periodic actions\, and continuous
+  logic stability (joint work with E. Hrushovski and K. Krupiński)
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anand Pillay (University of Notre Dame)\nSeminarium: Teoria mod
+ eli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11-
+ 21-pillay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11-21
+ -pillay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-11-28-torunczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181128T161500
+DTEND;TZID=Europe/Warsaw:20181128T174500
+SUMMARY:Some applications of model theory in computer science
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Szymon Toruńczyk (University of Warsaw)\nSeminarium: Teoria mo
+ deli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11
+ -28-torunczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-11-28
+ -torunczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2018-12-05-moconja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181205T161500
+DTEND;TZID=Europe/Warsaw:20181205T174500
+SUMMARY:Definable sets in linearly ordered structures
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Slavko Moconja\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2018-12-05-moconja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2018-12-05
+ -moconja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-01-09-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190109T161500
+DTEND;TZID=Europe/Warsaw:20190109T174500
+SUMMARY:On simple groups definable in valued fields
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Teoria modeli\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-01-09-gismatulli
+ n
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-01-09
+ -gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-01-23-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190123T161500
+DTEND;TZID=Europe/Warsaw:20190123T174500
+SUMMARY:Companionability of torsion Abelian group actions on fields.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-01-23-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-01-23
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-02-27-dobrowolska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190227T161500
+DTEND;TZID=Europe/Warsaw:20190227T174500
+SUMMARY:Some properties of U-rank and m-rank
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Urszula Dobrowolska (IM UWr)\nSeminarium: Teoria modeli\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-02-27-dobrowol
+ ska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-02-27
+ -dobrowolska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-03-06-moconja@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190306T161500
+DTEND;TZID=Europe/Warsaw:20190306T174500
+SUMMARY:On Simon's paper „Linear orders in NIP structures”.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Slavko Moconja (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-06-moconja
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-06
+ -moconja
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-03-20-hoffmann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190320T161500
+DTEND;TZID=Europe/Warsaw:20190320T174500
+SUMMARY:Weak independence theorem for PAC structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Daniel Hoffmann (University of Warsaw)\nSeminarium: Teoria mode
+ li\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-2
+ 0-hoffmann
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-20
+ -hoffmann
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-03-27-lee@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190327T161500
+DTEND;TZID=Europe/Warsaw:20190327T174500
+SUMMARY:Interpretability of Galois groups of first order structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Junguk Lee (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-27-lee
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-03-27
+ -lee
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-04-03-dobrowolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190403T161500
+DTEND;TZID=Europe/Warsaw:20190403T174500
+SUMMARY:Omega-categorical groups\, rings\, and\, bilinear forms of finite b
+ urden.
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jan Dobrowolski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-04-03-dobrowolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-04-03
+ -dobrowolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-06-05-gogolok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190605T161500
+DTEND;TZID=Europe/Warsaw:20190605T174500
+SUMMARY:Strongly minimal compact Kähler threefolds
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jakub Gogolok\nSeminarium: Teoria modeli\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/teoria-modeli#2019-06-05-gogolok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-06-05
+ -gogolok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-10-04-kamensky@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191004T161500
+DTEND;TZID=Europe/Warsaw:20191004T174500
+SUMMARY:The formalism of generalised operators and related model theoretic 
+ questions
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Moshe Kamensky (Ben-Gurion University)\nSeminarium: Teoria mode
+ li\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-0
+ 4-kamensky
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-04
+ -kamensky
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-10-09-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191009T161500
+DTEND;TZID=Europe/Warsaw:20191009T174500
+SUMMARY:Bohr compactifications of groups and rings
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Grzegorz Jagiella (IM UWr)\nSeminarium: Teoria modeli\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-09-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-09
+ -jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-10-23-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191023T161500
+DTEND;TZID=Europe/Warsaw:20191023T174500
+SUMMARY:Ultraprodukty metryczne group - prostota i średniowalność
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Teoria modeli\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-23-gismatulli
+ n
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-10-23
+ -gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-11-13-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191113T161500
+DTEND;TZID=Europe/Warsaw:20191113T174500
+SUMMARY:Model thoery of Galois actions of torsion Abelian groups
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-11-13-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-11-13
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-11-20-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191120T161500
+DTEND;TZID=Europe/Warsaw:20191120T174500
+SUMMARY:Ultraprodukty metryczne group - prostota i średniowalność (konty
+ nuacja)
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Teoria modeli\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-11-20-gismatulli
+ n
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-11-20
+ -gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-11-27-marikova@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191127T161500
+DTEND;TZID=Europe/Warsaw:20191127T174500
+SUMMARY:Valuational weakly o-minimal structures with quantifier elimination
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jana Marikova (Western Illinois University)\nSeminarium: Teoria
+  modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019
+ -11-27-marikova
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-11-27
+ -marikova
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-12-04-aranda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191204T161500
+DTEND;TZID=Europe/Warsaw:20191204T174500
+SUMMARY:A Fraisse theorem for IB-homogeneous relational structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Andrés Aranda (TU Dresden)\nSeminarium: Teoria modeli\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-12-04-aranda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-12-04
+ -aranda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-12-11-fornasiero@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191211T161500
+DTEND;TZID=Europe/Warsaw:20191211T174500
+SUMMARY:Generic derivations on o-minimal structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Antongiulio Fornasiero (University of Florence)\nSeminarium: Te
+ oria modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#
+ 2019-12-11-fornasiero
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-12-11
+ -fornasiero
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2019-12-18-ealy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191218T161500
+DTEND;TZID=Europe/Warsaw:20191218T174500
+SUMMARY:Residue field domination in certain Henselian valued fields
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Clifton Ealy (Western Illinois University)\nSeminarium: Teoria 
+ modeli\nhttps://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-
+ 12-18-ealy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2019-12-18
+ -ealy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2020-01-08-lee@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200108T161500
+DTEND;TZID=Europe/Warsaw:20200108T174500
+SUMMARY:Elementary equivalence theorem for PAC structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Junguk Lee (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/teoria-modeli#2020-01-08-lee
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2020-01-08
+ -lee
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2020-01-22-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200122T161500
+DTEND;TZID=Europe/Warsaw:20200122T174500
+SUMMARY:Difference sheaves and torsors
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Teoria modeli\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2020-01-22-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2020-01-22
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2020-02-26-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200226T161500
+DTEND;TZID=Europe/Warsaw:20200226T174500
+SUMMARY:Amenability and definability
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Krupiński (IM UWr)\nSeminarium: Teoria modeli\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2020-02-26-krupins
+ ki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2020-02-26
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-05-10-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230510T141500
+DTEND;TZID=Europe/Warsaw:20230510T154500
+SUMMARY:On locally compact models of approximate groups and rings and their
+  applications
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-10-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-10
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-05-24-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230524T141500
+DTEND;TZID=Europe/Warsaw:20230524T154500
+SUMMARY:On locally compact models of approximate groups and rings and their
+  applications
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-24-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-24
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-05-31-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230531T141500
+DTEND;TZID=Europe/Warsaw:20230531T154500
+SUMMARY:On locally compact models of approximate groups and rings and their
+  applications
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-31-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-05-31
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-06-07-tran@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230607T141500
+DTEND;TZID=Europe/Warsaw:20230607T154500
+SUMMARY:Measure doubling of small sets in SO(3\,R)
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tran Chieu Minh\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2023-06-07-tran
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-06-07
+ -tran
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-06-14-blaszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230614T141500
+DTEND;TZID=Europe/Warsaw:20230614T154500
+SUMMARY:Towards model theory of hyperfields
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Piotr Błaszkiewicz\nSeminarium: Teoria modeli\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/teoria-modeli#2023-06-14-blaszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-06-14
+ -blaszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-10-04-ramsey@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231004T141500
+DTEND;TZID=Europe/Warsaw:20231004T154500
+SUMMARY:Measures on bounded PAC fields
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Nick Ramsey\nSeminarium: Teoria modeli\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/teoria-modeli#2023-10-04-ramsey
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-10-04
+ -ramsey
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-10-11-pillay@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231011T141500
+DTEND;TZID=Europe/Warsaw:20231011T154500
+SUMMARY:Compactifications of pseudo-finite and pseudo-amenable groups.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Anand Pillay\nSeminarium: Teoria modeli\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/teoria-modeli#2023-10-11-pillay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-10-11
+ -pillay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-10-18-gogolok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231018T141500
+DTEND;TZID=Europe/Warsaw:20231018T154500
+SUMMARY:Variants of existential closedness for fields with operators
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jakub Gogolok\nSeminarium: Teoria modeli\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/teoria-modeli#2023-10-18-gogolok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-10-18
+ -gogolok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-11-08-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231108T141500
+DTEND;TZID=Europe/Warsaw:20231108T154500
+SUMMARY:Structural Ramsey theory and definability patterns
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2023-11-08-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-11-08
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-11-29-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231129T141500
+DTEND;TZID=Europe/Warsaw:20231129T154500
+SUMMARY:Model completeness of rational points of algebraic groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Piotr Kowalski\nSeminarium: Teoria modeli\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/teoria-modeli#2023-11-29-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-11-29
+ -kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-12-13-krupinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231213T141500
+DTEND;TZID=Europe/Warsaw:20231213T154500
+SUMMARY:On relationships between some Ramsey properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Krupiński\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2023-12-13-krupinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-12-13
+ -krupinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2023-12-20-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231220T141500
+DTEND;TZID=Europe/Warsaw:20231220T154500
+SUMMARY:On relationships between some Ramsey properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2023-12-20-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2023-12-20
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-01-03-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240103T141500
+DTEND;TZID=Europe/Warsaw:20240103T154500
+SUMMARY:On relationships between some Ramsey properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-01-03-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-03
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-01-10-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240110T141500
+DTEND;TZID=Europe/Warsaw:20240110T154500
+SUMMARY:On relationships between some Ramsey properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-01-10-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-10
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-01-17-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240117T141500
+DTEND;TZID=Europe/Warsaw:20240117T154500
+SUMMARY:On relationships between some Ramsey properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Grzegorz Jagiella\nSeminarium: Teoria modeli\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/teoria-modeli#2024-01-17-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-17
+ -jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-01-24-blaszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240124T141500
+DTEND;TZID=Europe/Warsaw:20240124T154500
+SUMMARY:The class of Krasner Hyperfields is not elementary
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Piotr Błaszkiewicz\nSeminarium: Teoria modeli\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-24-blaszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-24
+ -blaszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-01-26-gannon@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240126T141500
+DTEND;TZID=Europe/Warsaw:20240126T154500
+SUMMARY:Model theoretic events
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Kyle Gannon\nSeminarium: Teoria modeli\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/teoria-modeli#2024-01-26-gannon
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-01-26
+ -gannon
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-02-21-jagiella@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240221T141500
+DTEND;TZID=Europe/Warsaw:20240221T154500
+SUMMARY:On compactifications of first-order structures
+DESCRIPTION:Grzegorz Jagiella\nSeminarium: Teoria modeli\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/teoria-modeli#2024-02-21-jagiella
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-02-21
+ -jagiella
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-02-28-portillo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240228T161500
+DTEND;TZID=Europe/Warsaw:20240228T174500
+SUMMARY:Generalized indiscernibles and n-dependence in continuous logic
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Adrián Portillo\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2024-02-28-portillo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-02-28
+ -portillo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-03-06-hoffmann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240306T161500
+DTEND;TZID=Europe/Warsaw:20240306T174500
+SUMMARY:Affine Keisler Dynamics
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Daniel Hoffmann\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-03-06-hoffmann
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-03-06
+ -hoffmann
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-03-13-hoffmann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240313T161500
+DTEND;TZID=Europe/Warsaw:20240313T174500
+SUMMARY:Affine Keisler Dynamics
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Daniel Hoffmann\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-03-13-hoffmann
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-03-13
+ -hoffmann
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-03-20-dobrowolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240320T161500
+DTEND;TZID=Europe/Warsaw:20240320T174500
+SUMMARY:Existentially closed valued difference fields and positive NTP2.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jan Dobrowolski\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-03-20-dobrowolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-03-20
+ -dobrowolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-03-27-szachniewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240327T161500
+DTEND;TZID=Europe/Warsaw:20240327T174500
+SUMMARY:Fields without points in a Brody hyperbolic variety.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Michał Szachniewicz\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2024-03-27-szachniewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-03-27
+ -szachniewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-04-03-szachniewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240403T161500
+DTEND;TZID=Europe/Warsaw:20240403T174500
+SUMMARY:Globally valued fields - foundations
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Michał Szachniewicz\nSeminarium: Teoria modeli\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/teoria-modeli#2024-04-03-szachniewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-04-03
+ -szachniewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-04-10-portillo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240410T161500
+DTEND;TZID=Europe/Warsaw:20240410T174500
+SUMMARY:Generalized indiscernibles and n-dependence in continuous logic
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Adrián Portillo\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2024-04-10-portillo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-04-10
+ -portillo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-04-17-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240417T161500
+DTEND;TZID=Europe/Warsaw:20240417T174500
+SUMMARY:A few words on metric ultraproducts.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jakub Gismatullin\nSeminarium: Teoria modeli\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/teoria-modeli#2024-04-17-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-04-17
+ -gismatullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-04-24-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240424T161500
+DTEND;TZID=Europe/Warsaw:20240424T174500
+SUMMARY:Inner ultrahomogeneous groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-04-24-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-04-24
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-05-08-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240508T161500
+DTEND;TZID=Europe/Warsaw:20240508T174500
+SUMMARY:Inner ultrahomogeneous groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/teoria-modeli#2024-05-08-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-05-08
+ -rzepecki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-05-15-portillo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240515T161500
+DTEND;TZID=Europe/Warsaw:20240515T174500
+SUMMARY:Maximal WAP and Tame quotients.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Adrián Portillo\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2024-05-15-portillo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-05-15
+ -portillo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-05-22-portillo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240522T161500
+DTEND;TZID=Europe/Warsaw:20240522T174500
+SUMMARY:Maximal WAP and Tame quotients.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Adrián Portillo\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2024-05-22-portillo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-05-22
+ -portillo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-teoria-modeli-2024-06-05-rzepecki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240605T161500
+DTEND;TZID=Europe/Warsaw:20240605T174500
+SUMMARY:Bohr compactification and type-definable connected component of mod
+ ules\, rings and semidirect product of groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Mateusz Rzepecki\nSeminarium: Teoria modeli\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/teoria-modeli#2024-06-05-rzepecki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/teoria-modeli#2024-06-05
+ -rzepecki
+END:VEVENT
+END:VCALENDAR

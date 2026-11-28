@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rozszerzenia typu Whitney'a - raport z warsztatów w Luminy
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-analiza-harmoniczna-2015-12-16-langowski@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SUMMARY:Rozszerzenia typu Whitney'a - raport z warsztatów w Luminy
+DESCRIPTION:Bartosz Langowski (PWr)\nSeminarium: Analiza harmoniczna i rozw
+ inięcia ortogonalne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/anali
+ za-harmoniczna#2015-12-16-langowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/analiza-harmoniczna#2015
+ -12-16-langowski
+END:VEVENT
+END:VCALENDAR

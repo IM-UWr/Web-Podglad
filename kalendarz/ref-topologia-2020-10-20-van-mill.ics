@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Splitting Tychonoff cubes into homeomorphic and homogeneous pa
+ rts (and more)
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-topologia-2020-10-20-van-mill@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20201020T170000
+DTEND;TZID=Europe/Warsaw:20201020T183000
+SUMMARY:Splitting Tychonoff cubes into homeomorphic and homogeneous parts (
+ and more)
+LOCATION:online (Zoom)
+DESCRIPTION:Jan van Mill (University of Amsterdam)\nSeminarium: Topologia\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-20-van-mi
+ ll
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2020-10-20-van
+ -mill
+END:VEVENT
+END:VCALENDAR

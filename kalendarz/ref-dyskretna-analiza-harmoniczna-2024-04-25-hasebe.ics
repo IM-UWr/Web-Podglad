@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Free probability of type B prime
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-dyskretna-analiza-harmoniczna-2024-04-25-hasebe@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20240425T101500
+DTEND;TZID=Europe/Warsaw:20240425T114500
+SUMMARY:Free probability of type B prime
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Takahiro Hasebe (Hokkaido University)\nSeminarium: Dyskretna an
+ aliza harmoniczna i niekomutatywna probabilistyka\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/dyskretna-analiza-harmoniczna#2024-04-25-hasebe
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/dyskretna-analiza-harmon
+ iczna#2024-04-25-hasebe
+END:VEVENT
+END:VCALENDAR

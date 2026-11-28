@@ -1,0 +1,3033 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Geometria
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-geometria-2014-01-13-garncarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140113T161500
+DTEND;TZID=Europe/Warsaw:20140113T174500
+SUMMARY:Proper isometric actions of hyperbolic groups on $L^p$-spaces wg. B
+ ogdana Niki
+LOCATION:sala 607\, IM UWr
+DESCRIPTION:Łukasz Garncarek\nSeminarium: Geometria\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/geometria#2014-01-13-garncarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-01-13-gar
+ ncarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-03-10-pawlik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140310T171500
+DTEND;TZID=Europe/Warsaw:20140310T184500
+SUMMARY:scisly dowod tego ze brzeg dowolnej grupy hiperbolicznej jest kompa
+ ktem Markova.
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Dominika Pawlik (Uniwersytet Warszawski)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-10-pawl
+ ik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-10-paw
+ lik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-03-17-steenbock@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140317T171500
+DTEND;TZID=Europe/Warsaw:20140317T184500
+SUMMARY:Rips construction without unique product
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Markus Steenbock (Universität Wien)\nSeminarium: Geometria\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-17-steenboc
+ k
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-17-ste
+ enbock
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-03-24-bier@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140324T171500
+DTEND;TZID=Europe/Warsaw:20140324T184500
+SUMMARY:O automorfizmach drzew z wyróżnionym elementem
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Agnieszka Bier (Politechnika Śląska)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-24-bier
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-24-bie
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-03-24-suszczanski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140324T171500
+DTEND;TZID=Europe/Warsaw:20140324T184500
+SUMMARY:Grupy izometrii przestrzeni Hamminga-Bezikowicza ciągów okresowyc
+ h i grupy D-hiperoktahedralne
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Witalij Suszczański (Politechnika Śląska)\nSeminarium: Geome
+ tria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-24-
+ suszczanski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-24-sus
+ zczanski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-03-31-elsner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140331T171500
+DTEND;TZID=Europe/Warsaw:20140331T184500
+SUMMARY:O znikaniu ograniczonych kohomologii dla grup hiperbolicznych wg. M
+ ineyeva
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tomasz Elsner\nSeminarium: Geometria\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/geometria#2014-03-31-elsner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-03-31-els
+ ner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-04-08-thomas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140408T141500
+DTEND;TZID=Europe/Warsaw:20140408T154500
+SUMMARY:Quasi-isometry classification of certain hyperbolic Coxeter groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Anne Thomas (University of Glasgow)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-04-08-thomas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-04-08-tho
+ mas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-04-14-hajduk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140414T171500
+DTEND;TZID=Europe/Warsaw:20140414T184500
+SUMMARY:O polach wektorowych mających własność Reeba
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Bogusław Hajduk\nSeminarium: Geometria\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/geometria#2014-04-14-hajduk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-04-14-haj
+ duk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-04-15-garncarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140415T161500
+DTEND;TZID=Europe/Warsaw:20140415T174500
+SUMMARY:Boundary representations of hyperbolic groups
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Łukasz Garncarek\nSeminarium: Geometria\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/geometria#2014-04-15-garncarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-04-15-gar
+ ncarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-05-05-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140505T171500
+DTEND;TZID=Europe/Warsaw:20140505T184500
+SUMMARY:Combinatorial nonpositive curvature
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Damian Osajda\nSeminarium: Geometria\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/geometria#2014-05-05-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-05-05-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-05-08-kaimanowicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140508T141500
+DTEND;TZID=Europe/Warsaw:20140508T154500
+SUMMARY:Randomness and invariance of geometric structures
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Wadim Kaimanowicz (University of Ottawa)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-05-08-kaim
+ anowicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-05-08-kai
+ manowicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-05-26-jankiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140526T171500
+DTEND;TZID=Europe/Warsaw:20140526T184500
+SUMMARY:Kostkowa teoria małych skreśleń
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Katarzyna Jankiewicz (McGill University)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-05-26-jank
+ iewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-05-26-jan
+ kiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-06-02-antoniuk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140602T171500
+DTEND;TZID=Europe/Warsaw:20140602T184500
+SUMMARY:O silnych funkcjach progowych dla pewnych własności grup losowych
+ .
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Sylwia Antoniuk (Poznań)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2014-06-02-antoniuk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-06-02-ant
+ oniuk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-06-09-swiecicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20140609T171500
+DTEND;TZID=Europe/Warsaw:20140609T184500
+SUMMARY:Twierdzenie Helly'ego dla kompleksów systolicznych
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Święcicki (Texas A&M)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-06-09-swiecicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-06-09-swi
+ ecicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-10-13-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141013T141500
+DTEND;TZID=Europe/Warsaw:20141013T154500
+SUMMARY:Orthoscheme complexes of modular lattices are CAT(0)
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Damian Osajda (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2014-10-13-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-10-13-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-10-20-antoniuk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141020T141500
+DTEND;TZID=Europe/Warsaw:20141020T154500
+SUMMARY:On the threshold when the random triangular group is no longer free
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Sylwia Antoniuk (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2014-10-20-antoniuk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-10-20-ant
+ oniuk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-10-27-marcinkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141027T141500
+DTEND;TZID=Europe/Warsaw:20141027T154500
+SUMMARY:Macroscopically large homologically small manifolds
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Michał Marcinkowski\nSeminarium: Geometria\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/geometria#2014-10-27-marcinkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-10-27-mar
+ cinkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-11-03-martin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141103T141500
+DTEND;TZID=Europe/Warsaw:20141103T154500
+SUMMARY:Cubulation of small cancellation groups over free products
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Alexandre Martin (U. Wien)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2014-11-03-martin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-11-03-mar
+ tin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-11-07-kedra@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141107T100000
+DTEND;TZID=Europe/Warsaw:20141107T113000
+SUMMARY:A quasihomomorphism from braids to concordance classes of knots
+LOCATION:IMPAN\, Kopernika 18
+DESCRIPTION:Jarek Kedra (U. Aberdeen)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2014-11-07-kedra
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-11-07-ked
+ ra
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-11-17-pawlik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141117T141500
+DTEND;TZID=Europe/Warsaw:20141117T154500
+SUMMARY:Gromov boundaries of hyperbolic groups as inverse limits of polyhed
+ ra
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Dominika Pawlik (UW)\nSeminarium: Geometria\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/geometria#2014-11-17-pawlik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-11-17-paw
+ lik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-12-01-blank@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141201T141500
+DTEND;TZID=Europe/Warsaw:20141201T154500
+SUMMARY:Relative bounded cohomology via groupoids
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Matthias Blank (U. Regensburg)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-01-blank
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-01-bla
+ nk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-12-08-grytczuk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141208T141500
+DTEND;TZID=Europe/Warsaw:20141208T154500
+SUMMARY:Nonrepetitive coloring of graphs
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jarosław Grytczuk (UJ)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2014-12-08-grytczuk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-08-gry
+ tczuk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-12-15-kukiela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141215T141500
+DTEND;TZID=Europe/Warsaw:20141215T154500
+SUMMARY:Fixed points in dismantlable\, rayless posets
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Michał Kukieła (UMK)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2014-12-15-kukiela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-15-kuk
+ iela
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-12-18-lazar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141218T101500
+DTEND;TZID=Europe/Warsaw:20141218T114500
+SUMMARY:A combinatorial negative curvature condition
+LOCATION:IMPAN\, Kopernika 18
+DESCRIPTION:Ioana-Claudia Lazar (U. Timisoara)\nSeminarium: Geometria\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-18-lazar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-18-laz
+ ar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2014-12-22-czajkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141222T141500
+DTEND;TZID=Europe/Warsaw:20141222T154500
+SUMMARY:Własnosci włoknistych klastrow w perkolacji Bernoulliego
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jan Czajkowski (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2014-12-22-czajkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2014-12-22-cza
+ jkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-01-13-chalopin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150113T131500
+DTEND;TZID=Europe/Warsaw:20150113T144500
+SUMMARY:Cop and robber game and hyperbolicity
+LOCATION:sala 311\, IM UWr
+DESCRIPTION:Jérémie Chalopin (LIF Marseille)\nSeminarium: Geometria\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-01-13-chalopin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-01-13-cha
+ lopin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-02-02-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150202T141500
+DTEND;TZID=Europe/Warsaw:20150202T154500
+SUMMARY:Rzuty Kazhdana\, spacery losowe i zastosowania
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Piotr Nowak (UW)\nSeminarium: Geometria\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/geometria#2015-02-02-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-02-02-now
+ ak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-02-23-kramer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150223T141500
+DTEND;TZID=Europe/Warsaw:20150223T154500
+SUMMARY:Polar Actions and Building-like Geometries
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Linus Kramer (U. Muenster)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2015-02-23-kramer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-02-23-kra
+ mer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-03-02-blaszczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150302T141500
+DTEND;TZID=Europe/Warsaw:20150302T154500
+SUMMARY:Equivariant topological complexity of smooth Z/p-spheres
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Zbigniew Błaszczyk (UAM)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2015-03-02-blaszczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-02-bla
+ szczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-03-09-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150309T141500
+DTEND;TZID=Europe/Warsaw:20150309T154500
+SUMMARY:Kompakty Sierpinskiego jako brzegi grup Coxetera
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-09-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-09-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-03-16-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150316T141500
+DTEND;TZID=Europe/Warsaw:20150316T154500
+SUMMARY:Reprezentacje na brzegach prostokatnych budynkow hiperbolicznych
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jan Dymara (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2015-03-16-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-16-dym
+ ara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-03-23-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150323T141500
+DTEND;TZID=Europe/Warsaw:20150323T154500
+SUMMARY:n-wymiarowe kompakty Sierpinskiego jako brzegi prostokatnych grup C
+ oxetera
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-23-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-03-23-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-04-13-clais@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150413T141500
+DTEND;TZID=Europe/Warsaw:20150413T154500
+SUMMARY:Combinatorial modulus on boundaries of some right-angled hyperbolic
+  buildings
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Antoine Clais (U. Lille 1)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2015-04-13-clais
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-04-13-cla
+ is
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-05-11-baum@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150511T141500
+DTEND;TZID=Europe/Warsaw:20150511T154500
+SUMMARY:Expanders and K-theory for group C* algebras
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Paul Frank Baum (PSU)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2015-05-11-baum
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-05-11-bau
+ m
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-05-12-sawicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150512T081500
+DTEND;TZID=Europe/Warsaw:20150512T094500
+SUMMARY:Zgrupowane stożki i zgrubne zanurzenia
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Damian Sawicki (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2015-05-12-sawicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-05-12-saw
+ icki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-06-23-prytula@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150623T121500
+DTEND;TZID=Europe/Warsaw:20150623T134500
+SUMMARY:$E_{\\mathcal{VCY}}$ for systolic groups
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Tomasz Prytuła (U. Copenhagen)\nSeminarium: Geometria\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-06-23-prytula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-06-23-pry
+ tula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-09-03-chalopin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150903T101500
+DTEND;TZID=Europe/Warsaw:20150903T114500
+SUMMARY:Local-to-global characterization of Helly graphs
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jérémie Chalopin (LIF Marseille)\nSeminarium: Geometria\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-09-03-chalopin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-09-03-cha
+ lopin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-09-03-chepoi@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150903T111500
+DTEND;TZID=Europe/Warsaw:20150903T124500
+SUMMARY:COMs: complexes of oriented matroids
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Victor Chepoi (LIF Marseille)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2015-09-03-chepoi
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-09-03-che
+ poi
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-09-03-hirai@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150903T121500
+DTEND;TZID=Europe/Warsaw:20150903T134500
+SUMMARY:Some combinatorial optimization problems related to metric spaces o
+ f nonpositive curvature
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Hiroshi Hirai (U. Tokyo)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2015-09-03-hirai
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-09-03-hir
+ ai
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-10-05-marzantowicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151005T141500
+DTEND;TZID=Europe/Warsaw:20151005T154500
+SUMMARY:Twierdzenie Bourgina-Yanga dla grup p-torycznych
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Wacław Marzantowicz (UAM)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2015-10-05-marzantowicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-05-mar
+ zantowicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-10-12-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151012T141500
+DTEND;TZID=Europe/Warsaw:20151012T154500
+SUMMARY:Grupy jednostajnie proste
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jakub Gismatullin (IMPAN)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2015-10-12-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-12-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-10-19-januszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151019T141500
+DTEND;TZID=Europe/Warsaw:20151019T154500
+SUMMARY:Odwzorowania k-regularne
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Tadeusz Januszkiewicz (IMPAN/UWr)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-19-januszkiewi
+ cz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-19-jan
+ uszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-10-26-strzalkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151026T141500
+DTEND;TZID=Europe/Warsaw:20151026T154500
+SUMMARY:Lipschitz simplicial volume and piecewise straightening
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Karol Strzałkowski (IMPAN)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-26-strzalkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-10-26-str
+ zalkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-11-09-bell@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151109T141500
+DTEND;TZID=Europe/Warsaw:20151109T154500
+SUMMARY:Coarse property C and decomposition complexity
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Greg Bell (UNC Greensboro)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2015-11-09-bell
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-11-09-bel
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-11-09-nagorko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151109T151500
+DTEND;TZID=Europe/Warsaw:20151109T164500
+SUMMARY:Upper bounds in Morpion Solitaire
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Andrzej Nagórko (UW)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2015-11-09-nagorko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-11-09-nag
+ orko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-12-14-kielak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151214T141500
+DTEND;TZID=Europe/Warsaw:20151214T154500
+SUMMARY:Realizacja Nielsenowska dla wolnych produktów i prostokątnych gru
+ p Artina / Nielsen realisation for free products and right-angled Artin gr
+ oups
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Dawid Kielak (U. Bielefeld)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-14-kielak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-14-kie
+ lak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-12-21-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151221T141500
+DTEND;TZID=Europe/Warsaw:20151221T154500
+SUMMARY:Kozwarta kostkowalność 2-wymiarowych grup Artina
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Piotr Przytycki (U. McGill)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-21-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-21-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2015-12-21-prytula@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151221T151500
+DTEND;TZID=Europe/Warsaw:20151221T164500
+SUMMARY:Przestrzenie klasyfikujące dla rodzin dla graficznych grup małych
+  skreślen
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Tomasz Prytuła (U. Copenhagen)\nSeminarium: Geometria\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-21-prytula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2015-12-21-pry
+ tula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-01-18-kotowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160118T141500
+DTEND;TZID=Europe/Warsaw:20160118T154500
+SUMMARY:Random Schroedinger operators with applications to Novikov-Shubin i
+ nvariants
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Marcin Kotowski (U. Toronto)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2016-01-18-kotowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-01-18-kot
+ owski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-01-18-zusmanovich@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160118T153000
+DTEND;TZID=Europe/Warsaw:20160118T170000
+SUMMARY:Commutative Lie algebras
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Pasha Zusmanovich (U. Ostrava)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-01-18-zusmanovich
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-01-18-zus
+ manovich
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-03-21-gournay@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160321T141500
+DTEND;TZID=Europe/Warsaw:20160321T154500
+SUMMARY:The reduced $l^p$-cohomology in degree 1 and harmonic functions
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Antoine Gournay (TU Dresden)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2016-03-21-gournay
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-03-21-gou
+ rnay
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-04-04-slowik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160404T141500
+DTEND;TZID=Europe/Warsaw:20160404T154500
+SUMMARY:Inwolucje w grupach macierzy trójkątnych skończonych i nieskońc
+ zonych
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Roksana Słowik (P. Śląska)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2016-04-04-slowik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-04-04-slo
+ wik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-04-18-odrzygozdz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160418T141500
+DTEND;TZID=Europe/Warsaw:20160418T154500
+SUMMARY:Skrecone ściany w grupach losowych
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Tomasz Odrzygóźdź (IMPAN)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2016-04-18-odrzygozdz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-04-18-odr
+ zygozdz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-04-25-dolega@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160425T121500
+DTEND;TZID=Europe/Warsaw:20160425T134500
+SUMMARY:O pewnej bijekcji dotyczącej dyskretnych powierzchni
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Maciej Dołęga (UAM)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2016-04-25-dolega
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-04-25-dol
+ ega
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-05-09-antoniuk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160509T141500
+DTEND;TZID=Europe/Warsaw:20160509T154500
+SUMMARY:Gry pozycyjne typu Waiter-Client
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Sylwia Antoniuk (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2016-05-09-antoniuk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-05-09-ant
+ oniuk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-05-24-nikulin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160524T141500
+DTEND;TZID=Europe/Warsaw:20160524T154500
+SUMMARY:Arithmetic groups generated by reflections in hyperbolic spaces
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Viacheslav V. Nikulin (U. Liverpool)\nSeminarium: Geometria\nht
+ tps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-05-24-nikulin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-05-24-nik
+ ulin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-05-30-clais@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160530T141500
+DTEND;TZID=Europe/Warsaw:20160530T154500
+SUMMARY:Conformal dimension\, combinatorial modulus and right-angled buildi
+ ngs
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Antoine Clais (Technion)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2016-05-30-clais
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-05-30-cla
+ is
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-06-06-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160606T141500
+DTEND;TZID=Europe/Warsaw:20160606T154500
+SUMMARY:Burnside vs Kazhdan
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Damian Osajda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2016-06-06-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-06-06-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-06-09-church@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160609T121500
+DTEND;TZID=Europe/Warsaw:20160609T134500
+SUMMARY:Applications of representation stability
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Thomas Church (Stanford)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2016-06-09-church
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-06-09-chu
+ rch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-06-13-huang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160613T141500
+DTEND;TZID=Europe/Warsaw:20160613T154500
+SUMMARY:Uniform lattices acting on RAAG complexes
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Jingyin Huang (McGill)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2016-06-13-huang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-06-13-hua
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-06-13-bar-natan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160613T151500
+DTEND;TZID=Europe/Warsaw:20160613T164500
+SUMMARY:k-intersecting curve and arc systems on surfaces
+LOCATION:sala 711\, IM UWr
+DESCRIPTION:Assaf Bar-Natan (McGill)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2016-06-13-bar-natan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-06-13-bar
+ -natan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-10-10-januszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161010T141500
+DTEND;TZID=Europe/Warsaw:20161010T154500
+SUMMARY:Topologia uogólnionych izospektralnych macierzy tridiagonalnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tadeusz Januszkiewicz\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2016-10-10-januszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-10-10-jan
+ uszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-10-17-gal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161017T141500
+DTEND;TZID=Europe/Warsaw:20161017T154500
+SUMMARY:Topologia uogólnionych izospektralnych macierzy tridiagonalnych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Światosław Gal\nSeminarium: Geometria\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/geometria#2016-10-17-gal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-10-17-gal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-11-14-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161114T141500
+DTEND;TZID=Europe/Warsaw:20161114T154500
+SUMMARY:O silnej średniowalności grupy Thompsona
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Jakub Gismatullin\nSeminarium: Geometria\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/geometria#2016-11-14-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-11-14-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2016-11-21-zielenkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161121T141500
+DTEND;TZID=Europe/Warsaw:20161121T154500
+SUMMARY:Homomorfizm Gysina w kohomologiach ekwiwariantnych poprzez residua
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Magdalena Zielenkiewicz (UW)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2016-11-21-zielenkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2016-11-21-zie
+ lenkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-02-27-gal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170227T141500
+DTEND;TZID=Europe/Warsaw:20170227T154500
+SUMMARY:O długości(ach) na grupach Coxetera
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Światosław Gal\nSeminarium: Geometria\nhttps://im-uwr.github.
+ io/Web-Podglad/seminaria/geometria#2017-02-27-gal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-02-27-gal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-04-24-bondarenko@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170424T141500
+DTEND;TZID=Europe/Warsaw:20170424T154500
+SUMMARY:Automaton groups and square complexes
+LOCATION:audytorium im. Stanisława Hartmana
+DESCRIPTION:Eugeniusz Bondarenko (Uniwersytet Kijowski)\nSeminarium: Geomet
+ ria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-04-24-b
+ ondarenko
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-04-24-bon
+ darenko
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-06-12-maciazek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170612T141500
+DTEND;TZID=Europe/Warsaw:20170612T154500
+SUMMARY:Grupy homologii dla nierozróżnialnych cząstek na 1-spójnych gra
+ fach
+LOCATION:audytorium im. Stanisława Hartmana
+DESCRIPTION:Tomasz Maciążek (CFT PAN)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2017-06-12-maciazek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-06-12-mac
+ iazek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-10-02-kielak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171002T141500
+DTEND;TZID=Europe/Warsaw:20171002T154500
+SUMMARY:The smallest quotients of $\\mathrm{Out}(F_n)$ and mapping class gr
+ oups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Dawid Kielak (U. Bielefeld)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-02-kielak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-02-kie
+ lak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-10-09-mimura@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171009T141500
+DTEND;TZID=Europe/Warsaw:20171009T154500
+SUMMARY:BG\, or not BG: upgrading fixed points
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Masato Mimura (EPFL)\nSeminarium: Geometria\nhttps://im-uwr.git
+ hub.io/Web-Podglad/seminaria/geometria#2017-10-09-mimura
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-09-mim
+ ura
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-10-16-lang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171016T141500
+DTEND;TZID=Europe/Warsaw:20171016T154500
+SUMMARY:Higher rank hyperbolicity in spaces of nonpositive curvature
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Urs Lang (ETH Zurich)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2017-10-16-lang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-16-lan
+ g
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-10-20-weber@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171020T141500
+DTEND;TZID=Europe/Warsaw:20171020T154500
+SUMMARY:Klasy Hirzebrucha macierzowych klatek Schuberta
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Andrzej Weber (UW)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2017-10-20-weber
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-20-web
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-10-23-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171023T141500
+DTEND;TZID=Europe/Warsaw:20171023T154500
+SUMMARY:Quadric Complexes
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Nima Hoda (McGill)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2017-10-23-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-10-23-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-11-06-frej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171106T141500
+DTEND;TZID=Europe/Warsaw:20171106T154500
+SUMMARY:Minimal models for actions of amenable groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Bartosz Frej (PWr.)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2017-11-06-frej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-11-06-fre
+ j
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-11-13-jez@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171113T141500
+DTEND;TZID=Europe/Warsaw:20171113T154500
+SUMMARY:Solving word equations in free groups and RAAGs by recompression
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Artur Jeż (IIUWr.)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2017-11-13-jez
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-11-13-jez
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-11-20-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171120T141500
+DTEND;TZID=Europe/Warsaw:20171120T154500
+SUMMARY:Quadric Complexes II
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Nima Hoda (McGill)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2017-11-20-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-11-20-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-11-27-o-buachalla@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171127T141500
+DTEND;TZID=Europe/Warsaw:20171127T154500
+SUMMARY:Spectral Triples and Quantum Homogeneous Kähler Spaces
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Réamonn Ó Buachalla (U. Karlova)\nSeminarium: Geometria\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-11-27-o-buachall
+ a
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-11-27-o-b
+ uachalla
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-12-04-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171204T141500
+DTEND;TZID=Europe/Warsaw:20171204T154500
+SUMMARY:Two-dimensional Artin groups and systolicity
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Damian Osajda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2017-12-04-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-12-04-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-12-11-nowak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171211T141500
+DTEND;TZID=Europe/Warsaw:20171211T154500
+SUMMARY:Teoria Dunkla - wprowadzenie
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Adam Nowak (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2017-12-11-nowak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-12-11-now
+ ak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2017-12-20-huang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171220T161500
+DTEND;TZID=Europe/Warsaw:20171220T174500
+SUMMARY:The asymptotic geometry of 2-dimensional Artin groups
+LOCATION:sala 607\, IM UWr
+DESCRIPTION:Jingyin Huang (MPIM Bonn)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2017-12-20-huang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2017-12-20-hua
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-01-08-huczek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180108T141500
+DTEND;TZID=Europe/Warsaw:20180108T154500
+SUMMARY:Tilings of amenable groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Dawid Huczek (PWr.)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2018-01-08-huczek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-01-08-huc
+ zek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-01-23-antasik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180123T141500
+DTEND;TZID=Europe/Warsaw:20180123T154500
+SUMMARY:Odzyskiwanie podrozmaitości ze skończonej próbki punktów
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Aleksander Antasik (IM UWr)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2018-01-23-antasik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-01-23-ant
+ asik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-01-29-chung@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180129T141500
+DTEND;TZID=Europe/Warsaw:20180129T154500
+SUMMARY:Structure and rigidity of $\\ell^p$ uniform Roe algebras
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Yeong Chyuan Chung (IMPAN)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2018-01-29-chung
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-01-29-chu
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-02-26-prytula@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180226T141500
+DTEND;TZID=Europe/Warsaw:20180226T154500
+SUMMARY:Classifying space for proper actions for groups admitting a strict 
+ fundamental domain
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Tomasz Prytuła (U. Southampton)\nSeminarium: Geometria\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-02-26-prytula
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-02-26-pry
+ tula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-03-12-bogopolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180312T141500
+DTEND;TZID=Europe/Warsaw:20180312T154500
+SUMMARY:Equations in acylindrically hyperbolic groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oleg Bogopolski (U. Düsseldorf)\nSeminarium: Geometria\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-03-12-bogopolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-03-12-bog
+ opolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-04-16-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180416T141500
+DTEND;TZID=Europe/Warsaw:20180416T154500
+SUMMARY:O czym dowiedziałem się ostatnio na temat grup relatywnie hiperbo
+ licznych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2018-04-16-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-04-16-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-04-23-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180423T141500
+DTEND;TZID=Europe/Warsaw:20180423T154500
+SUMMARY:O czym jeszcze dowiedziałem się ostatnio na temat grup relatywnie
+  hiperbolicznych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2018-04-23-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-04-23-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-05-21-sabok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180521T141500
+DTEND;TZID=Europe/Warsaw:20180521T154500
+SUMMARY:O wiązkach promieni geodezyjnych w grupach hiperbolicznych
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marcin Sabok (U. McGill)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2018-05-21-sabok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-05-21-sab
+ ok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-06-27-martin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180627T141500
+DTEND;TZID=Europe/Warsaw:20180627T154500
+SUMMARY:On the automorphism group of cyclic products of groups
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Alexandre Martin (Heriot-Watt U.)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-06-27-martin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-06-27-mar
+ tin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-10-30-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181030T101500
+DTEND;TZID=Europe/Warsaw:20181030T114500
+SUMMARY:Klasy charakterystyczne wiązek płaskich
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jan Dymara\nSeminarium: Geometria\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/geometria#2018-10-30-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-10-30-dym
+ ara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-11-06-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181106T101500
+DTEND;TZID=Europe/Warsaw:20181106T114500
+SUMMARY:Klasy charakterystyczne wiązek płaskich
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jan Dymara\nSeminarium: Geometria\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/geometria#2018-11-06-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-11-06-dym
+ ara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-11-13-sojka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181113T101500
+DTEND;TZID=Europe/Warsaw:20181113T114500
+SUMMARY:Równoważność przez rozkład
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Bartosz Sójka\nSeminarium: Geometria\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/geometria#2018-11-13-sojka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-11-13-soj
+ ka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-11-27-januszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181127T101500
+DTEND;TZID=Europe/Warsaw:20181127T114500
+SUMMARY:Hiperbolizacje
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Tadeusz Januszkiewicz\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2018-11-27-januszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-11-27-jan
+ uszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-12-04-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181204T101500
+DTEND;TZID=Europe/Warsaw:20181204T114500
+SUMMARY:Drzewa grafów jako brzegi Gromova grup hiperbolicznych
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jacek Świątkowski\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2018-12-04-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-12-04-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2018-12-17-czajkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181217T121500
+DTEND;TZID=Europe/Warsaw:20181217T134500
+SUMMARY:Magiczny lemat hiperboliczny (wg. Hutchcrofta)
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jan Czajkowski\nSeminarium: Geometria\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/geometria#2018-12-17-czajkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2018-12-17-cza
+ jkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-01-08-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190108T101500
+DTEND;TZID=Europe/Warsaw:20190108T114500
+SUMMARY:Drzewa grafów jako brzegi Gromova grup hiperbolicznych
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jacek Świątkowski\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2019-01-08-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-01-08-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-01-18-ziegler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190118T131500
+DTEND;TZID=Europe/Warsaw:20190118T144500
+SUMMARY:A model–theoretic study of right–angled buildings
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Martin Ziegler (Universität Freiburg)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-01-18-ziegle
+ r
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-01-18-zie
+ gler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-01-29-marcinkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190129T101500
+DTEND;TZID=Europe/Warsaw:20190129T114500
+SUMMARY:Grupy transformacji zachowujących objętość i ograniczone kohomo
+ logie
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Michał Marcinkowski (IM PAN)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2019-01-29-marcinkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-01-29-mar
+ cinkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-02-25-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190225T141500
+DTEND;TZID=Europe/Warsaw:20190225T154500
+SUMMARY:Shortcut graphs and groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Nima Hoda\nSeminarium: Geometria\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/geometria#2019-02-25-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-02-25-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-04-15-brandenburski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190415T141500
+DTEND;TZID=Europe/Warsaw:20190415T154500
+SUMMARY:Fragmentation norm and relative quasimorphisms
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Michał Brandenburski (Ben Gurion U.)\nSeminarium: Geometria\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-04-15-branden
+ burski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-04-15-bra
+ ndenburski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-05-06-zakharov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190506T141500
+DTEND;TZID=Europe/Warsaw:20190506T154500
+SUMMARY:On commensurability of right–angled Artin groups and Baumslag–S
+ olitar groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Alexander Zakharov (Euskal Herriko Unibertsitatea)\nSeminarium:
+  Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-
+ 05-06-zakharov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-05-06-zak
+ harov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-09-25-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190925T141500
+DTEND;TZID=Europe/Warsaw:20190925T154500
+SUMMARY:Crystallographic Helly groups
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Nima Hoda\nSeminarium: Geometria\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/geometria#2019-09-25-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-09-25-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-10-02-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191002T141500
+DTEND;TZID=Europe/Warsaw:20191002T154500
+SUMMARY:Torsion groups do not act on 2-dimensional CAT(0) complexes
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Damian Osajda\nSeminarium: Geometria\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/geometria#2019-10-02-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-10-02-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-10-09-kedra@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191009T141500
+DTEND;TZID=Europe/Warsaw:20191009T154500
+SUMMARY:Boundedness properties of groups
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jarek Kędra (U. Aberdeen)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2019-10-09-kedra
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-10-09-ked
+ ra
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-10-16-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191016T141500
+DTEND;TZID=Europe/Warsaw:20191016T154500
+SUMMARY:Group actions on quasi-median graphs and acylindrical hyperbolicity
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Motiejus Valiunas\nSeminarium: Geometria\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/geometria#2019-10-16-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-10-16-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-10-23-czapp@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191023T141500
+DTEND;TZID=Europe/Warsaw:20191023T154500
+SUMMARY:A constructive approach to Markov compacta
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Mikołaj Czapp (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2019-10-23-czapp
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-10-23-cza
+ pp
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-10-30-frej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191030T141500
+DTEND;TZID=Europe/Warsaw:20191030T154500
+SUMMARY:On an ergodic theorem for actions of amenable groups
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Bartosz Frej (PWr)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2019-10-30-frej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-10-30-fre
+ j
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-11-06-prytula@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191106T144500
+DTEND;TZID=Europe/Warsaw:20191106T161500
+SUMMARY:Commensurators of abelian subgroups in CAT(0) groups
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Tomasz Prytuła (Danmarks Tekniske U.)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-11-06-prytul
+ a
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-11-06-pry
+ tula
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-11-06-huczek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191106T161500
+DTEND;TZID=Europe/Warsaw:20191106T174500
+SUMMARY:Extensions of full shifts with amenable group actions
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Dawid Huczek (PWr.)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2019-11-06-huczek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-11-06-huc
+ zek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-11-27-doucha@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191127T141500
+DTEND;TZID=Europe/Warsaw:20191127T154500
+SUMMARY:Property (T)\, quantitative Wang's theorem\, and generic unitary re
+ presentations
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Michal Doucha (Czech Academy of Sciences)\nSeminarium: Geometri
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-11-27-dou
+ cha
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-11-27-dou
+ cha
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-12-04-trost@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191204T130000
+DTEND;TZID=Europe/Warsaw:20191204T143000
+SUMMARY:Normal generation of Split Chevalley groups
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexander Trost (U. Aberdeen)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-04-trost
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-04-tro
+ st
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-12-04-karlhofer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191204T144500
+DTEND;TZID=Europe/Warsaw:20191204T161500
+SUMMARY:Asymptotic Cones for conjugation invariant groups
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Bastien Karlhofer (U. Aberdeen)\nSeminarium: Geometria\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-04-karlhofer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-04-kar
+ lhofer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-12-11-czajkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191211T141500
+DTEND;TZID=Europe/Warsaw:20191211T154500
+SUMMARY:Percolation on hyperbolic groups: boundary dimension of a cluster
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Jan Czajkowski (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2019-12-11-czajkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-11-cza
+ jkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2019-12-18-alekseev@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191218T141500
+DTEND;TZID=Europe/Warsaw:20191218T154500
+SUMMARY:Maximal amenable subgroups of arithmetic groups and their von Neuma
+ nn algebras
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Vadim Alekseev (TU Dresden)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-18-alekseev
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2019-12-18-ale
+ kseev
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-01-08-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200108T151500
+DTEND;TZID=Europe/Warsaw:20200108T164500
+SUMMARY:Amenability and Computability
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Karol Duda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2020-01-08-duda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-01-08-dud
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-01-15-danielski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200115T141500
+DTEND;TZID=Europe/Warsaw:20200115T154500
+SUMMARY:Right-angled Coxeter groups with Menger curve boundary
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Daniel Danielski (IM UWr)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2020-01-15-danielski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-01-15-dan
+ ielski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-01-22-hebisch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200122T141500
+DTEND;TZID=Europe/Warsaw:20200122T154500
+SUMMARY:Całkowanie symboliczne w duchu Abela i Liouvilla
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Waldemar Hebisch (IM UWr)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2020-01-22-hebisch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-01-22-heb
+ isch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-02-05-zakharov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200205T141500
+DTEND;TZID=Europe/Warsaw:20200205T154500
+SUMMARY:Commensurability of Baumslag-Solitar groups
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Sasha Zakharov (St. Petersburg State U.)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-02-05-zakh
+ arov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-02-05-zak
+ harov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-03-04-januszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200304T141500
+DTEND;TZID=Europe/Warsaw:20200304T154500
+SUMMARY:Actions with sections
+LOCATION:sala 606\, IM UWr
+DESCRIPTION:Tadeusz Januszkiewicz (IMPAN)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2020-03-04-januszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-03-04-jan
+ uszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-04-28-januszkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200428T121500
+DTEND;TZID=Europe/Warsaw:20200428T134500
+SUMMARY:Some new invariants of manifolds.
+LOCATION:webinar
+DESCRIPTION:Tadeusz Januszkiewicz (IMPAN)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2020-04-28-januszkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-04-28-jan
+ uszkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-05-26-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200526T121500
+DTEND;TZID=Europe/Warsaw:20200526T134500
+SUMMARY:Ultragranice grup metrycznych
+LOCATION:webinar
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2020-05-26-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-05-26-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-06-09-huang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200609T141500
+DTEND;TZID=Europe/Warsaw:20200609T154500
+SUMMARY:Morse quasiflats
+LOCATION:webinar
+DESCRIPTION:Jingyin Huang (Ohio State U.)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-09-huang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-09-hua
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-06-16-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200616T141500
+DTEND;TZID=Europe/Warsaw:20200616T154500
+SUMMARY:Crystallographic representations of finite Coxeter groups and appli
+ cations to virology
+LOCATION:webinar
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2020-06-16-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-16-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-06-23-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200623T151500
+DTEND;TZID=Europe/Warsaw:20200623T164500
+SUMMARY:Hyperbolic groups whose Gromov boundaries are trees of graphs
+LOCATION:webinar
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-23-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-23-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-06-30-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200630T141500
+DTEND;TZID=Europe/Warsaw:20200630T154500
+SUMMARY:Groups containing expanders
+LOCATION:webinar
+DESCRIPTION:Damian Osajda (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2020-06-30-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-06-30-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-12-01-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201201T141500
+DTEND;TZID=Europe/Warsaw:20201201T154500
+SUMMARY:Boundaries of hyperbolic Coxeter groups in low dimensions - a surve
+ y
+LOCATION:webinar
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2020-12-01-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-12-01-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-12-08-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201208T141500
+DTEND;TZID=Europe/Warsaw:20201208T154500
+SUMMARY:Helly Groups
+LOCATION:webinar
+DESCRIPTION:Damian Osajda (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2020-12-08-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-12-08-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2020-12-15-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20201215T141500
+DTEND;TZID=Europe/Warsaw:20201215T154500
+SUMMARY:Helly groups and relative hyperbolicity
+LOCATION:webinar
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2020-12-15-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2020-12-15-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-01-19-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210119T141500
+DTEND;TZID=Europe/Warsaw:20210119T154500
+SUMMARY:Tail equivalence of unicorn paths
+LOCATION:webinar
+DESCRIPTION:Piotr Przytycki (McGill U.)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-01-19-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-01-19-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-01-26-zakharov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210126T141500
+DTEND;TZID=Europe/Warsaw:20210126T154500
+SUMMARY:Some algorithmic problems about subgroups in RAAGs
+LOCATION:webinar
+DESCRIPTION:Alexander Zakharov (IM UWr)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-01-26-zakharov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-01-26-zak
+ harov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-02-02-membrillo-solis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210202T141500
+DTEND;TZID=Europe/Warsaw:20210202T154500
+SUMMARY:Detecting the singular points of an orbifold via its Hodge-Laplace 
+ spectrum
+LOCATION:webinar
+DESCRIPTION:Ingrid Membrillo Solis (U. Southampton)\nSeminarium: Geometria\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-02-02-membr
+ illo-solis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-02-02-mem
+ brillo-solis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-03-02-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210302T141500
+DTEND;TZID=Europe/Warsaw:20210302T154500
+SUMMARY:Leary–Minasyan groups and their classification up to isomorphism
+LOCATION:webinar
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2021-03-02-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-03-02-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-03-30-varghese@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;VALUE=DATE:20210330
+DTEND;VALUE=DATE:20210331
+SUMMARY:Automatic continuity from a geometric perspective
+DESCRIPTION:Olga Varghese (U. Münster)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-03-30-varghese
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-03-30-var
+ ghese
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-04-13-huang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210413T141500
+DTEND;TZID=Europe/Warsaw:20210413T154500
+SUMMARY:Measure equivalence rigidity of 2-dimensional Artin groups of hyper
+ bolic type
+LOCATION:webinar
+DESCRIPTION:Jingyin Huang (Ohio State U.)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-13-huang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-13-hua
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-04-20-marcinkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210420T141500
+DTEND;TZID=Europe/Warsaw:20210420T154500
+SUMMARY:A simple proof that the L_p-diameter of Diff_0(S\, area) is infinit
+ e
+LOCATION:webinar
+DESCRIPTION:Michał Marcinkowski (IM UWr)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-20-marcinkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-20-mar
+ cinkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-04-27-haettel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210427T141500
+DTEND;TZID=Europe/Warsaw:20210427T154500
+SUMMARY:Group actions on injective metric spaces
+LOCATION:webinar
+DESCRIPTION:Thomas Haettel (U. Montpellier)\nSeminarium: Geometria\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-27-haettel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-04-27-hae
+ ttel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-05-11-bogopolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210511T141500
+DTEND;TZID=Europe/Warsaw:20210511T154500
+SUMMARY:Exponential equations in groups
+LOCATION:webinar
+DESCRIPTION:Oleg Bogopolski (Dusseldorf University)\nSeminarium: Geometria\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-05-11-bogop
+ olski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-05-11-bog
+ opolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-05-18-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210518T141500
+DTEND;TZID=Europe/Warsaw:20210518T154500
+SUMMARY:Growth series of Coxeter groups
+LOCATION:webinar
+DESCRIPTION:Jan Dymara (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2021-05-18-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-05-18-dym
+ ara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-05-25-gismatullin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210525T141500
+DTEND;TZID=Europe/Warsaw:20210525T154500
+SUMMARY:Surjunctivity\, dual surjunctivity and Kaplansky conjectures
+LOCATION:webinar
+DESCRIPTION:Jakub Gismatullin (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2021-05-25-gismatullin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-05-25-gis
+ matullin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-09-23-brandenbursky@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210923T111500
+DTEND;TZID=Europe/Warsaw:20210923T124500
+SUMMARY:$C^0$-gap between entropy-zero Hamiltonians and autonomous diffeomo
+ rphisms of surfaces
+DESCRIPTION:Michael Brandenbursky (Ben-Gurion U.)\nSeminarium: Geometria\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-09-23-branden
+ bursky
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-09-23-bra
+ ndenbursky
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-10-04-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211004T100000
+DTEND;TZID=Europe/Warsaw:20211004T113000
+SUMMARY:Groups acting almost freely on 2-dimensional CAT(0) complexes satis
+ fy the Tits Alternative
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Piotr Przytycki (McGill U.)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-04-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-04-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-10-04-sabok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211004T113000
+DTEND;TZID=Europe/Warsaw:20211004T130000
+SUMMARY:Hyperfiniteness of boundary actions
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Marcin Sabok (McGill U.)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2021-10-04-sabok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-04-sab
+ ok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-10-12-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211012T151500
+DTEND;TZID=Europe/Warsaw:20211012T164500
+SUMMARY:CAT(0) groups and biautomaticity
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2021-10-12-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-12-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-10-19-zakharov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211019T151500
+DTEND;TZID=Europe/Warsaw:20211019T164500
+SUMMARY:Intersection of subgroups in virtually free groups and virtually fr
+ ee products
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Alexander Zakharov (IM UWr)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-19-zakharov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-19-zak
+ harov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-10-26-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211026T151500
+DTEND;TZID=Europe/Warsaw:20211026T164500
+SUMMARY:Torsion subgroups of C(4)–T(4) small cancellation groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Karol Duda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2021-10-26-duda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-10-26-dud
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-11-02-swiecicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211102T151500
+DTEND;TZID=Europe/Warsaw:20211102T164500
+SUMMARY:There is no equivariant coarse embedding of $L^p$ into $\\ell^p$
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Krzysztof Święcicki (PWr)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-02-swiecicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-02-swi
+ ecicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-11-16-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211116T143000
+DTEND;TZID=Europe/Warsaw:20211116T160000
+SUMMARY:Tree systems and trees of graphs as boundaries of hyperbolic groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-16-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-16-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-11-23-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211123T143000
+DTEND;TZID=Europe/Warsaw:20211123T160000
+SUMMARY:Tree systems and trees of graphs as boundaries of hyperbolic groups
+  II
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-23-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-11-23-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2021-12-14-huang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211214T143000
+DTEND;TZID=Europe/Warsaw:20211214T160000
+SUMMARY:Orbit equivalence rigidity of irreducible actions of right-angled A
+ rtin groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Jingyin Huang (Ohio State U.)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2021-12-14-huang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2021-12-14-hua
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-03-08-vaskou@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220308T143000
+DTEND;TZID=Europe/Warsaw:20220308T160000
+SUMMARY:The isomorphism problem for Artin groups.
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Nicolas Vaskou (Heriot-Watt University)\nSeminarium: Geometria\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-03-08-vasko
+ u
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-03-08-vas
+ kou
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-03-15-wiecek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220315T153000
+DTEND;TZID=Europe/Warsaw:20220315T170000
+SUMMARY:Multiorders in amenable group actions
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Mateusz Więcek (PWr)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2022-03-15-wiecek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-03-15-wie
+ cek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-03-22-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220322T141500
+DTEND;TZID=Europe/Warsaw:20220322T154500
+SUMMARY:Locally elliptic actions and nonpositive curvature
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Damian Osajda (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2022-03-22-osajda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-03-22-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-04-11-kedra@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220411T121500
+DTEND;TZID=Europe/Warsaw:20220411T134500
+SUMMARY:On asymptotic cones of bi-invariant metrics.
+LOCATION:sala A\, IM UWr
+DESCRIPTION:Jarek Kędra (U. Aberdeen)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2022-04-11-kedra
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-04-11-ked
+ ra
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-04-26-trost@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220426T141500
+DTEND;TZID=Europe/Warsaw:20220426T154500
+SUMMARY:Non-discrete\, conjugation-invariant norms on $\\mathrm{SL}_n$ and 
+ their rigidity
+LOCATION:webinar
+DESCRIPTION:Alexander Trost (Ruhr-Universität Bochum)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-04-26-tr
+ ost
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-04-26-tro
+ st
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-05-10-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220510T141500
+DTEND;TZID=Europe/Warsaw:20220510T154500
+SUMMARY:Torsion subgroups of C(6) small cancellation groups I
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Karol Duda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2022-05-10-duda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-05-10-dud
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-05-17-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220517T141500
+DTEND;TZID=Europe/Warsaw:20220517T154500
+SUMMARY:Torsion subgroups of C(6) small cancellation groups II
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Karol Duda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2022-05-17-duda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-05-17-dud
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-05-24-gal@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220524T141500
+DTEND;TZID=Europe/Warsaw:20220524T154500
+SUMMARY:Semi-bounded cohomology
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Światosław Gal (IM UWr)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2022-05-24-gal
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-05-24-gal
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-05-31-abrams@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220531T141500
+DTEND;TZID=Europe/Warsaw:20220531T154500
+SUMMARY:Entropy for (a\,b)-continued fraction maps
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Adam Abrams (PWr)\nSeminarium: Geometria\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/geometria#2022-05-31-abrams
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-05-31-abr
+ ams
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-06-07-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220607T141500
+DTEND;TZID=Europe/Warsaw:20220607T154500
+SUMMARY:The functoriality of graph algebras and pushout-to-pullback theorem
+ s
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2022-06-07-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-06-07-haj
+ ac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-06-14-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220614T141500
+DTEND;TZID=Europe/Warsaw:20220614T154500
+SUMMARY:Tree of graph boundaries of hyperbolic groups
+LOCATION:webinar
+DESCRIPTION:Nima Hoda (École Normale Supérieure)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-06-14-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-06-14-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-06-21-trost@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220621T141500
+DTEND;TZID=Europe/Warsaw:20220621T154500
+SUMMARY:Elementary bounded generation for Chevalley groups over global func
+ tion fields and some applications
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Alexander Trost (Ruhr-Universität Bochum)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-06-21-tr
+ ost
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-06-21-tro
+ st
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-10-17-trost@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221017T161500
+DTEND;TZID=Europe/Warsaw:20221017T174500
+SUMMARY:Conjugation-invariant norms on $\\mathrm{SL}_2(R)$ for rings of int
+ egers with infinitely many units
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Alexander Trost (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2022-10-17-trost
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-10-17-tro
+ st
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-11-14-milizia@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221114T161500
+DTEND;TZID=Europe/Warsaw:20221114T174500
+SUMMARY:Weakly bounded cohomology classes
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Francesco Milizia (Scuola Normale Superiore\, Pisa)\nSeminarium
+ : Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022
+ -11-14-milizia
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-11-14-mil
+ izia
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-11-21-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221121T161500
+DTEND;TZID=Europe/Warsaw:20221121T174500
+SUMMARY:Splittings of simplicial complexes and of Coxeter groups.
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2022-11-21-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-11-21-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-11-28-swiatkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221128T161500
+DTEND;TZID=Europe/Warsaw:20221128T174500
+SUMMARY:Splittings of simplicial complexes and of Coxeter groups II.
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jacek Świątkowski (IM UWr)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2022-11-28-swiatkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-11-28-swi
+ atkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-12-12-goldstein@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221212T161500
+DTEND;TZID=Europe/Warsaw:20221212T174500
+SUMMARY:Approximation of $C^1$ mappings with non-maximal rank of the deriva
+ tive.
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Paweł Goldstein (UW)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2022-12-12-goldstein
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-12-gol
+ dstein
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-12-19-antasik@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221219T161500
+DTEND;TZID=Europe/Warsaw:20221219T174500
+SUMMARY:Rational approximation of surface group representations
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Aleksander Antasik (IM UWr)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-19-antasik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-19-ant
+ asik
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-12-22-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221222T154500
+DTEND;TZID=Europe/Warsaw:20221222T171500
+SUMMARY:Tits alternative for the 3-dimensional tame automorphism group
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Piotr Przytycki (McGill U.)\nSeminarium: Geometria\nhttps://im-
+ uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-22-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-22-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2022-12-22-sabok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221222T170000
+DTEND;TZID=Europe/Warsaw:20221222T183000
+SUMMARY:Perfect matchings in hyperfinite graphings
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Marcin Sabok (McGill U.)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2022-12-22-sabok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2022-12-22-sab
+ ok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-01-23-santos@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230123T161500
+DTEND;TZID=Europe/Warsaw:20230123T174500
+SUMMARY:The cohomology of classical arithmetic groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Yuri Santos (Otto von Guericke University Magdeburg)\nSeminariu
+ m: Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#202
+ 3-01-23-santos
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-01-23-san
+ tos
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-01-30-hughes@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230130T161500
+DTEND;TZID=Europe/Warsaw:20230130T174500
+SUMMARY:Algebraic fibring and finite quotients
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Sam Hughes (University of Oxford)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-01-30-hughes
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-01-30-hug
+ hes
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-02-06-nitsche@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230206T161500
+DTEND;TZID=Europe/Warsaw:20230206T174500
+SUMMARY:Computer proofs for Property (T)\, and SDP duality
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Martin Nitsche (Karlsruhe Institute of Technology)\nSeminarium:
+  Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-
+ 02-06-nitsche
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-02-06-nit
+ sche
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-02-27-minasyan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230227T141500
+DTEND;TZID=Europe/Warsaw:20230227T154500
+SUMMARY:Virtual combination of relatively quasiconvex subgroups and separab
+ ility properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Ashot Minasyan (University of Southampton)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-02-27-mi
+ nasyan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-02-27-min
+ asyan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-04-03-andrew@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230403T141500
+DTEND;TZID=Europe/Warsaw:20230403T154500
+SUMMARY:Outer Automorphisms via Bass-Serre theory
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Naomi Andrew (University of Oxford)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-03-andrew
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-03-and
+ rew
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-04-17-bier@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230417T161500
+DTEND;TZID=Europe/Warsaw:20230417T174500
+SUMMARY:Exponential equations in acylindrically hyperbolic groups Part 1
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Agnieszka Bier (Silesian University of Technology)\nSeminarium:
+  Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-
+ 04-17-bier
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-17-bie
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-04-18-bogopolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230418T121500
+DTEND;TZID=Europe/Warsaw:20230418T134500
+SUMMARY:Exponential equations in acylindrically hyperbolic groups Part 2
+LOCATION:sala A\, IM UWr
+DESCRIPTION:Oleg Bogopolski (University of Szczecin)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-18-bogo
+ polski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-18-bog
+ opolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-04-24-kaluba@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230424T141500
+DTEND;TZID=Europe/Warsaw:20230424T154500
+SUMMARY:Kazhdan constants by root systems
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Marek Kaluba (Karlsruhe Institute of Technology)\nSeminarium: G
+ eometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04
+ -24-kaluba
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-04-24-kal
+ uba
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-05-08-michalak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230508T141500
+DTEND;TZID=Europe/Warsaw:20230508T154500
+SUMMARY:Reeb graph invariants of Morse functions\, manifolds and groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Łukasz Michalak (UAM)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2023-05-08-michalak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-05-08-mic
+ halak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-05-22-keppeler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230522T141500
+DTEND;TZID=Europe/Warsaw:20230522T154500
+SUMMARY:Automatic continuity
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Daniel Keppeler (University of Münster)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-05-22-kepp
+ eler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-05-22-kep
+ peler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-05-23-weber@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230523T161500
+DTEND;TZID=Europe/Warsaw:20230523T174500
+SUMMARY:Igusa zeta function\, its topological and motivic version and a con
+ nection with elliptic genus
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Andrzej Weber (UW)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2023-05-23-weber
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-05-23-web
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-06-05-ventura@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230605T141500
+DTEND;TZID=Europe/Warsaw:20230605T154500
+SUMMARY:On the existence of finitely presented intersection-saturated group
+ s
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Enric Ventura (Universitat Politècnica de Catalunya)\nSeminari
+ um: Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#20
+ 23-06-05-ventura
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-06-05-ven
+ tura
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-10-23-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231023T141500
+DTEND;TZID=Europe/Warsaw:20231023T154500
+SUMMARY:Trace monoids and RAAGs in one-relator groups
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2023-10-23-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-10-23-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-10-30-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231030T141500
+DTEND;TZID=Europe/Warsaw:20231030T154500
+SUMMARY:Coxeter groups are biautomatic
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Damian Osajda (University of Copenhagen)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-10-30-osaj
+ da
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-10-30-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-11-20-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231120T141500
+DTEND;TZID=Europe/Warsaw:20231120T154500
+SUMMARY:Automorphisms of wreath products and central sums
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Konrad Wróbel (Uniwersytet Jagielloński)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-11-20-wr
+ obel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-11-20-wro
+ bel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2023-12-11-ferrari@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231211T141500
+DTEND;TZID=Europe/Warsaw:20231211T154500
+SUMMARY:Geometric Bordism and Riemann Surfaces with Large Automorphism Grou
+ ps
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Leonardo Ferrari (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2023-12-11-ferrari
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2023-12-11-fer
+ rari
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-01-08-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240108T141500
+DTEND;TZID=Europe/Warsaw:20240108T154500
+SUMMARY:Mapping class groups of flat orbifolds\, Part I: The classifying sp
+ ace
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2024-01-08-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-01-08-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-01-15-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240115T141500
+DTEND;TZID=Europe/Warsaw:20240115T154500
+SUMMARY:Mapping class groups of flat orbifolds\, Part II: Description up to
+  commensurability
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2024-01-15-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-01-15-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-01-22-lopez-neumann@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240122T141500
+DTEND;TZID=Europe/Warsaw:20240122T154500
+SUMMARY:On the $L^p$-cohomology of semisimple groups and buildings
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Antonio López-Neumann (IMPAN)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-01-22-lopez-neumann
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-01-22-lop
+ ez-neumann
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-01-29-mizerka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240129T141500
+DTEND;TZID=Europe/Warsaw:20240129T154500
+SUMMARY:Group ring aspects of cohomological properties
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Piotr Mizerka (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2024-01-29-mizerka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-01-29-miz
+ erka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-03-25-martino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240325T141500
+DTEND;TZID=Europe/Warsaw:20240325T154500
+SUMMARY:The conjugacy problem for $\\mathrm{Out}(F_3)$
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Armando Martino (University of Southampton)\nSeminarium: Geomet
+ ria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-03-25-m
+ artino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-03-25-mar
+ tino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-04-15-zielenkiewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240415T141500
+DTEND;TZID=Europe/Warsaw:20240415T154500
+SUMMARY:Equivariant K-theory\, Hilbert scheme of points and the symmetric g
+ roup
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Magdalena Zielenkiewicz (Uniwersytet Warszawski)\nSeminarium: G
+ eometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-04
+ -15-zielenkiewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-04-15-zie
+ lenkiewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-10-07-kandybo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241007T141500
+DTEND;TZID=Europe/Warsaw:20241007T154500
+SUMMARY:Around biautomaticity of CAT(0) triangle-square groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Mateusz Kandybo (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2024-10-07-kandybo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-10-07-kan
+ dybo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-10-21-zbinden@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241021T141500
+DTEND;TZID=Europe/Warsaw:20241021T154500
+SUMMARY:Morse directions in classical small cancellation groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Stefanie Zbinden (Heriot-Watt University)\nSeminarium: Geometri
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-10-21-zbi
+ nden
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-10-21-zbi
+ nden
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-11-04-blufstein@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241104T141500
+DTEND;TZID=Europe/Warsaw:20241104T154500
+SUMMARY:Homomorphisms between large-type Artin groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Martín Blufstein (University of Copenhagen)\nSeminarium: Geome
+ tria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-04-
+ blufstein
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-04-blu
+ fstein
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-11-18-bogopolski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241118T141500
+DTEND;TZID=Europe/Warsaw:20241118T154500
+SUMMARY:Upper bound on the orders of non-parabolic finite subgroups of rela
+ tively hyperbolic groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Oleg Bogopolski (Uniwersytet Szczeciński)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-18-bo
+ gopolski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-18-bog
+ opolski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-11-25-soergel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241125T141500
+DTEND;TZID=Europe/Warsaw:20241125T154500
+SUMMARY:Dyer groups: Coxeter groups\, right-angled Artin groups and more...
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Mireille Soergel (MPI Leipzig)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-25-soergel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-11-25-soe
+ rgel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-12-02-linton@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241202T141500
+DTEND;TZID=Europe/Warsaw:20241202T154500
+SUMMARY:The geometry of free-by-cyclic groups.
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Marco Linton (ICMAT\, Madrid)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2024-12-02-linton
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-12-02-lin
+ ton
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2024-12-16-shepherd@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241216T141500
+DTEND;TZID=Europe/Warsaw:20241216T154500
+SUMMARY:Product separability for special cube complexes
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Sam Shepherd (University of Münster)\nSeminarium: Geometria\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-12-16-shepher
+ d
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2024-12-16-she
+ pherd
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-01-13-arenas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250113T141500
+DTEND;TZID=Europe/Warsaw:20250113T154500
+SUMMARY:Taut smoothings and shortest geodesics
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Macarena Arenas (University of Cambridge)\nSeminarium: Geometri
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-01-13-are
+ nas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-01-13-are
+ nas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-01-27-kudlinska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250127T141500
+DTEND;TZID=Europe/Warsaw:20250127T154500
+SUMMARY:Analogues of the Thurston norm in groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Monika Kudlinska (University of Cambridge)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-01-27-ku
+ dlinska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-01-27-kud
+ linska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-03-03-kandybo@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250303T141500
+DTEND;TZID=Europe/Warsaw:20250303T154500
+SUMMARY:CAT(0)-boundaries of graphs of groups are dense amalgams
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Mateusz Kandybo (University of Copenhagen)\nSeminarium: Geometr
+ ia\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-03-03-ka
+ ndybo
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-03-03-kan
+ dybo
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-03-17-osajda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250317T141500
+DTEND;TZID=Europe/Warsaw:20250317T154500
+SUMMARY:Drilling hyperbolic groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Damian Osajda (University of Copenhagen)\nSeminarium: Geometria
+ \nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-03-17-osaj
+ da
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-03-17-osa
+ jda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-03-31-weber@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250331T141500
+DTEND;TZID=Europe/Warsaw:20250331T154500
+SUMMARY:Cztery ścieżki prowadzące do rodzaju eliptycznego
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Andrzej Weber (MIMUW)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2025-03-31-weber
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-03-31-web
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-04-28-gdesz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250428T141500
+DTEND;TZID=Europe/Warsaw:20250428T154500
+SUMMARY:Graph complexes and their applications
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Dominik Gdesz (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2025-04-28-gdesz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-04-28-gde
+ sz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-05-12-pengitore@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250512T141500
+DTEND;TZID=Europe/Warsaw:20250512T154500
+SUMMARY:Growth functions and linearity of automorphism groups of hyperbolic
+  groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Mark Pengitore (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2025-05-12-pengitore
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-05-12-pen
+ gitore
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-05-19-hajac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250519T141500
+DTEND;TZID=Europe/Warsaw:20250519T154500
+SUMMARY:Relation morphisms of directed graphs
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Piotr M. Hajac (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/geometria#2025-05-19-hajac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-05-19-haj
+ ac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-05-26-fournier-facio@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250526T141500
+DTEND;TZID=Europe/Warsaw:20250526T154500
+SUMMARY:Monsters with homological control
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Francesco Fournier-Facio (University of Cambridge)\nSeminarium:
+  Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-
+ 05-26-fournier-facio
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-05-26-fou
+ rnier-facio
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-06-09-levin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250609T141500
+DTEND;TZID=Europe/Warsaw:20250609T154500
+SUMMARY:Equivariant maps to cubical shifts and mean dimension
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Michael Levin (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2025-06-09-levin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-06-09-lev
+ in
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-06-16-dymara@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250616T141500
+DTEND;TZID=Europe/Warsaw:20250616T154500
+SUMMARY:Tautologiczne klasy charakterystyczne
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jan Dymara (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.gith
+ ub.io/Web-Podglad/seminaria/geometria#2025-06-16-dymara
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-06-16-dym
+ ara
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-10-13-karolak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251013T141500
+DTEND;TZID=Europe/Warsaw:20251013T154500
+SUMMARY:Configuration space of two particles in a graph and more
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Andrzej Karolak (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2025-10-13-karolak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-10-13-kar
+ olak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-10-20-mj@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251020T141500
+DTEND;TZID=Europe/Warsaw:20251020T154500
+SUMMARY:Hyperbolic and elliptic commensurations
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Mahan Mj (Tata Institute of Fundamental Research)\nSeminarium: 
+ Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-1
+ 0-20-mj
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-10-20-mj
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-10-27-darbinyan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251027T141500
+DTEND;TZID=Europe/Warsaw:20251027T154500
+SUMMARY:Taut Dehn Spectra and a quasi-isometrically diverse class of bi-ord
+ erable solvable groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Arman Darbinyan (University of Southampton)\nSeminarium: Geomet
+ ria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-10-27-d
+ arbinyan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-10-27-dar
+ binyan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-11-20-tao@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251120T161500
+DTEND;TZID=Europe/Warsaw:20251120T174500
+SUMMARY:Introduction to mapping class groups (mini-course\, part 1)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jing Tao (University of Oklahoma)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-20-tao
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-20-tao
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-11-21-tao@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251121T141500
+DTEND;TZID=Europe/Warsaw:20251121T154500
+SUMMARY:Introduction to mapping class groups (mini-course\, part 2)
+LOCATION:sala 601\, IM UWr
+DESCRIPTION:Jing Tao (University of Oklahoma)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-21-tao
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-21-tao
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-11-24-tao-2@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251124T141500
+DTEND;TZID=Europe/Warsaw:20251124T154500
+SUMMARY:Introduction to mapping class groups (mini-course\, part 3)
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jing Tao (University of Oklahoma)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-24-tao-2
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-24-tao
+ -2
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-11-24-tao@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251124T161500
+DTEND;TZID=Europe/Warsaw:20251124T174500
+SUMMARY:Tame maps of surfaces of infinite type
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Jing Tao (University of Oklahoma)\nSeminarium: Geometria\nhttps
+ ://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-24-tao
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-11-24-tao
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-12-15-jones@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251215T141500
+DTEND;TZID=Europe/Warsaw:20251215T154500
+SUMMARY:JSJ decompositions for Artin groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Oli Jones (TU Berlin)\nSeminarium: Geometria\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/geometria#2025-12-15-jones
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-12-15-jon
+ es
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-12-22-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251222T141500
+DTEND;TZID=Europe/Warsaw:20251222T154500
+SUMMARY:K(π\,1) conjecture for 3-dimensional Artin groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Piotr Przytycki (McGill University)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-12-22-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-12-22-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2025-12-22-sabok@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251222T153000
+DTEND;TZID=Europe/Warsaw:20251222T170000
+SUMMARY:Bowen's Problem 32 and the conjugacy problem for systems with speci
+ fication
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Marcin Sabok (McGill University)\nSeminarium: Geometria\nhttps:
+ //im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-12-22-sabok
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2025-12-22-sab
+ ok
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-01-12-marcinkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260112T141500
+DTEND;TZID=Europe/Warsaw:20260112T154500
+SUMMARY:Sampling from finite groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Michał Marcinkowski (IM UWr)\nSeminarium: Geometria\nhttps://i
+ m-uwr.github.io/Web-Podglad/seminaria/geometria#2026-01-12-marcinkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-01-12-mar
+ cinkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-01-26-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260126T141500
+DTEND;TZID=Europe/Warsaw:20260126T154500
+SUMMARY:Means on groups and degrees of commutativity
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2026-01-26-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-01-26-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-03-02-gui@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260302T141500
+DTEND;TZID=Europe/Warsaw:20260302T154500
+SUMMARY:Fit systolic groups\, exactly
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Huaitao Gui (University of Copenhagen)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-02-gui
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-02-gui
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-03-03-sun@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260303T111500
+DTEND;TZID=Europe/Warsaw:20260303T124500
+SUMMARY:Hyperbolic groups and their applications
+LOCATION:sala EM\, IM UWr
+DESCRIPTION:Bin Sun (Michigan State University)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-03-sun
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-03-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-03-09-hoda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260309T141500
+DTEND;TZID=Europe/Warsaw:20260309T154500
+SUMMARY:Bi-Helly graphs\, Artin groups and the K(π\,1) conjecture
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Nima Hoda (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/geometria#2026-03-09-hoda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-09-hod
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-03-23-karrer@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260323T141500
+DTEND;TZID=Europe/Warsaw:20260323T154500
+SUMMARY:RAAGedy Right-angled Coxeter Groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Annette Karrer (IM UWr)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2026-03-23-karrer
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-23-kar
+ rer
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-03-30-duda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260330T141500
+DTEND;TZID=Europe/Warsaw:20260330T154500
+SUMMARY:Flat Torus Theorem in Small Cancellation setting
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Karol Duda (Politechnika Śląska)\nSeminarium: Geometria\nhttp
+ s://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-30-duda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-03-30-dud
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-04-13-kerr@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260413T141500
+DTEND;TZID=Europe/Warsaw:20260413T154500
+SUMMARY:Stable subgroups in graph products
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Alice Kerr (MPI Leipzig)\nSeminarium: Geometria\nhttps://im-uwr
+ .github.io/Web-Podglad/seminaria/geometria#2026-04-13-kerr
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-04-13-ker
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-04-27-akbari@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260427T141500
+DTEND;TZID=Europe/Warsaw:20260427T154500
+SUMMARY:Solubility Graph of Groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Banafsheh Akbari (IM UWr)\nSeminarium: Geometria\nhttps://im-uw
+ r.github.io/Web-Podglad/seminaria/geometria#2026-04-27-akbari
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-04-27-akb
+ ari
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-05-11-brandenbursky@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260511T091500
+DTEND;TZID=Europe/Warsaw:20260511T104500
+SUMMARY:$L^p$-diameter of the space of contractible loops
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Michael Brandenbursky (Ben-Gurion University)\nSeminarium: Geom
+ etria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-05-11
+ -brandenbursky
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-05-11-bra
+ ndenbursky
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-05-18-valiunas@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260518T141500
+DTEND;TZID=Europe/Warsaw:20260518T154500
+SUMMARY:Equational Noetherianity and growth rates: free-by-cyclic groups an
+ d beyond
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Motiejus Valiunas (IM UWr)\nSeminarium: Geometria\nhttps://im-u
+ wr.github.io/Web-Podglad/seminaria/geometria#2026-05-18-valiunas
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-05-18-val
+ iunas
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-06-15-munro@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260615T141500
+DTEND;TZID=Europe/Warsaw:20260615T154500
+SUMMARY:Residual finiteness of graphs of free groups with cyclic edge group
+ s
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Zachary Munro (University of Bristol)\nSeminarium: Geometria\nh
+ ttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-06-15-munro
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-06-15-mun
+ ro
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-06-29-lazar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260629T141500
+DTEND;TZID=Europe/Warsaw:20260629T154500
+SUMMARY:Minimal filling diagram lemma for triangle-pentagon complexes of gr
+ aphs with convex balls
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Ioana-Claudia Lazăr (Universitatea Politehnica Timișoara)\nSe
+ minarium: Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geomet
+ ria#2026-06-29-lazar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-06-29-laz
+ ar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-07-17-sohoni@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260717T141500
+DTEND;TZID=Europe/Warsaw:20260717T154500
+SUMMARY:JSJ decomposition of certain Right-angled Coxeter groups to disting
+ uish them up to quasi-isometry
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Pranali Sohoni (Ohio State University)\nSeminarium: Geometria\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-07-17-sohoni
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-07-17-soh
+ oni
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-09-29-casals-ruiz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260929T141500
+DTEND;TZID=Europe/Warsaw:20260929T154500
+SUMMARY:On the isomorphism problem for generalised Baumslag-Solitar groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Montserrat Casals-Ruiz (EHU/UPV Bilbao)\nSeminarium: Geometria\
+ nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-09-29-casal
+ s-ruiz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-09-29-cas
+ als-ruiz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-10-19-petyt@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261019T141500
+DTEND;TZID=Europe/Warsaw:20261019T154500
+SUMMARY:Quasiisometric embeddings between right-angled Artin groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Harry Petyt (University of Warwick)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-10-19-petyt
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-10-19-pet
+ yt
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-11-02-cashen@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261102T141500
+DTEND;TZID=Europe/Warsaw:20261102T154500
+SUMMARY:Hierarchical hyperbolicity of Coxeter groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Christopher H. Cashen (TU Wien)\nSeminarium: Geometria\nhttps:/
+ /im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-02-cashen
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-02-cas
+ hen
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-11-16-ruane@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261116T081500
+DTEND;TZID=Europe/Warsaw:20261116T094500
+SUMMARY:Morse Hierarchies
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Kim Ruane (Tufts University)\nSeminarium: Geometria\nhttps://im
+ -uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-16-ruane
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-16-rua
+ ne
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-11-30-conte@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261130T141500
+DTEND;TZID=Europe/Warsaw:20261130T154500
+SUMMARY:On the measure of verbal and definable sets in profinite groups
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Martina Conte (FernUniversität in Hagen)\nSeminarium: Geometri
+ a\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-30-con
+ te
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-11-30-con
+ te
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-12-07-marchand@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261207T141500
+DTEND;TZID=Europe/Warsaw:20261207T154500
+SUMMARY:TBA
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Alexis Marchand (IMPAN)\nSeminarium: Geometria\nhttps://im-uwr.
+ github.io/Web-Podglad/seminaria/geometria#2026-12-07-marchand
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-12-07-mar
+ chand
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2026-12-22-przytycki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261222T141500
+DTEND;TZID=Europe/Warsaw:20261222T154500
+SUMMARY:TBA
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Piotr Przytycki (McGill University)\nSeminarium: Geometria\nhtt
+ ps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-12-22-przytycki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2026-12-22-prz
+ ytycki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2027-01-18-fioravanti@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20270118T141500
+DTEND;TZID=Europe/Warsaw:20270118T154500
+SUMMARY:TBA
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Elia Fioravanti (Karlsruher Institut für Technologie)\nSeminar
+ ium: Geometria\nhttps://im-uwr.github.io/Web-Podglad/seminaria/geometria#2
+ 027-01-18-fioravanti
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2027-01-18-fio
+ ravanti
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2027-02-01-mineh@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20270201T141500
+DTEND;TZID=Europe/Warsaw:20270201T154500
+SUMMARY:TBA
+LOCATION:sala WS\, IM UWr
+DESCRIPTION:Lawk Mineh (Universität Bonn)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2027-02-01-mineh
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2027-02-01-min
+ eh
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-geometria-2027-02-22-douba@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20270222T141500
+DTEND;TZID=Europe/Warsaw:20270222T154500
+SUMMARY:TBA
+DESCRIPTION:Sami Douba (Universität Bonn)\nSeminarium: Geometria\nhttps://
+ im-uwr.github.io/Web-Podglad/seminaria/geometria#2027-02-22-douba
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/geometria#2027-02-22-dou
+ ba
+END:VEVENT
+END:VCALENDAR

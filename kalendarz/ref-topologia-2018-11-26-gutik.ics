@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:On semigroups of partial order isomorphism and co-finite parti
+ al homeomorphisms.
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-topologia-2018-11-26-gutik@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20181126T162000
+DTEND;TZID=Europe/Warsaw:20181126T175000
+SUMMARY:On semigroups of partial order isomorphism and co-finite partial ho
+ meomorphisms.
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Oleg Gutik (Lwów)\nSeminarium: Topologia\nhttps://im-uwr.githu
+ b.io/Web-Podglad/seminaria/topologia#2018-11-26-gutik
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/topologia#2018-11-26-gut
+ ik
+END:VEVENT
+END:VCALENDAR

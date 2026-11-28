@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Teoria i metody numeryczne dla równania różniczkowego cząs
+ tkowego zawierającego kombinację wypukłą ułamkowych pochodnych materi
+ ałowych
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-11-17-woszczek@im-uwr.github.io
+DTSTAMP:20261128T131706Z
+DTSTART;TZID=Europe/Warsaw:20251117T151500
+DTEND;TZID=Europe/Warsaw:20251117T164500
+SUMMARY:Teoria i metody numeryczne dla równania różniczkowego cząstkowe
+ go zawierającego kombinację wypukłą ułamkowych pochodnych materiałow
+ ych
+LOCATION:C-19 A.2.22 PWr
+DESCRIPTION:Hubert Woszczek (Politechnika Wrocławska)\nSeminarium: Równan
+ ia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/rownania-rozniczkowe#2025-11-17-woszczek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-11-17-woszczek
+END:VEVENT
+END:VCALENDAR

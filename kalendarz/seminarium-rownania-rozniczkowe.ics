@@ -1,0 +1,2156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instytut Matematyczny UWr//Strona IM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seminarium: Równania różniczkowe i układy dynamiczne
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2014-10-07-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141007T151500
+DTEND;TZID=Europe/Warsaw:20141007T164500
+SUMMARY:Chemotaxis equation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler\, Jacek Zienkiewicz\, Noriko Mizoguchi\, Tomasz Cie
+ slak\, Grzegorz Karch\, Jan Burczak\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2014-10-07-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 4-10-07-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2014-11-24-zajaczkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141124T151500
+DTEND;TZID=Europe/Warsaw:20141124T164500
+SUMMARY:Problemy stabilności rozwiązań szczególnych dla równań hydrod
+ ynamiki
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wojciech Zajączkowski (IM PAN)\nSeminarium: Równania różnic
+ zkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /rownania-rozniczkowe#2014-11-24-zajaczkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 4-11-24-zajaczkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2014-12-01-wiewiorski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20141201T151500
+DTEND;TZID=Europe/Warsaw:20141201T164500
+SUMMARY:Magnetowizyjna interpretacja efektów krzyżowych w mechanice ekspe
+ rymentalnej – od wizualizacji do modelowania.
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Przemysław Wiewiórski (Politechnika Wrocławska)\nSeminarium:
+  Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/We
+ b-Podglad/seminaria/rownania-rozniczkowe#2014-12-01-wiewiorski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 4-12-01-wiewiorski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-01-19-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150119T151500
+DTEND;TZID=Europe/Warsaw:20150119T164500
+SUMMARY:Twierdzenia o istnieniu rozwiazan dla uogolnieonego rownania Burger
+ sa z operatorem Levy'ego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski\nSeminarium: Równania różniczkowe i układy 
+ dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roznic
+ zkowe#2015-01-19-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-01-19-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-02-23-ntovoris@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150223T151500
+DTEND;TZID=Europe/Warsaw:20150223T164500
+SUMMARY:Level set methods for evolution of surfaces
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Eleftherios Ntovoris (Univ. Paris Est)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2015-02-23-ntovoris
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-02-23-ntovoris
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-03-23-klawe@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20150323T151500
+DTEND;TZID=Europe/Warsaw:20150323T164500
+SUMMARY:Mathematical analysis of thermo-visco-elastic models
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Filip Klawe (Uniwersytet Warszawski)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2015-03-23-klawe
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-03-23-klawe
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-10-19-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151019T151500
+DTEND;TZID=Europe/Warsaw:20151019T164500
+SUMMARY:Nielokalna dyfuzja i jej zastosowania
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski\nSeminarium: Równania różniczkowe i układy 
+ dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roznic
+ zkowe#2015-10-19-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-10-19-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-11-09-wroblewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151109T151500
+DTEND;TZID=Europe/Warsaw:20151109T164500
+SUMMARY:Nieliniowa zasada maximum dla ułamkowego laplasjanu
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Bartosz Wróblewski\nSeminarium: Równania różniczkowe i ukł
+ ady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-ro
+ zniczkowe#2015-11-09-wroblewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-11-09-wroblewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-11-16-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151116T151500
+DTEND;TZID=Europe/Warsaw:20151116T164500
+SUMMARY:Zastosowanie nieliniowej zasady maksimum
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch\nSeminarium: Równania różniczkowe i układy d
+ ynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roznicz
+ kowe#2015-11-16-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-11-16-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-11-16-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151116T161500
+DTEND;TZID=Europe/Warsaw:20151116T174500
+SUMMARY:Numeryczne metody dla ułamkowego laplasjanu
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mateusz Wróbel (Uniwersytet Opolski)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2015-11-16-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-11-16-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2015-12-21-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20151221T151500
+DTEND;TZID=Europe/Warsaw:20151221T164500
+SUMMARY:Lokalne warunki na wybuch rozwiązań układu Kellera-Segel
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2015-12-21-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 5-12-21-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-01-04-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160104T151500
+DTEND;TZID=Europe/Warsaw:20160104T164500
+SUMMARY:Rozwiązania z nieskończoną energią w jednorodnym równaniu Bolt
+ zmanna
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2016-01-04-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-01-04-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-01-11-kowalczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160111T151500
+DTEND;TZID=Europe/Warsaw:20160111T164500
+SUMMARY:Kink dynamics in the $\\phi^4$ model: asymptotic stability for odd 
+ perturbations in the energy space
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michał Kowalczyk (Universidad de Chile)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2016-01-11-kowalczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-01-11-kowalczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-01-18-mydlarczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160118T151500
+DTEND;TZID=Europe/Warsaw:20160118T164500
+SUMMARY:Układ równań całkowych typu Volterry z wybuchającymi rozwiąza
+ niami
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wojciech Mydlarczyk (Politechnika Wrocławska)\nSeminarium: Ró
+ wnania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Po
+ dglad/seminaria/rownania-rozniczkowe#2016-01-18-mydlarczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-01-18-mydlarczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-01-25-celinski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160125T151500
+DTEND;TZID=Europe/Warsaw:20160125T164500
+SUMMARY:O równoważnych definicjach ułamkowego laplasjanu wg pracy Caffar
+ elli i Silvestre
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Rafał Celiński (IM UWr)\nSeminarium: Równania różniczkowe 
+ i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rowna
+ nia-rozniczkowe#2016-01-25-celinski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-01-25-celinski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-02-22-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160222T151500
+DTEND;TZID=Europe/Warsaw:20160222T164500
+SUMMARY:Wybuchy rozwiązań dla pewnych typu równań reakcji-dyfuzji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2016-02-22-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-02-22-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-02-29-jakubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160229T151500
+DTEND;TZID=Europe/Warsaw:20160229T164500
+SUMMARY:Oszacowania rozwiązań fraktalnego równania Burgersa z krytycznym
+  wykładnikiem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Jakubowski (Politechnika Wrocławska)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2016-02-29-jakubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-02-29-jakubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-03-14-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160314T151500
+DTEND;TZID=Europe/Warsaw:20160314T164500
+SUMMARY:Lokalna s-harmoniczność
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2016-03-14-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-03-14-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-03-21-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160321T151500
+DTEND;TZID=Europe/Warsaw:20160321T164500
+SUMMARY:Zagadnienie Dirichleta dla ułamkowego laplasjanu
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2016-03-21-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-03-21-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-04-04-wroblewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160404T151500
+DTEND;TZID=Europe/Warsaw:20160404T164500
+SUMMARY:Przestrzenie Sobolewa ułamkowego rzędu
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Bartłomier Wróblewski (IM UWr)\nSeminarium: Równania różni
+ czkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminari
+ a/rownania-rozniczkowe#2016-04-04-wroblewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-04-04-wroblewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-04-18-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160418T151500
+DTEND;TZID=Europe/Warsaw:20160418T164500
+SUMMARY:O pewnym nielokalnym modelu z biologii matematycznej (niestabilnoś
+ ć Turinga i nieograniczoność rozwiązań)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2016-04-18-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-04-18-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-04-25-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160425T151500
+DTEND;TZID=Europe/Warsaw:20160425T164500
+SUMMARY:Wstęp do teorii dla równania ośrodków porowatych z ułamkowym l
+ aplasjanem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2016-04-25-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-04-25-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-05-09-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160509T151500
+DTEND;TZID=Europe/Warsaw:20160509T164500
+SUMMARY:Wstęp do teorii dla równania ośrodków porowatych z ułamkowym l
+ aplasjanem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2016-05-09-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-05-09-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-05-16-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160516T151500
+DTEND;TZID=Europe/Warsaw:20160516T164500
+SUMMARY:Wstęp do teorii dla równania ośrodków porowatych z ułamkowym l
+ aplasjanem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2016-05-16-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-05-16-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-05-23-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160523T151500
+DTEND;TZID=Europe/Warsaw:20160523T164500
+SUMMARY:Oszacowania a priori dla równania ośrodków porowatych z ułamkow
+ ym laplasjanem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2016-05-23-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-05-23-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-05-30-wroblewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160530T151500
+DTEND;TZID=Europe/Warsaw:20160530T164500
+SUMMARY:Nielokalne równania ośrodków porowatych na półprostej
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Bartosz Wróblewski (IM UWr)\nSeminarium: Równania różniczko
+ we i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ro
+ wnania-rozniczkowe#2016-05-30-wroblewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-05-30-wroblewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-06-06-goncarzewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20160606T151500
+DTEND;TZID=Europe/Warsaw:20160606T164500
+SUMMARY:Klasyczne równania ośrodków porowatych na obszarach nieograniczo
+ nych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jan Goncarzewicz (Politechnika Wrocławska)\nSeminarium: Równa
+ nia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/rownania-rozniczkowe#2016-06-06-goncarzewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-06-06-goncarzewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-10-03-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161003T151500
+DTEND;TZID=Europe/Warsaw:20161003T164500
+SUMMARY:O pewnej zasadzie porównawczej dla rozwiązań układu Kellera-Seg
+ ela z ułamkowym laplasjanem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch\nSeminarium: Równania różniczkowe i układy d
+ ynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roznicz
+ kowe#2016-10-03-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-10-03-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-10-10-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161010T151500
+DTEND;TZID=Europe/Warsaw:20161010T164500
+SUMMARY:Jednoznaczność rozwiązań dla równania ośrodków porowatych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2016-10-10-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-10-10-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-11-07-fujie@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161107T151500
+DTEND;TZID=Europe/Warsaw:20161107T164500
+SUMMARY:Global existence and blow-up in a two-chemical substances chemotaxi
+ s system
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Kentarou Fujie (PAN)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2016-11-07-fujie
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-11-07-fujie
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-11-21-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161121T151500
+DTEND;TZID=Europe/Warsaw:20161121T164500
+SUMMARY:O wybuchach radialnych rozwiązań układu Keller-Segela równań c
+ hemotaksji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2016-11-21-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-11-21-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-11-28-shcherbatyy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161128T151500
+DTEND;TZID=Europe/Warsaw:20161128T164500
+SUMMARY:Optimization of Complex Systems Governed by Ordinary Differential E
+ quations and Partial Differential Equations
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mykhaylo Shcherbatyy (Lviv University)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2016-11-28-shcherbatyy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-11-28-shcherbatyy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2016-12-12-bendikov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20161212T160000
+DTEND;TZID=Europe/Warsaw:20161212T173000
+SUMMARY:Certain isotropic heat kernels on the field of p-adic numbers
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexander Bendikov\nSeminarium: Równania różniczkowe i ukła
+ dy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roz
+ niczkowe#2016-12-12-bendikov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 6-12-12-bendikov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-01-09-bendikov@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170109T160000
+DTEND;TZID=Europe/Warsaw:20170109T173000
+SUMMARY:Certain isotropic heat kernels on the field of p-adic numbers (the 
+ sequel)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexander Bendikov (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2017-01-09-bendikov
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-01-09-bendikov
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-01-16-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170116T151500
+DTEND;TZID=Europe/Warsaw:20170116T164500
+SUMMARY:O pewnym modelu tworzenia się kolonii E. Coli
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2017-01-16-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-01-16-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-01-23-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170123T151500
+DTEND;TZID=Europe/Warsaw:20170123T164500
+SUMMARY:O pewnym modelu tworzenia się kolonii E. Coli - asymptotyka rozwi
+ ązań
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2017-01-23-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-01-23-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-01-30-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170130T151500
+DTEND;TZID=Europe/Warsaw:20170130T164500
+SUMMARY:O wybuchach dla równań chemotaksji z dyfuzją fraktalną
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2017-01-30-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-01-30-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-02-27-kudela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170227T151500
+DTEND;TZID=Europe/Warsaw:20170227T164500
+SUMMARY:O kolapsie wirów punktowych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Henryk Kudela (Politechnika Wrocławska)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2017-02-27-kudela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-02-27-kudela
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-03-06-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170306T151500
+DTEND;TZID=Europe/Warsaw:20170306T164500
+SUMMARY:Przestrzenie Morreya i nieliniowe równanie ciepła
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2017-03-06-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-03-06-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-03-20-szarek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170320T151500
+DTEND;TZID=Europe/Warsaw:20170320T164500
+SUMMARY:O jednakowo ciągłych rodzinach operatorów Markowa i ich ergodycz
+ nych własnościach
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Szarek (Uniwersytet Gdański)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2017-03-20-szarek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-03-20-szarek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-04-03-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170403T151500
+DTEND;TZID=Europe/Warsaw:20170403T164500
+SUMMARY:Równania różniczkowe cząstkowe z losowymi warunkami początkowy
+ mi
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2017-04-03-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-04-03-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-04-10-kropielnicka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170410T151500
+DTEND;TZID=Europe/Warsaw:20170410T164500
+SUMMARY:Metody dekompozycji\, komutatory i algebry Liego\, czyli nowoczesne
+  metody numeryczne. Zastosowanie dla liniowego równania Schroedingera.
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Karolina Kropielnicka (Uniwersytet Gdański i IMPAN)\nSeminariu
+ m: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/rownania-rozniczkowe#2017-04-10-kropielnicka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-04-10-kropielnicka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-04-24-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170424T151500
+DTEND;TZID=Europe/Warsaw:20170424T164500
+SUMMARY:Równania różniczkowe cząstkowe z losowymi warunkami początkowy
+ mi
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2017-04-24-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-04-24-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-05-15-boritchev@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170515T151500
+DTEND;TZID=Europe/Warsaw:20170515T164500
+SUMMARY:Turbulence and sharp estimates for the generalised Burgers equation
+  in 1d\, multi-d and with fractional dissipation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexandre Boritchev (Univ. Lyon 1\, Institute Camille Jordan)\n
+ Seminarium: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.g
+ ithub.io/Web-Podglad/seminaria/rownania-rozniczkowe#2017-05-15-boritchev
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-05-15-boritchev
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-05-29-rutkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170529T151500
+DTEND;TZID=Europe/Warsaw:20170529T164500
+SUMMARY:Problem Dirichleta dla nielokalnych operatorów typu Levy'ego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Artur Rutkowski (Politechnika Wrocławska)\nSeminarium: Równan
+ ia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/rownania-rozniczkowe#2017-05-29-rutkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-05-29-rutkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-06-05-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170605T151500
+DTEND;TZID=Europe/Warsaw:20170605T164500
+SUMMARY:Równanie ośrodków porowatych na obszarach ograniczonych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski\, Grzegorz Karch (IM UWr)\nSeminarium: Równani
+ a różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/rownania-rozniczkowe#2017-06-05-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-06-05-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-06-12-peszek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20170612T151500
+DTEND;TZID=Europe/Warsaw:20170612T164500
+SUMMARY:Nielokalne modele powstawania stad: od układów cząstek do równa
+ ń hydrodynamiki
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jan Peszek (Uniwersytet Warszawski)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2017-06-12-peszek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-06-12-peszek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-10-16-sierzega@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171016T151500
+DTEND;TZID=Europe/Warsaw:20171016T164500
+SUMMARY:Kształt dziedziny\, a tempo wybuchu dla równania Fujity
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mikołaj Sierżęga (Uniwersytet Warszawski)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2017-10-16-sierzega
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-10-16-sierzega
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-10-23-klimsiak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171023T151500
+DTEND;TZID=Europe/Warsaw:20171023T164500
+SUMMARY:Półliniowe równania eliptyczne z operatorami Dirichleta i miaram
+ i borelowskimi
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Klimsiak (Uniwersytet Mikołaja Kopernika)\nSeminarium: 
+ Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web
+ -Podglad/seminaria/rownania-rozniczkowe#2017-10-23-klimsiak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-10-23-klimsiak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-11-06-preisner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171106T151500
+DTEND;TZID=Europe/Warsaw:20171106T164500
+SUMMARY:Wyrażenie energii kinetycznej za pomocą momentów wirowości i za
+ stosowania
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Marcin Preisner (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2017-11-06-preisner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-11-06-preisner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-11-13-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171113T151500
+DTEND;TZID=Europe/Warsaw:20171113T164500
+SUMMARY:Równania z nielokalną dyfuzją i z nieliniowymi źródłami
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2017-11-13-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-11-13-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-11-20-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171120T151500
+DTEND;TZID=Europe/Warsaw:20171120T164500
+SUMMARY:Stabilność rozwiązań stacjonarnych pewnych układów typu reakc
+ ji-dyfuzji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2017-11-20-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-11-20-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-11-27-goncarzewicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171127T151500
+DTEND;TZID=Europe/Warsaw:20171127T164500
+SUMMARY:Równania ośrodków porowatych w obszarach cylindrycznych - asympt
+ otyka rozwiązań
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jan Goncarzewicz (Politechnika Wrocławska)\nSeminarium: Równa
+ nia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/rownania-rozniczkowe#2017-11-27-goncarzewicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-11-27-goncarzewicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-12-04-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171204T151500
+DTEND;TZID=Europe/Warsaw:20171204T164500
+SUMMARY:Rozwiązania stacjonarne modelu chemotaksji w wysokich wymiarach
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2017-12-04-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-12-04-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-12-11-grzywny@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171211T151500
+DTEND;TZID=Europe/Warsaw:20171211T164500
+SUMMARY:Klasy Kato i jądra ciepła dla operatorów Levy'ego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Grzywny (Politechnika Wrocławska)\nSeminarium: Równani
+ a różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/rownania-rozniczkowe#2017-12-11-grzywny
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-12-11-grzywny
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2017-12-18-jakubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20171218T151500
+DTEND;TZID=Europe/Warsaw:20171218T164500
+SUMMARY:Ułamkowy laplasjan z potencjałem Hardy'ego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Jakubowski (Politechnika Wrocławska)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2017-12-18-jakubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 7-12-18-jakubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-01-08-kwasnicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180108T151500
+DTEND;TZID=Europe/Warsaw:20180108T164500
+SUMMARY:Metoda rozszerzeń harmonicznych dla operatorów nielokalnych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mateusz Kwaśnicki (Politechnika Wrocławska)\nSeminarium: Rów
+ nania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/rownania-rozniczkowe#2018-01-08-kwasnicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-01-08-kwasnicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-01-22-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180122T151500
+DTEND;TZID=Europe/Warsaw:20180122T164500
+SUMMARY:Matematyczne wyzwania w teorii chemotaksji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2018-01-22-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-01-22-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-01-29-stanczy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180129T151500
+DTEND;TZID=Europe/Warsaw:20180129T164500
+SUMMARY:Twierdzenia o przełęczy górskiej
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Robert Stańczy (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2018-01-29-stanczy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-01-29-stanczy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-02-19-zheng@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180219T151500
+DTEND;TZID=Europe/Warsaw:20180219T164500
+SUMMARY:Large self-similar solutions to the Navier-Stokes system
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Xiaoxin Zheng (Beihang University\, Pekin)\nSeminarium: Równan
+ ia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/rownania-rozniczkowe#2018-02-19-zheng
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-02-19-zheng
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-02-26-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180226T151500
+DTEND;TZID=Europe/Warsaw:20180226T164500
+SUMMARY:Nowa klasa nielokalnych i nieliniowych równań ewolucyjnych
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Miłosz Krupski\nSeminarium: Równania różniczkowe i układy 
+ dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-roznic
+ zkowe#2018-02-26-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-02-26-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-03-12-przybylowicz@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180312T151500
+DTEND;TZID=Europe/Warsaw:20180312T164500
+SUMMARY:Optymalna aproksymacja stochastycznych równań różniczkowych z s
+ zumami Wienera i Poissona
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Paweł Przybyłowicz (AGH)\nSeminarium: Równania różniczkowe
+  i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rown
+ ania-rozniczkowe#2018-03-12-przybylowicz
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-03-12-przybylowicz
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-03-20-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180320T123000
+DTEND;TZID=Europe/Warsaw:20180320T140000
+SUMMARY:O odkryciach Alana Turinga w biologii
+LOCATION:sala 119\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2018-03-20-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-03-20-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-04-09-szczypkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180409T151500
+DTEND;TZID=Europe/Warsaw:20180409T164500
+SUMMARY:Jądra ciepła dla niesymetrycznych operatorów typu Levy'ego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Karol Szczypkowski (Politechnika Wrocławska)\nSeminarium: Rów
+ nania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/rownania-rozniczkowe#2018-04-09-szczypkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-04-09-szczypkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-05-07-wroblewski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180507T151500
+DTEND;TZID=Europe/Warsaw:20180507T164500
+SUMMARY:Globalne istnienie rozwiązań ułamkowego układu Eulera z wyrówn
+ ywaniem w przestrzeniach Biesowa
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Bartosz Wróblewski (IM UWr)\nSeminarium: Równania różniczko
+ we i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ro
+ wnania-rozniczkowe#2018-05-07-wroblewski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-05-07-wroblewski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-05-14-bathory@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180514T151500
+DTEND;TZID=Europe/Warsaw:20180514T164500
+SUMMARY:Existence of a weak solution to the system describing growth of the
+  nano-layer during metal oxidation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michal Bathory (Uniwersytet Karola w Pradze)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2018-05-14-bathory
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-05-14-bathory
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-05-21-horlach@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180521T151500
+DTEND;TZID=Europe/Warsaw:20180521T164500
+SUMMARY:Time-Domain And Frequency-Domain Problems Of Viscous Heat-Conductin
+ g Fluid Acoustics (Dissipative Acoustics)
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Vitalii Horlach (Lvov)\nSeminarium: Równania różniczkowe i u
+ kłady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania
+ -rozniczkowe#2018-05-21-horlach
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-05-21-horlach
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-05-28-janczewska@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20180528T151500
+DTEND;TZID=Europe/Warsaw:20180528T164500
+SUMMARY:Rozwiązania homo- i heterokliniczne w układach newtonowskich z os
+ obliwością
+DESCRIPTION:Joanna Janczewska (Politechnika Gdańska)\nSeminarium: Równani
+ a różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/rownania-rozniczkowe#2018-05-28-janczewska
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-05-28-janczewska
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-10-01-chlebicka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181001T151500
+DTEND;TZID=Europe/Warsaw:20181001T164500
+SUMMARY:Równania różniczkowe w przestrzeniach Musielaka-Orlicza
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Iwona Chlebicka (MIMUW i IMPAN)\nSeminarium: Równania różnic
+ zkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria
+ /rownania-rozniczkowe#2018-10-01-chlebicka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-10-01-chlebicka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-10-08-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181008T151500
+DTEND;TZID=Europe/Warsaw:20181008T164500
+SUMMARY:O pewnym nielokalnym równaniu opisującym wzory na rybach
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2018-10-08-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-10-08-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-10-15-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181015T151500
+DTEND;TZID=Europe/Warsaw:20181015T164500
+SUMMARY:Twierdzenie Schaudera i stany stacjonarne w pewnym nielokalnym mode
+ lu powstawania wzorów
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2018-10-15-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-10-15-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-10-22-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181022T151500
+DTEND;TZID=Europe/Warsaw:20181022T164500
+SUMMARY:Stabilność rozwiązań osobliwych nieliniowego równania ciepła
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2018-10-22-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-10-22-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-10-29-mazowiecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181029T151500
+DTEND;TZID=Europe/Warsaw:20181029T164500
+SUMMARY:Fractional div-curl quantities and applications to nonlocal geometr
+ ic equations
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Katarzyna Mazowiecka (UC Louvain)\nSeminarium: Równania różn
+ iczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/rownania-rozniczkowe#2018-10-29-mazowiecka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-10-29-mazowiecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-11-19-schino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181119T151500
+DTEND;TZID=Europe/Warsaw:20181119T164500
+SUMMARY:A semilinear curl-curl problem in R^3
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Jacopo Schino (IMPAN)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2018-11-19-schino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-11-19-schino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2018-12-10-bieganowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20181210T151500
+DTEND;TZID=Europe/Warsaw:20181210T164500
+SUMMARY:Semirelatywistyczne równanie Choquarda z lokalną nieliniowością
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Bartosz Bieganowski (Uniwersytet Mikołaja Kopernika)\nSeminari
+ um: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io
+ /Web-Podglad/seminaria/rownania-rozniczkowe#2018-12-10-bieganowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 8-12-10-bieganowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-01-07-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190107T151500
+DTEND;TZID=Europe/Warsaw:20190107T164500
+SUMMARY:O dużych rozwiązaniach self-similar równań-konwekcji dyfuzji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2019-01-07-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-01-07-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-01-14-gwiazda@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190114T151500
+DTEND;TZID=Europe/Warsaw:20190114T164500
+SUMMARY:Hiperboliczno-paraboliczne modele transportu i wzrostu
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Gwiazda (UW\, IMPAN)\nSeminarium: Równania różniczkowe
+  i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rown
+ ania-rozniczkowe#2019-01-14-gwiazda
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-01-14-gwiazda
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-01-28-stanczy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190128T151500
+DTEND;TZID=Europe/Warsaw:20190128T164500
+SUMMARY:Istnienie rozwiązań oraz przejścia graniczne w modelach galaktyk
+  z uwzględnieniem statystyk Michiego-Kinga
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Robert Stańczy (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2019-01-28-stanczy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-01-28-stanczy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-02-25-jakubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190225T151500
+DTEND;TZID=Europe/Warsaw:20190225T164500
+SUMMARY:Jednostajne asymptotyczne oszacowania rozwiązań równania quasi-g
+ eostroficznego
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Jakubowski (Politechnika Wrocławska)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2019-02-25-jakubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-02-25-jakubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-03-11-wakui@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190311T151500
+DTEND;TZID=Europe/Warsaw:20190311T164500
+SUMMARY:Unboundedness for solutions to a degenerate drift-diffusion equatio
+ n
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Hiroshi Wakui (Tohoku Univ. i Uniwersytet Wrocławski)\nSeminar
+ ium: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/rownania-rozniczkowe#2019-03-11-wakui
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-03-11-wakui
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-03-18-wakui@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190318T151500
+DTEND;TZID=Europe/Warsaw:20190318T164500
+SUMMARY:Unboundedness for solutions to a degenerate drift-diffusion equatio
+ n
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Hiroshi Wakui (Tohoku Univ. i Uniwersytet Wrocławski)\nSeminar
+ ium: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.i
+ o/Web-Podglad/seminaria/rownania-rozniczkowe#2019-03-18-wakui
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-03-18-wakui
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-04-01-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190401T151500
+DTEND;TZID=Europe/Warsaw:20190401T164500
+SUMMARY:Around a singular solution of a nonlocal nonlinear heat equation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2019-04-01-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-04-01-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-04-15-srzednicki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190415T151500
+DTEND;TZID=Europe/Warsaw:20190415T164500
+SUMMARY:On periodic motions of the Whithey's inverted pendulum\; Integrabil
+ ity via reversibility
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Roman Srzednicki\, Maciej Wojtkowski (Uniwersytet Jagielloński
+ \, Uniwersytet Opolski)\nSeminarium: Równania różniczkowe i układy dyn
+ amiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczko
+ we#2019-04-15-srzednicki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-04-15-srzednicki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-06-03-kania@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190603T151500
+DTEND;TZID=Europe/Warsaw:20190603T164500
+SUMMARY:Semilinear Dirichlet problem for the fractional Laplacian
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Edyta Kania (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2019-06-03-kania
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-06-03-kania
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-06-18-stan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20190618T100000
+DTEND;TZID=Europe/Warsaw:20190618T113000
+SUMMARY:Nonlocal diffusion-convection equation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Diana Stan (University of Cantabria\, Santander)\nSeminarium: R
+ ównania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/rownania-rozniczkowe#2019-06-18-stan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-06-18-stan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-10-07-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191007T151500
+DTEND;TZID=Europe/Warsaw:20191007T164500
+SUMMARY:Large self-similar solutions to convection-diffusion equation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2019-10-07-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-10-07-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-10-14-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191014T151500
+DTEND;TZID=Europe/Warsaw:20191014T164500
+SUMMARY:Large self-similar solutions to convection-diffusion equation
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2019-10-14-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-10-14-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-10-24-boritchev@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191024T101500
+DTEND;TZID=Europe/Warsaw:20191024T114500
+SUMMARY:Adding viscosity to hyperbolic conservation laws
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexandre Boritchev (L’Institut Camille Jordan\, Lyon)\nSemin
+ arium: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github
+ .io/Web-Podglad/seminaria/rownania-rozniczkowe#2019-10-24-boritchev
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-10-24-boritchev
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-10-28-wakui@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191028T151500
+DTEND;TZID=Europe/Warsaw:20191028T164500
+SUMMARY:Large self-similar solutions to model of chemotaxis
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Hiroshi Wakui (IM UWr)\nSeminarium: Równania różniczkowe i u
+ kłady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania
+ -rozniczkowe#2019-10-28-wakui
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-10-28-wakui
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-11-25-kudela@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191125T151500
+DTEND;TZID=Europe/Warsaw:20191125T164500
+SUMMARY:Zjawisko kolapsu wirów a struktury koherentne
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Henryk Kudela (Politechnika Wrocławska)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2019-11-25-kudela
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-11-25-kudela
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-12-02-cieslak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191202T151500
+DTEND;TZID=Europe/Warsaw:20191202T164500
+SUMMARY:Hamilton-Jacobi equations with a degenerate Hamiltonian coming from
+  multipeakon problem
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Tomasz Cieślak (IMPAN)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2019-12-02-cieslak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-12-02-cieslak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-12-09-kokocki@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191209T151500
+DTEND;TZID=Europe/Warsaw:20191209T164500
+SUMMARY:Total integrals of solutions for inhomogeneous Painlevé II equatio
+ n
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Kokocki (UMK Toruń)\nSeminarium: Równania różniczkowe
+  i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rown
+ ania-rozniczkowe#2019-12-09-kokocki
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-12-09-kokocki
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2019-12-16-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20191216T151500
+DTEND;TZID=Europe/Warsaw:20191216T164500
+SUMMARY:Control of the jump process in non-local mean field games
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Miłosz Krupski (UWr and NTNU)\nSeminarium: Równania różnicz
+ kowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ rownania-rozniczkowe#2019-12-16-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#201
+ 9-12-16-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2020-01-20-suguro@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200120T151500
+DTEND;TZID=Europe/Warsaw:20200120T164500
+SUMMARY:Moment entropy inequality for a generalized Shannon entropy and an 
+ application
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Takeshi Suguro (Tohoku University)\nSeminarium: Równania róż
+ niczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semina
+ ria/rownania-rozniczkowe#2020-01-20-suguro
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 0-01-20-suguro
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2020-01-27-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200127T151500
+DTEND;TZID=Europe/Warsaw:20200127T164500
+SUMMARY:Concentration phenomena in a diffusive aggregation model
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2020-01-27-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 0-01-27-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2020-03-02-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200302T151500
+DTEND;TZID=Europe/Warsaw:20200302T164500
+SUMMARY:Rabinowitz bifurcation theorem and existence of regular stationary 
+ solutions to reaction-diffusion-ODE systems
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2020-03-02-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 0-03-02-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2020-03-09-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20200309T151500
+DTEND;TZID=Europe/Warsaw:20200309T164500
+SUMMARY:Regular and discontinuous stationary solutions to reaction-diffusio
+ n-ODE systems
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2020-03-09-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 0-03-09-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-04-19-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210419T151500
+DTEND;TZID=Europe/Warsaw:20210419T164500
+SUMMARY:W pełni nieliniowe gry pola średniego (z przykładami)
+LOCATION:Teams
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2021-04-19-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-04-19-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-04-26-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210426T151500
+DTEND;TZID=Europe/Warsaw:20210426T164500
+SUMMARY:Stabilność singularnych rozwiązań układu Naviera-Stokesa
+LOCATION:Teams
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2021-04-26-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-04-26-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-05-10-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210510T151500
+DTEND;TZID=Europe/Warsaw:20210510T164500
+SUMMARY:Regularne i nieciągłe rozwiązania układów reakcji-dyfuzji-ODE
+LOCATION:Teams
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2021-05-10-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-05-10-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-05-17-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210517T151500
+DTEND;TZID=Europe/Warsaw:20210517T164500
+SUMMARY:Stabilność i niestabilność stałych rozwiązań układu chemota
+ ksji
+LOCATION:Teams
+DESCRIPTION:Krzysztof Krawczyk (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2021-05-17-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-05-17-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-05-24-pang@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210524T151500
+DTEND;TZID=Europe/Warsaw:20210524T164500
+SUMMARY:Strong well-posedness of SDEs with random flux
+LOCATION:Teams
+DESCRIPTION:Peter H.C. Pang (NTNU)\nSeminarium: Równania różniczkowe i u
+ kłady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania
+ -rozniczkowe#2021-05-24-pang
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-05-24-pang
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-05-31-schino@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210531T151500
+DTEND;TZID=Europe/Warsaw:20210531T164500
+SUMMARY:A simple approach to entire normalized solutions to an elliptic Sch
+ rödinger equation in the L^2-(super)critical and Sobolev-critical case
+LOCATION:Teams
+DESCRIPTION:Jacopo Schino (IMPAN)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2021-05-31-schino
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-05-31-schino
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-06-07-krupski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210607T151500
+DTEND;TZID=Europe/Warsaw:20210607T164500
+SUMMARY:Zdegenerowane równanie Fokkera-Plancka: istnienie\, stabilność i
+  jednoznaczność.
+LOCATION:Teams
+DESCRIPTION:Miłosz Krupski (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2021-06-07-krupski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-06-07-krupski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-06-14-sapa@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20210614T151500
+DTEND;TZID=Europe/Warsaw:20210614T164500
+SUMMARY:Układ paraboliczno-eliptyczny modelujący biologiczne kanały jono
+ we
+LOCATION:Teams
+DESCRIPTION:Lucjan Sapa (AGH)\nSeminarium: Równania różniczkowe i układ
+ y dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozn
+ iczkowe#2021-06-14-sapa
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-06-14-sapa
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-10-04-chowdhury@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211004T151500
+DTEND;TZID=Europe/Warsaw:20211004T164500
+SUMMARY:Error estimates for approximations of solutions of Hamilton-Jacobi 
+ equations
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Indranil Chowdhury (PMF\, University of Zagreb)\nSeminarium: R
+ ównania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/rownania-rozniczkowe#2021-10-04-chowdhury
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-10-04-chowdhury
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-10-18-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211018T151500
+DTEND;TZID=Europe/Warsaw:20211018T164500
+SUMMARY:Istnienie słabych rozwiązań nieliniowego równania dyfuzji z nie
+ lokalnym ciśnieniem
+LOCATION:603/Teams
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2021-10-18-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-10-18-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-10-25-wagner@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211025T151500
+DTEND;TZID=Europe/Warsaw:20211025T164500
+SUMMARY:Semilinear equations for non-local operators: beyond the fractional
+  Laplacian
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Vanja Wagner (University of Zagreb)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2021-10-25-wagner
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-10-25-wagner
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2021-11-08-kryspin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20211108T151500
+DTEND;TZID=Europe/Warsaw:20211108T164500
+SUMMARY:Partial Differential Equations of Parabolic Type with Variable Dela
+ y
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Marek Kryspin (Politechnika Wrocławska)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2021-11-08-kryspin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 1-11-08-kryspin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-03-07-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220307T151500
+DTEND;TZID=Europe/Warsaw:20220307T164500
+SUMMARY:Rozwiązania globalne w czasie parabolicznego układu chemotaksji (
+ i podobnych układów parabolicznych)
+LOCATION:604/Teams
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2022-03-07-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-03-07-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-03-14-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220314T151500
+DTEND;TZID=Europe/Warsaw:20220314T164500
+SUMMARY:Metody wariacyjne w badaniu rozwiązań stacjonarnych równań reak
+ cji-dyfuzji
+LOCATION:603/Teams
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2022-03-14-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-03-14-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-03-28-cygan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220328T151500
+DTEND;TZID=Europe/Warsaw:20220328T164500
+SUMMARY:Niestabilność regularnych rozwiązań stacjonarnych pewnych równ
+ ań reakcji-dyfuzji
+LOCATION:sala 604\, IM UWr
+DESCRIPTION:Szymon Cygan (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2022-03-28-cygan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-03-28-cygan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-04-11-knosalla@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220411T151500
+DTEND;TZID=Europe/Warsaw:20220411T164500
+SUMMARY:O rozwiązaniach stacjonarnych pewnego modelu chemotaksji ze wzrost
+ em
+LOCATION:603/Teams
+DESCRIPTION:Piotr Knosalla (Uniwersytet Opolski)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2022-04-11-knosalla
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-04-11-knosalla
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-04-25-stanczy@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220425T151500
+DTEND;TZID=Europe/Warsaw:20220425T164500
+SUMMARY:Sferycznie symetryczne rozwiązania równań Einsteina z uwzględni
+ eniem równania stanu opisującego Drogę Mleczną
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Robert Stańczy (IM UWr)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2022-04-25-stanczy
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-04-25-stanczy
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-05-09-wrobel@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220509T151500
+DTEND;TZID=Europe/Warsaw:20220509T164500
+SUMMARY:Metody numeryczne dla zagadnień nielokalnych w obszarach ograniczo
+ nych.
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Mateusz Wróbel (Uniwersytet Opolski)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2022-05-09-wrobel
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-05-09-wrobel
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-05-23-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220523T151500
+DTEND;TZID=Europe/Warsaw:20220523T164500
+SUMMARY:Rozwiązania stacjonarne jednowymiarowego równania agregacji-dyfuz
+ ji
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Krawczyk (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2022-05-23-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-05-23-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-05-30-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220530T151500
+DTEND;TZID=Europe/Warsaw:20220530T164500
+SUMMARY:Rozwiązania stacjonarne jednowymiarowego równania agregacji-dyfuz
+ ji
+LOCATION:602/Teams
+DESCRIPTION:Krzysztof Krawczyk (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2022-05-30-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-05-30-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-06-06-tadej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20220606T151500
+DTEND;TZID=Europe/Warsaw:20220606T164500
+SUMMARY:Zagadnienie brzegowo-początkowe dla pewnego liniowego nielokalnego
+  równania ewolucyjnego
+LOCATION:602/Teams
+DESCRIPTION:Maciej Tadej (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2022-06-06-tadej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-06-06-tadej
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-10-10-stan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221010T151500
+DTEND;TZID=Europe/Warsaw:20221010T164500
+SUMMARY:On a porous medium equation with nonlocal pressure
+LOCATION:602/Teams
+DESCRIPTION:Diana Stan (Universidad de Cantabria)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2022-10-10-stan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-10-10-stan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2022-12-12-kowalczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20221212T151500
+DTEND;TZID=Europe/Warsaw:20221212T164500
+SUMMARY:Generation of vortices for the Ginzburg-Landau heat flow
+LOCATION:602/Teams
+DESCRIPTION:Michał Kowalczyk (Universidad de Chile)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2022-12-12-kowalczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 2-12-12-kowalczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-03-20-hecht@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230320T151500
+DTEND;TZID=Europe/Warsaw:20230320T164500
+SUMMARY:Euclidean Degree Newton-Lagrange Interpolation Fastens Spectral PDE
+  Solvers on Surfaces and High-Dimensional Spaces
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michael Hecht (CASUS/HZDR)\nSeminarium: Równania różniczkowe
+  i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rown
+ ania-rozniczkowe#2023-03-20-hecht
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-03-20-hecht
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-03-27-vojnovic@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230327T151500
+DTEND;TZID=Europe/Warsaw:20230327T164500
+SUMMARY:Generalised solutions to linear and non-linear Schroedinger-type eq
+ uations with singularities
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Ivana Vojnović (University of Novi Sad)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2023-03-27-vojnovic
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-03-27-vojnovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-04-17-biler@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230417T151500
+DTEND;TZID=Europe/Warsaw:20230417T164500
+SUMMARY:Luis Angel Caffarelli - laureat Nagrody Abela 2023
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Biler (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2023-04-17-biler
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-04-17-biler
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-05-15-lanar@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230515T151500
+DTEND;TZID=Europe/Warsaw:20230515T164500
+SUMMARY:The parabolic-parabolic Keller-Segel system and two toy models: wel
+ l-posedness and blow-up
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Alexandre Lanar (Univ. Lyon 1)\nSeminarium: Równania różnicz
+ kowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/
+ rownania-rozniczkowe#2023-05-15-lanar
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-05-15-lanar
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-05-22-brandolese@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20230522T151500
+DTEND;TZID=Europe/Warsaw:20230522T164500
+SUMMARY:Geometric structure of 2D Navier-Stokes flows
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Lorenzo Brandolese (Univ. Lyon 1)\nSeminarium: Równania różn
+ iczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminar
+ ia/rownania-rozniczkowe#2023-05-22-brandolese
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-05-22-brandolese
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-10-23-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231023T151500
+DTEND;TZID=Europe/Warsaw:20231023T164500
+SUMMARY:Duże rozwiązania samopodobne dla równania Boussinesqa
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2023-10-23-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-10-23-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-10-30-borowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231030T151500
+DTEND;TZID=Europe/Warsaw:20231030T164500
+SUMMARY:Lavrentiev's phenomenon for double phase functionals
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Michał Borowski (Uniwersytet Warszawski)\nSeminarium: Równani
+ a różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/rownania-rozniczkowe#2023-10-30-borowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-10-30-borowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-11-06-tadej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231106T151500
+DTEND;TZID=Europe/Warsaw:20231106T164500
+SUMMARY:Asymptotics & stability in non-local dispersion problems
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Maciej Tadej (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2023-11-06-tadej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-11-06-tadej
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-11-13-champagnat@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231113T151500
+DTEND;TZID=Europe/Warsaw:20231113T164500
+SUMMARY:Links between individual-based models and Hamilton-Jacobi equations
+  in adaptive dynamics
+LOCATION:ONLINE
+DESCRIPTION:Nicolas Champagnat (INRIA\, France)\nSeminarium: Równania ró
+ żniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/semi
+ naria/rownania-rozniczkowe#2023-11-13-champagnat
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-11-13-champagnat
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-11-20-kowalski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231120T151500
+DTEND;TZID=Europe/Warsaw:20231120T164500
+SUMMARY:Równania różniczkowe i teoria modeli
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Piotr Kowalski (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2023-11-20-kowalski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-11-20-kowalski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2023-11-27-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20231127T151500
+DTEND;TZID=Europe/Warsaw:20231127T164500
+SUMMARY:Rozwiązania stacjonarne równań typu dyfuzji-agregacji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Krawczyk (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2023-11-27-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 3-11-27-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-01-29-mazowiecka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240129T151500
+DTEND;TZID=Europe/Warsaw:20240129T164500
+SUMMARY:Regularity of minimizing p-harmonic maps into spheres
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Katarzyna Mazowiecka (MIMUW)\nSeminarium: Równania różniczko
+ we i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/ro
+ wnania-rozniczkowe#2024-01-29-mazowiecka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-01-29-mazowiecka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-01-29-rodiac@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240129T161500
+DTEND;TZID=Europe/Warsaw:20240129T174500
+SUMMARY:Large systems of interacting points at equilibrium in the plane
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Remy Rodiac (MIMUW & l'Université Paris-Saclay)\nSeminarium: R
+ ównania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-
+ Podglad/seminaria/rownania-rozniczkowe#2024-01-29-rodiac
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-01-29-rodiac
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-03-18-mydlarczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20240318T151500
+DTEND;TZID=Europe/Warsaw:20240318T164500
+SUMMARY:Coupled Volterra integral equations with blowing up solutions
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Wojciech Mydlarczyk (PWr)\nSeminarium: Równania różniczkowe 
+ i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rowna
+ nia-rozniczkowe#2024-03-18-mydlarczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-03-18-mydlarczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-10-07-krawczyk@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241007T151500
+DTEND;TZID=Europe/Warsaw:20241007T164500
+SUMMARY:Aproksymacja wybuchów w równaniach agregacji-dyfuzji
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Krzysztof Krawczyk (IM UWr)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2024-10-07-krawczyk
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-10-07-krawczyk
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-10-14-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241014T151500
+DTEND;TZID=Europe/Warsaw:20241014T164500
+SUMMARY:Euler alignment system: istnienie i asymptotyka rozwiązań
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2024-10-14-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-10-14-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-10-21-grzywny@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241021T151500
+DTEND;TZID=Europe/Warsaw:20241021T164500
+SUMMARY:Nielokalna krzywizna i poziomicowy paraboliczny problem Cauchy'ego
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Grzywny (Politechnika Wrocławska)\nSeminarium: Równani
+ a różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad
+ /seminaria/rownania-rozniczkowe#2024-10-21-grzywny
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-10-21-grzywny
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-10-28-jakubowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241028T151500
+DTEND;TZID=Europe/Warsaw:20241028T164500
+SUMMARY:Fraktalne równanie Burgersa z osobliwym warunkiem początkowym
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Tomasz Jakubowski (Politechnika Wrocławska)\nSeminarium: Równ
+ ania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podg
+ lad/seminaria/rownania-rozniczkowe#2024-10-28-jakubowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-10-28-jakubowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-11-18-kryspin@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241118T151500
+DTEND;TZID=Europe/Warsaw:20241118T164500
+SUMMARY:O integracji i dezintegracji miar w równaniach różniczkowych
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Marek Kryspin (Politechnika Wrocławska)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2024-11-18-kryspin
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-11-18-kryspin
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2024-12-09-de-lellis@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20241209T143000
+DTEND;TZID=Europe/Warsaw:20241209T160000
+SUMMARY:Flows of nonsmooth vector fields
+LOCATION:Online (405)
+DESCRIPTION:Camillo De Lellis (Institute for Advanced Study\, Princeton)\nS
+ eminarium: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.gi
+ thub.io/Web-Podglad/seminaria/rownania-rozniczkowe#2024-12-09-de-lellis
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 4-12-09-de-lellis
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-01-20-bogdan@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250120T151500
+DTEND;TZID=Europe/Warsaw:20250120T164500
+SUMMARY:Nonlocal operators with Neumann conditions
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Krzysztof Bogdan (Politechnika Wrocławska)\nSeminarium: Równa
+ nia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/rownania-rozniczkowe#2025-01-20-bogdan
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-01-20-bogdan
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-02-17-miasojedow@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250217T161500
+DTEND;TZID=Europe/Warsaw:20250217T174500
+SUMMARY:Discretization of Langevin Diffusion Beyond Lipschitz Continuity of
+  Drift Coefficient
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Błażej Miasojedow (MIMUW)\nSeminarium: Równania różniczkow
+ e i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/row
+ nania-rozniczkowe#2025-02-17-miasojedow
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-02-17-miasojedow
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-02-17-chlebicka@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250217T161500
+DTEND;TZID=Europe/Warsaw:20250217T174500
+SUMMARY:Approximation in the Calculus of Variations
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Iwona Chlebicka (MIMUW)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2025-02-17-chlebicka
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-02-17-chlebicka
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-05-05-tadej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250505T151500
+DTEND;TZID=Europe/Warsaw:20250505T164500
+SUMMARY:Critical patch size and insufficient maximal biomass density level 
+ in the Klausmeier vegetation model with non-local dispersal on flat landsc
+ apes
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Maciej Tadej (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2025-05-05-tadej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-05-05-tadej
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-05-19-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250519T151500
+DTEND;TZID=Europe/Warsaw:20250519T164500
+SUMMARY:Równania różniczkowe cząstkowe z ułamkową pochodną po czasie
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (IM UWr)\nSeminarium: Równania różniczkowe i 
+ układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownani
+ a-rozniczkowe#2025-05-19-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-05-19-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-05-26-ignat@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250526T151500
+DTEND;TZID=Europe/Warsaw:20250526T164500
+SUMMARY:Approximations of the best constants
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Liviu Ignat (Simion Stoilow Institute of Mathematics of the Rom
+ anian Academy)\nSeminarium: Równania różniczkowe i układy dynamiczne\n
+ https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#2025-0
+ 5-26-ignat
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-05-26-ignat
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-06-16-fabisiak@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20250616T151500
+DTEND;TZID=Europe/Warsaw:20250616T164500
+SUMMARY:Monokineticity and mean-field limit for strongly singular Cucker-Sm
+ ale model
+LOCATION:sala 602\, IM UWr
+DESCRIPTION:Michał Fabisiak (MIMUW)\nSeminarium: Równania różniczkowe i
+  układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownan
+ ia-rozniczkowe#2025-06-16-fabisiak
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-06-16-fabisiak
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-11-17-woszczek@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251117T151500
+DTEND;TZID=Europe/Warsaw:20251117T164500
+SUMMARY:Teoria i metody numeryczne dla równania różniczkowego cząstkowe
+ go zawierającego kombinację wypukłą ułamkowych pochodnych materiałow
+ ych
+LOCATION:C-19 A.2.22 PWr
+DESCRIPTION:Hubert Woszczek (Politechnika Wrocławska)\nSeminarium: Równan
+ ia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgla
+ d/seminaria/rownania-rozniczkowe#2025-11-17-woszczek
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-11-17-woszczek
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2025-12-15-szczypkowski@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20251215T151500
+DTEND;TZID=Europe/Warsaw:20251215T164500
+SUMMARY:Laplasjan z potencjałem Hardy'ego
+LOCATION:A22 IM PWr
+DESCRIPTION:Karol Szczypkowski (Politechnika Wrocławska)\nSeminarium: Rów
+ nania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Pod
+ glad/seminaria/rownania-rozniczkowe#2025-12-15-szczypkowski
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 5-12-15-szczypkowski
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-01-19-soga@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260119T151500
+DTEND;TZID=Europe/Warsaw:20260119T164500
+SUMMARY:A sharp criterion and complete classification of global-in-time sol
+ utions and finite time blow-up of solutions to a chemotaxis system in supe
+ rcritical dimensions
+LOCATION:A 2.22 PWr IM C-19
+DESCRIPTION:Yuri Soga (Tohoku University\, Sendai)\nSeminarium: Równania r
+ óżniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/se
+ minaria/rownania-rozniczkowe#2026-01-19-soga
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-01-19-soga
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-04-27-tadej@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260427T151500
+DTEND;TZID=Europe/Warsaw:20260427T164500
+SUMMARY:Eigenvalues and eigenfunctions of the non-local dispersal operator 
+ with Neumann-type boundary condition
+LOCATION:A.4.1 PWr
+DESCRIPTION:Maciej Tadej (IM UWr)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2026-04-27-tadej
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-04-27-tadej
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-09-21-vazquez@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20260921T151500
+DTEND;TZID=Europe/Warsaw:20260921T164500
+SUMMARY:PDE models of diffusion: linear and nonlinear\, local and nonlocal
+LOCATION:sala HS\, IM UWr
+DESCRIPTION:Juan Luis Vázquez (Universidad Autónoma de Madrid)\nSeminariu
+ m: Równania różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/
+ Web-Podglad/seminaria/rownania-rozniczkowe#2026-09-21-vazquez
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-09-21-vazquez
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-10-05-karch@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261005T151500
+DTEND;TZID=Europe/Warsaw:20261005T164500
+SUMMARY:Rozwiązania automorficzne (self-similar) równań konwekcji-dyfuzj
+ i
+LOCATION:sala 603\, IM UWr
+DESCRIPTION:Grzegorz Karch (Uniwersytet Wrocławski)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2026-10-05-karch
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-10-05-karch
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-10-12-karch-2@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261012T151500
+DTEND;TZID=Europe/Warsaw:20261012T164500
+SUMMARY:Rozwiązania automorficzne (self-similar) równań konwekcji-dyfuzj
+ i
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Grzegorz Karch (Uniwersytet Wrocławski)\nSeminarium: Równania
+  różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/
+ seminaria/rownania-rozniczkowe#2026-10-12-karch-2
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-10-12-karch-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-10-19-lien@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261019T151500
+DTEND;TZID=Europe/Warsaw:20261019T164500
+SUMMARY:A Schauder regularity theory for nonlocal viscous Hamilton–Jacobi
+  equations
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Robin Østern Lien (NTNU)\nSeminarium: Równania różniczkowe 
+ i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rowna
+ nia-rozniczkowe#2026-10-19-lien
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-10-19-lien
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-10-26-jakobsen@im-uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261026T151500
+DTEND;TZID=Europe/Warsaw:20261026T164500
+SUMMARY:Long time behaviour of mean field games with fractional diffusion
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Espen Jakobsen (NTNU)\nSeminarium: Równania różniczkowe i uk
+ łady dynamiczne\nhttps://im-uwr.github.io/Web-Podglad/seminaria/rownania-
+ rozniczkowe#2026-10-26-jakobsen
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-10-26-jakobsen
+END:VEVENT
+BEGIN:VEVENT
+UID:ref-rownania-rozniczkowe-2026-11-22-structure-preserving-numerical-sche
+ mes-for-a-time-fractional-porous-medium-equation-with-nonlocal-pressure@im
+ -uwr.github.io
+DTSTAMP:20261128T131705Z
+DTSTART;TZID=Europe/Warsaw:20261123T151500
+DTEND;TZID=Europe/Warsaw:20261123T164500
+SUMMARY:Structure-Preserving Numerical Schemes for a Time-Fractional Porous
+   Medium Equation with Nonlocal Pressure
+LOCATION:sala 605\, IM UWr
+DESCRIPTION:Hubert Woszczek (Politechnika Wrocławska )\nSeminarium: Równa
+ nia różniczkowe i układy dynamiczne\nhttps://im-uwr.github.io/Web-Podgl
+ ad/seminaria/rownania-rozniczkowe#2026-11-22-structure-preserving-numerica
+ l-schemes-for-a-time-fractional-porous-medium-equation-with-nonlocal-press
+ ure
+URL:https://im-uwr.github.io/Web-Podglad/seminaria/rownania-rozniczkowe#202
+ 6-11-22-structure-preserving-numerical-schemes-for-a-time-fractional-porou
+ s-medium-equation-with-nonlocal-pressure
+END:VEVENT
+END:VCALENDAR
